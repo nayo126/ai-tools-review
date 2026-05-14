@@ -1,0 +1,43 @@
+{
+  "name": "ai-tools-review",
+  "description": "AIツール徹底比較レビュー 完全無人運営",
+  "site_url": "https://nayo126.github.io/ai-tools-review",
+  "site_name": "AIツール比較レビュー",
+  "articles_per_run": 2,
+  "min_words": 2000,
+  "claude_cli": "claude",
+  "categories": {
+    "対話AI比較": "chat-ai",
+    "AI画像生成": "image-ai",
+    "AI動画生成": "video-ai",
+    "AIライティング": "writing-ai",
+    "AIコード補完": "code-ai",
+    "AI音声合成": "voice-ai",
+    "AI検索エンジン": "search-ai",
+    "AIプロダクティビティ": "productivity-ai",
+    "AIデザイン": "design-ai",
+    "AI翻訳": "translation-ai"
+  },
+  "article_types": ["single_review", "vs_comparison", "category_roundup", "buying_guide"],
+  "affiliate": {
+    "enabled_links": false,
+    "comment": "未成年OKの収益源のみ: 楽天アフィ・もしもアフィ・忍者AdMax。Amazon親名義/AdSenseは18歳まで保留。enabled_links=trueで本番リンク注入",
+    "minor_safe_only": true,
+    "moshimo_id": "",
+    "rakuten_keywords": {},
+    "ninja_admax_slot_id": "",
+    "amazon_keywords_parent_account": {},
+    "soft_cta_only": true
+  },
+  "git": {
+    "repo_path": "/Users/tsukaking/ai-tools-review",
+    "branch": "main",
+    "remote": "origin",
+    "user_name": "ai-tools-review-bot",
+    "user_email": "ai-tools-review-bot@local"
+  },
+  "publish_filter": {
+    "ban_words": ["殺", "死ね", "犯罪", "違法薬物"],
+    "ng_topics": ["医療診断", "投資助言（具体的銘柄）", "法律個別相談"]
+  }
+}

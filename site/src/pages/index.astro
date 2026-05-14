@@ -1,0 +1,29 @@
+---
+import { getCollection } from "astro:content";
+import Base from "../layouts/Base.astro";
+
+const posts = (await getCollection("blog", ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+<Base title="AIツール比較レビュー — 高校生のための徹底評価" description="ChatGPT/Claude/Gemini/Midjourney等、最新AIツールを高校生視点で比較レビュー。料金・機能・使いやすさを実測ベースで評価。">
+  <section style="margin: 24px 0 8px;">
+    <p style="color: var(--muted); font-size: 14px;">毎日新しいAIツールのレビュー・比較記事を自動更新中。</p>
+  </section>
+  {posts.length === 0 && (
+    <p>レビューを準備中です。もう少しお待ちください。</p>
+  )}
+  <ul class="post-list">
+    {posts.map((p) => (
+      <li>
+        <time datetime={p.data.pubDate.toISOString()}>
+          {p.data.pubDate.toISOString().slice(0, 10)}
+        </time>
+        <h2><a href={`${import.meta.env.BASE_URL}blog/${p.id}/`}>{p.data.title}</a></h2>
+        <p>{p.data.description}</p>
+        <div style="margin-top:6px;">
+          {p.data.tags.slice(0, 5).map((t) => <span class="tag">#{t}</span>)}
+        </div>
+      </li>
+    ))}
+  </ul>
+</Base>

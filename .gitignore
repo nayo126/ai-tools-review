@@ -1,0 +1,6 @@
+site/node_modules
+site/dist
+site/.astro
+site/.parcel-cache
+logs/*.log
+data/reject_*.md
