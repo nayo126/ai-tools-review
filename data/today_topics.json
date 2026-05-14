@@ -1,74 +1,74 @@
 {
-  "picked_at": "2026-05-14T08:09:12.519984+00:00",
+  "picked_at": "2026-05-14T21:00:05.129608+00:00",
   "count": 2,
   "items": [
     {
-      "type": "vs_comparison",
-      "category": "AIライティング",
-      "key": "vs::Copy.ai::Rytr",
-      "title_hint": "Copy.ai vs Rytr 徹底比較 どっちが高校生におすすめ?",
+      "type": "category_roundup",
+      "category": "対話AI比較",
+      "key": "roundup::対話AI比較",
+      "title_hint": "【2026最新】対話AI比較おすすめ4選 用途別の選び方",
       "tools": [
         {
-          "name": "Copy.ai",
-          "vendor": "Copy.ai",
-          "category": "AIライティング",
-          "price_jpy": "0-5000",
-          "url": "https://copy.ai",
-          "tagline": "短文コピー生成に強い",
-          "best_for": "広告コピー"
+          "name": "ChatGPT",
+          "vendor": "OpenAI",
+          "category": "対話AI比較",
+          "price_jpy": "0-3000",
+          "url": "https://chat.openai.com",
+          "tagline": "最も普及した汎用対話AI",
+          "best_for": "汎用・学習・コーディング"
         },
         {
-          "name": "Rytr",
-          "vendor": "Rytr",
-          "category": "AIライティング",
-          "price_jpy": "0-1500",
-          "url": "https://rytr.me",
-          "tagline": "コスパ重視のライティングAI",
-          "best_for": "ブログ・SNS"
+          "name": "Claude",
+          "vendor": "Anthropic",
+          "category": "対話AI比較",
+          "price_jpy": "0-3000",
+          "url": "https://claude.ai",
+          "tagline": "長文・コーディング・安全性に強い",
+          "best_for": "長文・要約・分析"
+        },
+        {
+          "name": "Gemini",
+          "vendor": "Google",
+          "category": "対話AI比較",
+          "price_jpy": "0-2900",
+          "url": "https://gemini.google.com",
+          "tagline": "Google統合・無料枠が広い",
+          "best_for": "検索連携・無料利用"
+        },
+        {
+          "name": "Grok",
+          "vendor": "xAI",
+          "category": "対話AI比較",
+          "price_jpy": "1500-3000",
+          "url": "https://grok.x.ai",
+          "tagline": "X(Twitter)統合のリアルタイムAI",
+          "best_for": "速報・SNSトレンド"
         }
       ]
     },
     {
-      "type": "buying_guide",
-      "category": "AI動画生成",
-      "key": "guide::AI動画生成",
-      "title_hint": "AI動画生成の選び方完全ガイド 失敗しない7つの基準",
+      "type": "vs_comparison",
+      "category": "AI翻訳",
+      "key": "vs::DeepL::Google翻訳",
+      "title_hint": "DeepL vs Google翻訳 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Kling",
-          "vendor": "Kuaishou",
-          "category": "AI動画生成",
-          "price_jpy": "1000-5000",
-          "url": "https://klingai.com",
-          "tagline": "ELO 1位の動画生成AI",
-          "best_for": "短尺動画・コスパ"
+          "name": "DeepL",
+          "vendor": "DeepL SE",
+          "category": "AI翻訳",
+          "price_jpy": "0-1200",
+          "url": "https://deepl.com",
+          "tagline": "高精度な翻訳AI",
+          "best_for": "翻訳・要約"
         },
         {
-          "name": "Runway Gen-4",
-          "vendor": "Runway",
-          "category": "AI動画生成",
-          "price_jpy": "2000-15000",
-          "url": "https://runwayml.com",
-          "tagline": "映画品質の動画AI",
-          "best_for": "プロ品質・編集統合"
-        },
-        {
-          "name": "Hailuo",
-          "vendor": "MiniMax",
-          "category": "AI動画生成",
-          "price_jpy": "1500",
-          "url": "https://hailuoai.video",
-          "tagline": "1080p/6秒の安価な動画AI",
-          "best_for": "量産・コスト重視"
-        },
-        {
-          "name": "Veo 3",
-          "vendor": "Google DeepMind",
-          "category": "AI動画生成",
-          "price_jpy": "3000-15000",
-          "url": "https://deepmind.google/veo",
-          "tagline": "音声同時生成のハイエンド動画AI",
-          "best_for": "音付き動画・高品質"
+          "name": "Google翻訳",
+          "vendor": "Google",
+          "category": "AI翻訳",
+          "price_jpy": "0",
+          "url": "https://translate.google.com",
+          "tagline": "無料・多言語対応",
+          "best_for": "汎用翻訳"
         }
       ]
     }
