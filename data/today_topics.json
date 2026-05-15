@@ -1,76 +1,47 @@
 {
-  "picked_at": "2026-05-14T21:00:05.129608+00:00",
+  "picked_at": "2026-05-15T21:00:01.621582+00:00",
   "count": 2,
   "items": [
     {
-      "type": "category_roundup",
-      "category": "対話AI比較",
-      "key": "roundup::対話AI比較",
-      "title_hint": "【2026最新】対話AI比較おすすめ4選 用途別の選び方",
+      "type": "vs_comparison",
+      "category": "AIライティング",
+      "key": "vs::Jasper::Catchy",
+      "title_hint": "Jasper vs Catchy 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "ChatGPT",
-          "vendor": "OpenAI",
-          "category": "対話AI比較",
-          "price_jpy": "0-3000",
-          "url": "https://chat.openai.com",
-          "tagline": "最も普及した汎用対話AI",
-          "best_for": "汎用・学習・コーディング"
+          "name": "Jasper",
+          "vendor": "Jasper AI",
+          "category": "AIライティング",
+          "price_jpy": "5000-10000",
+          "url": "https://jasper.ai",
+          "tagline": "マーケ向けライティングAI",
+          "best_for": "コピーライティング"
         },
         {
-          "name": "Claude",
-          "vendor": "Anthropic",
-          "category": "対話AI比較",
-          "price_jpy": "0-3000",
-          "url": "https://claude.ai",
-          "tagline": "長文・コーディング・安全性に強い",
-          "best_for": "長文・要約・分析"
-        },
-        {
-          "name": "Gemini",
-          "vendor": "Google",
-          "category": "対話AI比較",
-          "price_jpy": "0-2900",
-          "url": "https://gemini.google.com",
-          "tagline": "Google統合・無料枠が広い",
-          "best_for": "検索連携・無料利用"
-        },
-        {
-          "name": "Grok",
-          "vendor": "xAI",
-          "category": "対話AI比較",
-          "price_jpy": "1500-3000",
-          "url": "https://grok.x.ai",
-          "tagline": "X(Twitter)統合のリアルタイムAI",
-          "best_for": "速報・SNSトレンド"
+          "name": "Catchy",
+          "vendor": "Catchy Inc",
+          "category": "AIライティング",
+          "price_jpy": "0-7000",
+          "url": "https://lp.ai-copywriter.jp",
+          "tagline": "日本発のAIライティング",
+          "best_for": "日本語コピー"
         }
       ]
     },
     {
-      "type": "vs_comparison",
-      "category": "AI翻訳",
-      "key": "vs::DeepL::Google翻訳",
-      "title_hint": "DeepL vs Google翻訳 徹底比較 どっちが高校生におすすめ?",
-      "tools": [
-        {
-          "name": "DeepL",
-          "vendor": "DeepL SE",
-          "category": "AI翻訳",
-          "price_jpy": "0-1200",
-          "url": "https://deepl.com",
-          "tagline": "高精度な翻訳AI",
-          "best_for": "翻訳・要約"
-        },
-        {
-          "name": "Google翻訳",
-          "vendor": "Google",
-          "category": "AI翻訳",
-          "price_jpy": "0",
-          "url": "https://translate.google.com",
-          "tagline": "無料・多言語対応",
-          "best_for": "汎用翻訳"
-        }
-      ]
+      "type": "single_review",
+      "category": "AIプロダクティビティ",
+      "key": "single::AIVA",
+      "title_hint": "AIVA徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "AIVA",
+        "vendor": "AIVA Technologies",
+        "category": "AIプロダクティビティ",
+        "price_jpy": "0-1700",
+        "url": "https://aiva.ai",
+        "tagline": "クラシック・映像向けAI作曲",
+        "best_for": "クラシック・ループBGM"
+      }
     }
   ]
 }

@@ -1,6 +1,8 @@
 [
   "guide::AI動画生成",
   "roundup::対話AI比較",
+  "single::AIVA",
   "vs::Copy.ai::Rytr",
-  "vs::DeepL::Google翻訳"
+  "vs::DeepL::Google翻訳",
+  "vs::Jasper::Catchy"
 ]
