@@ -1,47 +1,47 @@
 {
-  "picked_at": "2026-05-16T18:24:15.318532+00:00",
+  "picked_at": "2026-05-16T21:00:02.011738+00:00",
   "count": 2,
   "items": [
     {
-      "type": "single_review",
-      "category": "AIデザイン",
-      "key": "single::Canva AI",
-      "title_hint": "Canva AI徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Canva AI",
-        "vendor": "Canva",
-        "category": "AIデザイン",
-        "price_jpy": "0-1500",
-        "url": "https://canva.com",
-        "tagline": "デザインツール統合のAI",
-        "best_for": "SNS画像・プレゼン"
-      }
-    },
-    {
       "type": "vs_comparison",
-      "category": "AIコード補完",
-      "key": "vs::Windsurf::Claude Code",
-      "title_hint": "Windsurf vs Claude Code 徹底比較 どっちが高校生におすすめ?",
+      "category": "AI動画生成",
+      "key": "vs::Runway Gen-4::Hailuo",
+      "title_hint": "Runway Gen-4 vs Hailuo 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Windsurf",
-          "vendor": "Codeium",
-          "category": "AIコード補完",
-          "price_jpy": "0-2200",
-          "url": "https://codeium.com/windsurf",
-          "tagline": "エージェント型のAIエディタ",
-          "best_for": "自動コーディング"
+          "name": "Runway Gen-4",
+          "vendor": "Runway",
+          "category": "AI動画生成",
+          "price_jpy": "2000-15000",
+          "url": "https://runwayml.com",
+          "tagline": "映画品質の動画AI",
+          "best_for": "プロ品質・編集統合"
         },
         {
-          "name": "Claude Code",
-          "vendor": "Anthropic",
-          "category": "AIコード補完",
-          "price_jpy": "0-3000",
-          "url": "https://www.anthropic.com/claude-code",
-          "tagline": "CLIで動くClaude公式コーディングエージェント",
-          "best_for": "ターミナル開発"
+          "name": "Hailuo",
+          "vendor": "MiniMax",
+          "category": "AI動画生成",
+          "price_jpy": "1500",
+          "url": "https://hailuoai.video",
+          "tagline": "1080p/6秒の安価な動画AI",
+          "best_for": "量産・コスト重視"
         }
       ]
+    },
+    {
+      "type": "single_review",
+      "category": "AIプロダクティビティ",
+      "key": "single::Soundraw",
+      "title_hint": "Soundraw徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "Soundraw",
+        "vendor": "Soundraw",
+        "category": "AIプロダクティビティ",
+        "price_jpy": "2550",
+        "url": "https://soundraw.io",
+        "tagline": "ロイヤリティフリーのAI音楽",
+        "best_for": "YouTube安全BGM"
+      }
     }
   ]
 }
