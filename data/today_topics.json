@@ -1,47 +1,47 @@
 {
-  "picked_at": "2026-05-15T21:00:01.621582+00:00",
+  "picked_at": "2026-05-16T18:24:15.318532+00:00",
   "count": 2,
   "items": [
     {
-      "type": "vs_comparison",
-      "category": "AIライティング",
-      "key": "vs::Jasper::Catchy",
-      "title_hint": "Jasper vs Catchy 徹底比較 どっちが高校生におすすめ?",
-      "tools": [
-        {
-          "name": "Jasper",
-          "vendor": "Jasper AI",
-          "category": "AIライティング",
-          "price_jpy": "5000-10000",
-          "url": "https://jasper.ai",
-          "tagline": "マーケ向けライティングAI",
-          "best_for": "コピーライティング"
-        },
-        {
-          "name": "Catchy",
-          "vendor": "Catchy Inc",
-          "category": "AIライティング",
-          "price_jpy": "0-7000",
-          "url": "https://lp.ai-copywriter.jp",
-          "tagline": "日本発のAIライティング",
-          "best_for": "日本語コピー"
-        }
-      ]
+      "type": "single_review",
+      "category": "AIデザイン",
+      "key": "single::Canva AI",
+      "title_hint": "Canva AI徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "Canva AI",
+        "vendor": "Canva",
+        "category": "AIデザイン",
+        "price_jpy": "0-1500",
+        "url": "https://canva.com",
+        "tagline": "デザインツール統合のAI",
+        "best_for": "SNS画像・プレゼン"
+      }
     },
     {
-      "type": "single_review",
-      "category": "AIプロダクティビティ",
-      "key": "single::AIVA",
-      "title_hint": "AIVA徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "AIVA",
-        "vendor": "AIVA Technologies",
-        "category": "AIプロダクティビティ",
-        "price_jpy": "0-1700",
-        "url": "https://aiva.ai",
-        "tagline": "クラシック・映像向けAI作曲",
-        "best_for": "クラシック・ループBGM"
-      }
+      "type": "vs_comparison",
+      "category": "AIコード補完",
+      "key": "vs::Windsurf::Claude Code",
+      "title_hint": "Windsurf vs Claude Code 徹底比較 どっちが高校生におすすめ?",
+      "tools": [
+        {
+          "name": "Windsurf",
+          "vendor": "Codeium",
+          "category": "AIコード補完",
+          "price_jpy": "0-2200",
+          "url": "https://codeium.com/windsurf",
+          "tagline": "エージェント型のAIエディタ",
+          "best_for": "自動コーディング"
+        },
+        {
+          "name": "Claude Code",
+          "vendor": "Anthropic",
+          "category": "AIコード補完",
+          "price_jpy": "0-3000",
+          "url": "https://www.anthropic.com/claude-code",
+          "tagline": "CLIで動くClaude公式コーディングエージェント",
+          "best_for": "ターミナル開発"
+        }
+      ]
     }
   ]
 }

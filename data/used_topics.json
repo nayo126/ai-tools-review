@@ -2,7 +2,9 @@
   "guide::AI動画生成",
   "roundup::対話AI比較",
   "single::AIVA",
+  "single::Canva AI",
   "vs::Copy.ai::Rytr",
   "vs::DeepL::Google翻訳",
-  "vs::Jasper::Catchy"
+  "vs::Jasper::Catchy",
+  "vs::Windsurf::Claude Code"
 ]
