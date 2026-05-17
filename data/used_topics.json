@@ -3,10 +3,12 @@
   "roundup::対話AI比較",
   "single::AIVA",
   "single::Canva AI",
+  "single::Flux",
   "single::Soundraw",
   "vs::Copy.ai::Rytr",
   "vs::DeepL::Google翻訳",
   "vs::Jasper::Catchy",
+  "vs::Kling::Runway Gen-4",
   "vs::Runway Gen-4::Hailuo",
   "vs::Windsurf::Claude Code"
 ]
