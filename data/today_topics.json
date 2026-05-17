@@ -1,46 +1,46 @@
 {
-  "picked_at": "2026-05-17T09:42:27.882340+00:00",
+  "picked_at": "2026-05-17T21:00:05.179774+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AI動画生成",
-      "key": "vs::Kling::Runway Gen-4",
-      "title_hint": "Kling vs Runway Gen-4 徹底比較 どっちが高校生におすすめ?",
+      "category": "AI画像生成",
+      "key": "vs::DALL-E 3::Ideogram",
+      "title_hint": "DALL-E 3 vs Ideogram 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Kling",
-          "vendor": "Kuaishou",
-          "category": "AI動画生成",
-          "price_jpy": "1000-5000",
-          "url": "https://klingai.com",
-          "tagline": "ELO 1位の動画生成AI",
-          "best_for": "短尺動画・コスパ"
+          "name": "DALL-E 3",
+          "vendor": "OpenAI",
+          "category": "AI画像生成",
+          "price_jpy": "3000",
+          "url": "https://openai.com/dall-e",
+          "tagline": "ChatGPT統合の画像生成",
+          "best_for": "プロンプト忠実性"
         },
         {
-          "name": "Runway Gen-4",
-          "vendor": "Runway",
-          "category": "AI動画生成",
-          "price_jpy": "2000-15000",
-          "url": "https://runwayml.com",
-          "tagline": "映画品質の動画AI",
-          "best_for": "プロ品質・編集統合"
+          "name": "Ideogram",
+          "vendor": "Ideogram AI",
+          "category": "AI画像生成",
+          "price_jpy": "0-2000",
+          "url": "https://ideogram.ai",
+          "tagline": "文字入り画像が綺麗",
+          "best_for": "ロゴ・サムネ・看板"
         }
       ]
     },
     {
       "type": "single_review",
       "category": "AI画像生成",
-      "key": "single::Flux",
-      "title_hint": "Flux徹底レビュー 料金・機能・使い方・評判",
+      "key": "single::Midjourney",
+      "title_hint": "Midjourney徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "Flux",
-        "vendor": "Black Forest Labs",
+        "name": "Midjourney",
+        "vendor": "Midjourney Inc",
         "category": "AI画像生成",
-        "price_jpy": "0-1500",
-        "url": "https://blackforestlabs.ai",
-        "tagline": "写実とコスパの新興",
-        "best_for": "写実・人物"
+        "price_jpy": "1500-10000",
+        "url": "https://midjourney.com",
+        "tagline": "美術品質No.1の画像生成",
+        "best_for": "アート・コンセプト画像"
       }
     }
   ]
