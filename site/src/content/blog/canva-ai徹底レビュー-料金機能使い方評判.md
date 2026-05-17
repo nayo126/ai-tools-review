@@ -108,12 +108,7 @@ XやInstagram、Threadsに投稿する画像をMagic Mediaで生成し、Canva�
 - 完全無料で大量にAI生成したい人
 
 
-<aside class="affiliate-card">
-<div class="label">Canva デザイン 入門書 に関連する書籍・教材</div>
-<p>「Canva デザイン 入門書」を実践的に学ぶための参考リソース。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Canva%20%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%20%E5%85%A5%E9%96%80%E6%9B%B8/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Canva デザイン 入門書」関連を見る</a></p>
-<p><a href="https://www.amazon.co.jp/s?k=Canva%20%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%20%E5%85%A5%E9%96%80%E6%9B%B8" target="_blank" rel="sponsored noopener">▶ Amazonで「Canva デザイン 入門書」関連を見る</a></p>
-</aside>
+<!-- AFFILIATE_SLOT:Canva デザイン 入門書 -->
 
 
 ## まとめ

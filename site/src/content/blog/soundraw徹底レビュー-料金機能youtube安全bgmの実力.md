@@ -112,12 +112,14 @@ SunoやUdioは「歌入り曲」を作るのが得意ですが、2026年現在UM
 - クラシック作曲をしたい人(AIVA推奨)
 
 
+
 <aside class="affiliate-card">
 <div class="label">YouTube 副業 始め方 に関連する書籍・教材</div>
 <p>「YouTube 副業 始め方」を実践的に学ぶための参考リソース。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/YouTube%20%E5%89%AF%E6%A5%AD%20%E5%A7%8B%E3%82%81%E6%96%B9/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「YouTube 副業 始め方」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYouTube%2520%25E5%2589%25AF%25E6%25A5%25AD%2520%25E5%25A7%258B%25E3%2582%2581%25E6%2596%25B9%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「YouTube 副業 始め方」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=YouTube%20%E5%89%AF%E6%A5%AD%20%E5%A7%8B%E3%82%81%E6%96%B9" target="_blank" rel="sponsored noopener">▶ Amazonで「YouTube 副業 始め方」関連を見る</a></p>
 </aside>
+
 
 
 ## まとめ

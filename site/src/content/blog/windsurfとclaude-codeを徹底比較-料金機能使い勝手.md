@@ -95,12 +95,7 @@ WindsurfはVS Codeに似た画面構成なので、エディタを触ったこ�
 正直に言うと、僕はターミナル操作が好きなのでClaude Codeをメインに使っています。長い設定ファイルや既存スクリプトを一度に読み込ませて指示できるのが楽だからです。ただ、副業仲間にすすめる時はWindsurfから案内しています。最初の一歩のハードルが低く、画面の安心感があるからです。両方触ってみて、自分の作業スタイルに合うほうを残すのが結果的に近道だと感じました。
 
 
-<aside class="affiliate-card">
-<div class="label">AIコーディング 入門書 に関連する書籍・教材</div>
-<p>「AIコーディング 入門書」を実践的に学ぶための参考リソース。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/AI%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E5%85%A5%E9%96%80%E6%9B%B8/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AIコーディング 入門書」関連を見る</a></p>
-<p><a href="https://www.amazon.co.jp/s?k=AI%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E5%85%A5%E9%96%80%E6%9B%B8" target="_blank" rel="sponsored noopener">▶ Amazonで「AIコーディング 入門書」関連を見る</a></p>
-</aside>
+<!-- AFFILIATE_SLOT:AIコーディング 入門書 -->
 
 
 ## まとめ
