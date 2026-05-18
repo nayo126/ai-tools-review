@@ -1,13 +1,66 @@
 {
-  "picked_at": "2026-05-17T21:00:05.179774+00:00",
+  "picked_at": "2026-05-18T21:00:05.608801+00:00",
   "count": 2,
   "items": [
     {
+      "type": "category_roundup",
+      "category": "AIコード補完",
+      "key": "roundup::AIコード補完",
+      "title_hint": "【2026最新】AIコード補完おすすめ4選 用途別の選び方",
+      "tools": [
+        {
+          "name": "Cursor",
+          "vendor": "Anysphere",
+          "category": "AIコード補完",
+          "price_jpy": "0-3000",
+          "url": "https://cursor.com",
+          "tagline": "AI統合エディタの定番",
+          "best_for": "コーディング・開発"
+        },
+        {
+          "name": "GitHub Copilot",
+          "vendor": "GitHub",
+          "category": "AIコード補完",
+          "price_jpy": "1500-3000",
+          "url": "https://github.com/copilot",
+          "tagline": "IDEで使える老舗のコード補完AI",
+          "best_for": "VSCode/JetBrains統合"
+        },
+        {
+          "name": "Windsurf",
+          "vendor": "Codeium",
+          "category": "AIコード補完",
+          "price_jpy": "0-2200",
+          "url": "https://codeium.com/windsurf",
+          "tagline": "エージェント型のAIエディタ",
+          "best_for": "自動コーディング"
+        },
+        {
+          "name": "Claude Code",
+          "vendor": "Anthropic",
+          "category": "AIコード補完",
+          "price_jpy": "0-3000",
+          "url": "https://www.anthropic.com/claude-code",
+          "tagline": "CLIで動くClaude公式コーディングエージェント",
+          "best_for": "ターミナル開発"
+        }
+      ]
+    },
+    {
       "type": "vs_comparison",
       "category": "AI画像生成",
-      "key": "vs::DALL-E 3::Ideogram",
-      "title_hint": "DALL-E 3 vs Ideogram 徹底比較 どっちが高校生におすすめ?",
+      "key": "vs::Midjourney::DALL-E 3",
+      "title_hint": "Midjourney vs DALL-E 3 徹底比較 どっちが高校生におすすめ?",
       "tools": [
+        {
+          "name": "Midjourney",
+          "vendor": "Midjourney Inc",
+          "category": "AI画像生成",
+          "price_jpy": "1500-10000",
+          "url": "https://midjourney.com",
+          "tagline": "美術品質No.1の画像生成",
+          "best_for": "アート・コンセプト画像"
+        },
         {
           "name": "DALL-E 3",
           "vendor": "OpenAI",
@@ -16,32 +69,8 @@
           "url": "https://openai.com/dall-e",
           "tagline": "ChatGPT統合の画像生成",
           "best_for": "プロンプト忠実性"
-        },
-        {
-          "name": "Ideogram",
-          "vendor": "Ideogram AI",
-          "category": "AI画像生成",
-          "price_jpy": "0-2000",
-          "url": "https://ideogram.ai",
-          "tagline": "文字入り画像が綺麗",
-          "best_for": "ロゴ・サムネ・看板"
         }
       ]
-    },
-    {
-      "type": "single_review",
-      "category": "AI画像生成",
-      "key": "single::Midjourney",
-      "title_hint": "Midjourney徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Midjourney",
-        "vendor": "Midjourney Inc",
-        "category": "AI画像生成",
-        "price_jpy": "1500-10000",
-        "url": "https://midjourney.com",
-        "tagline": "美術品質No.1の画像生成",
-        "best_for": "アート・コンセプト画像"
-      }
     }
   ]
 }

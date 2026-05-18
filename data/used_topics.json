@@ -1,5 +1,6 @@
 [
   "guide::AI動画生成",
+  "roundup::AIコード補完",
   "roundup::対話AI比較",
   "single::AIVA",
   "single::Canva AI",
@@ -11,6 +12,7 @@
   "vs::DeepL::Google翻訳",
   "vs::Jasper::Catchy",
   "vs::Kling::Runway Gen-4",
+  "vs::Midjourney::DALL-E 3",
   "vs::Runway Gen-4::Hailuo",
   "vs::Windsurf::Claude Code"
 ]
