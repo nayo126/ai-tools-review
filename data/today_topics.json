@@ -1,56 +1,12 @@
 {
-  "picked_at": "2026-05-18T21:00:05.608801+00:00",
+  "picked_at": "2026-05-19T09:33:33.590512+00:00",
   "count": 2,
   "items": [
     {
-      "type": "category_roundup",
-      "category": "AIコード補完",
-      "key": "roundup::AIコード補完",
-      "title_hint": "【2026最新】AIコード補完おすすめ4選 用途別の選び方",
-      "tools": [
-        {
-          "name": "Cursor",
-          "vendor": "Anysphere",
-          "category": "AIコード補完",
-          "price_jpy": "0-3000",
-          "url": "https://cursor.com",
-          "tagline": "AI統合エディタの定番",
-          "best_for": "コーディング・開発"
-        },
-        {
-          "name": "GitHub Copilot",
-          "vendor": "GitHub",
-          "category": "AIコード補完",
-          "price_jpy": "1500-3000",
-          "url": "https://github.com/copilot",
-          "tagline": "IDEで使える老舗のコード補完AI",
-          "best_for": "VSCode/JetBrains統合"
-        },
-        {
-          "name": "Windsurf",
-          "vendor": "Codeium",
-          "category": "AIコード補完",
-          "price_jpy": "0-2200",
-          "url": "https://codeium.com/windsurf",
-          "tagline": "エージェント型のAIエディタ",
-          "best_for": "自動コーディング"
-        },
-        {
-          "name": "Claude Code",
-          "vendor": "Anthropic",
-          "category": "AIコード補完",
-          "price_jpy": "0-3000",
-          "url": "https://www.anthropic.com/claude-code",
-          "tagline": "CLIで動くClaude公式コーディングエージェント",
-          "best_for": "ターミナル開発"
-        }
-      ]
-    },
-    {
-      "type": "vs_comparison",
+      "type": "buying_guide",
       "category": "AI画像生成",
-      "key": "vs::Midjourney::DALL-E 3",
-      "title_hint": "Midjourney vs DALL-E 3 徹底比較 どっちが高校生におすすめ?",
+      "key": "guide::AI画像生成",
+      "title_hint": "AI画像生成の選び方完全ガイド 失敗しない7つの基準",
       "tools": [
         {
           "name": "Midjourney",
@@ -62,6 +18,15 @@
           "best_for": "アート・コンセプト画像"
         },
         {
+          "name": "Stable Diffusion",
+          "vendor": "Stability AI",
+          "category": "AI画像生成",
+          "price_jpy": "0-2000",
+          "url": "https://stability.ai",
+          "tagline": "ローカル実行可能なOSS画像生成",
+          "best_for": "ローカル運用・カスタム"
+        },
+        {
           "name": "DALL-E 3",
           "vendor": "OpenAI",
           "category": "AI画像生成",
@@ -69,8 +34,41 @@
           "url": "https://openai.com/dall-e",
           "tagline": "ChatGPT統合の画像生成",
           "best_for": "プロンプト忠実性"
+        },
+        {
+          "name": "Ideogram",
+          "vendor": "Ideogram AI",
+          "category": "AI画像生成",
+          "price_jpy": "0-2000",
+          "url": "https://ideogram.ai",
+          "tagline": "文字入り画像が綺麗",
+          "best_for": "ロゴ・サムネ・看板"
+        },
+        {
+          "name": "Flux",
+          "vendor": "Black Forest Labs",
+          "category": "AI画像生成",
+          "price_jpy": "0-1500",
+          "url": "https://blackforestlabs.ai",
+          "tagline": "写実とコスパの新興",
+          "best_for": "写実・人物"
         }
       ]
+    },
+    {
+      "type": "single_review",
+      "category": "対話AI比較",
+      "key": "single::Claude",
+      "title_hint": "Claude徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "Claude",
+        "vendor": "Anthropic",
+        "category": "対話AI比較",
+        "price_jpy": "0-3000",
+        "url": "https://claude.ai",
+        "tagline": "長文・コーディング・安全性に強い",
+        "best_for": "長文・要約・分析"
+      }
     }
   ]
 }

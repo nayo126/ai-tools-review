@@ -1,9 +1,11 @@
 [
   "guide::AI動画生成",
+  "guide::AI画像生成",
   "roundup::AIコード補完",
   "roundup::対話AI比較",
   "single::AIVA",
   "single::Canva AI",
+  "single::Claude",
   "single::Flux",
   "single::Midjourney",
   "single::Soundraw",
