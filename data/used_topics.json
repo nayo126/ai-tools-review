@@ -6,6 +6,7 @@
   "single::AIVA",
   "single::Canva AI",
   "single::Claude",
+  "single::Claude Code",
   "single::Flux",
   "single::Midjourney",
   "single::Soundraw",
@@ -16,5 +17,6 @@
   "vs::Kling::Runway Gen-4",
   "vs::Midjourney::DALL-E 3",
   "vs::Runway Gen-4::Hailuo",
+  "vs::Suno::Soundraw",
   "vs::Windsurf::Claude Code"
 ]

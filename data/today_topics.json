@@ -1,74 +1,47 @@
 {
-  "picked_at": "2026-05-19T09:33:33.590512+00:00",
+  "picked_at": "2026-05-19T21:00:04.929247+00:00",
   "count": 2,
   "items": [
     {
-      "type": "buying_guide",
-      "category": "AI画像生成",
-      "key": "guide::AI画像生成",
-      "title_hint": "AI画像生成の選び方完全ガイド 失敗しない7つの基準",
-      "tools": [
-        {
-          "name": "Midjourney",
-          "vendor": "Midjourney Inc",
-          "category": "AI画像生成",
-          "price_jpy": "1500-10000",
-          "url": "https://midjourney.com",
-          "tagline": "美術品質No.1の画像生成",
-          "best_for": "アート・コンセプト画像"
-        },
-        {
-          "name": "Stable Diffusion",
-          "vendor": "Stability AI",
-          "category": "AI画像生成",
-          "price_jpy": "0-2000",
-          "url": "https://stability.ai",
-          "tagline": "ローカル実行可能なOSS画像生成",
-          "best_for": "ローカル運用・カスタム"
-        },
-        {
-          "name": "DALL-E 3",
-          "vendor": "OpenAI",
-          "category": "AI画像生成",
-          "price_jpy": "3000",
-          "url": "https://openai.com/dall-e",
-          "tagline": "ChatGPT統合の画像生成",
-          "best_for": "プロンプト忠実性"
-        },
-        {
-          "name": "Ideogram",
-          "vendor": "Ideogram AI",
-          "category": "AI画像生成",
-          "price_jpy": "0-2000",
-          "url": "https://ideogram.ai",
-          "tagline": "文字入り画像が綺麗",
-          "best_for": "ロゴ・サムネ・看板"
-        },
-        {
-          "name": "Flux",
-          "vendor": "Black Forest Labs",
-          "category": "AI画像生成",
-          "price_jpy": "0-1500",
-          "url": "https://blackforestlabs.ai",
-          "tagline": "写実とコスパの新興",
-          "best_for": "写実・人物"
-        }
-      ]
+      "type": "single_review",
+      "category": "AIコード補完",
+      "key": "single::Claude Code",
+      "title_hint": "Claude Code徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "Claude Code",
+        "vendor": "Anthropic",
+        "category": "AIコード補完",
+        "price_jpy": "0-3000",
+        "url": "https://www.anthropic.com/claude-code",
+        "tagline": "CLIで動くClaude公式コーディングエージェント",
+        "best_for": "ターミナル開発"
+      }
     },
     {
-      "type": "single_review",
-      "category": "対話AI比較",
-      "key": "single::Claude",
-      "title_hint": "Claude徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Claude",
-        "vendor": "Anthropic",
-        "category": "対話AI比較",
-        "price_jpy": "0-3000",
-        "url": "https://claude.ai",
-        "tagline": "長文・コーディング・安全性に強い",
-        "best_for": "長文・要約・分析"
-      }
+      "type": "vs_comparison",
+      "category": "AIプロダクティビティ",
+      "key": "vs::Suno::Soundraw",
+      "title_hint": "Suno vs Soundraw 徹底比較 どっちが高校生におすすめ?",
+      "tools": [
+        {
+          "name": "Suno",
+          "vendor": "Suno AI",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "0-1500",
+          "url": "https://suno.com",
+          "tagline": "AI音楽生成の決定版",
+          "best_for": "BGM・楽曲制作"
+        },
+        {
+          "name": "Soundraw",
+          "vendor": "Soundraw",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "2550",
+          "url": "https://soundraw.io",
+          "tagline": "ロイヤリティフリーのAI音楽",
+          "best_for": "YouTube安全BGM"
+        }
+      ]
     }
   ]
 }
