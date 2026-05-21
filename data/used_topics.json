@@ -1,4 +1,5 @@
 [
+  "guide::AIプロダクティビティ",
   "guide::AI動画生成",
   "guide::AI画像生成",
   "roundup::AIコード補完",
@@ -19,6 +20,7 @@
   "vs::Kling::Runway Gen-4",
   "vs::Midjourney::DALL-E 3",
   "vs::Runway Gen-4::Hailuo",
+  "vs::Stable Diffusion::Flux",
   "vs::Suno::Soundraw",
   "vs::Windsurf::Claude Code"
 ]

@@ -1,36 +1,74 @@
 {
-  "picked_at": "2026-05-20T21:00:04.250276+00:00",
+  "picked_at": "2026-05-21T21:00:03.918300+00:00",
   "count": 2,
   "items": [
     {
-      "type": "single_review",
-      "category": "AI動画生成",
-      "key": "single::Kling",
-      "title_hint": "Kling徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Kling",
-        "vendor": "Kuaishou",
-        "category": "AI動画生成",
-        "price_jpy": "1000-5000",
-        "url": "https://klingai.com",
-        "tagline": "ELO 1位の動画生成AI",
-        "best_for": "短尺動画・コスパ"
-      }
+      "type": "buying_guide",
+      "category": "AIプロダクティビティ",
+      "key": "guide::AIプロダクティビティ",
+      "title_hint": "AIプロダクティビティの選び方完全ガイド 失敗しない7つの基準",
+      "tools": [
+        {
+          "name": "Copilot",
+          "vendor": "Microsoft",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "0-3500",
+          "url": "https://copilot.microsoft.com",
+          "tagline": "Office統合の生産性AI",
+          "best_for": "Excel/Word/PPT自動化"
+        },
+        {
+          "name": "Suno",
+          "vendor": "Suno AI",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "0-1500",
+          "url": "https://suno.com",
+          "tagline": "AI音楽生成の決定版",
+          "best_for": "BGM・楽曲制作"
+        },
+        {
+          "name": "AIVA",
+          "vendor": "AIVA Technologies",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "0-1700",
+          "url": "https://aiva.ai",
+          "tagline": "クラシック・映像向けAI作曲",
+          "best_for": "クラシック・ループBGM"
+        },
+        {
+          "name": "Soundraw",
+          "vendor": "Soundraw",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "2550",
+          "url": "https://soundraw.io",
+          "tagline": "ロイヤリティフリーのAI音楽",
+          "best_for": "YouTube安全BGM"
+        },
+        {
+          "name": "Notion AI",
+          "vendor": "Notion",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "1500-2500",
+          "url": "https://notion.so",
+          "tagline": "Notion統合のドキュメントAI",
+          "best_for": "ノート・タスク・要約"
+        }
+      ]
     },
     {
       "type": "vs_comparison",
       "category": "AI画像生成",
-      "key": "vs::DALL-E 3::Flux",
-      "title_hint": "DALL-E 3 vs Flux 徹底比較 どっちが高校生におすすめ?",
+      "key": "vs::Stable Diffusion::Flux",
+      "title_hint": "Stable Diffusion vs Flux 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "DALL-E 3",
-          "vendor": "OpenAI",
+          "name": "Stable Diffusion",
+          "vendor": "Stability AI",
           "category": "AI画像生成",
-          "price_jpy": "3000",
-          "url": "https://openai.com/dall-e",
-          "tagline": "ChatGPT統合の画像生成",
-          "best_for": "プロンプト忠実性"
+          "price_jpy": "0-2000",
+          "url": "https://stability.ai",
+          "tagline": "ローカル実行可能なOSS画像生成",
+          "best_for": "ローカル運用・カスタム"
         },
         {
           "name": "Flux",
