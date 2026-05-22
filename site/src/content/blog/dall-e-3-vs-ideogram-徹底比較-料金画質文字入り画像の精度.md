@@ -99,7 +99,14 @@ UIモックやアイコン候補のラフ出しなら、両者とも使えます
 僕は最初Ideogramの無料枠から入って、SNS用のサムネを作るのに使っています。文字が綺麗に入るので、デザインの知識がなくてもそれっぽく仕上がるのが嬉しいポイント。一方で、勉強や副業の原稿作成でChatGPT Plusも契約しているので、文字なしの挿絵が欲しいときはDALL-E 3にお願いしています。両方を併用して、用途で切り替えるのが個人的にはちょうど良かったです(感じ方には個人差があります)。
 
 
-<!-- AFFILIATE_SLOT:AI画像生成 プロンプト 入門書 -->
+
+<aside class="affiliate-card">
+<div class="label">AI画像生成 プロンプト 入門書 に関連する書籍・教材</div>
+<p>「AI画像生成 プロンプト 入門書」を実践的に学ぶための参考リソース。</p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E7%2594%25BB%25E5%2583%258F%25E7%2594%259F%25E6%2588%2590%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%2520%25E5%2585%25A5%25E9%2596%2580%25E6%259B%25B8%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI画像生成 プロンプト 入門書」関連を見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=AI%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%20%E5%85%A5%E9%96%80%E6%9B%B8" target="_blank" rel="sponsored noopener">▶ Amazonで「AI画像生成 プロンプト 入門書」関連を見る</a></p>
+</aside>
+
 
 
 ## まとめ

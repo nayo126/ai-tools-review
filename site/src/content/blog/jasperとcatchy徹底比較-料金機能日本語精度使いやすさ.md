@@ -94,7 +94,14 @@ Catchyには軽い画像生成機能が付属することもありますが、�
 僕は現在Threadsで「AI×副業」の発信を続けていて、短文コピーや投稿文の下書きを量産したい場面が多いです。そのため最初はCatchyを選びました。日本語の語尾が自然で、テンプレを切り替えるだけでテンションを変えられるのが便利でした。ただ、長文の英語note(海外読者向け)に挑戦しはじめたタイミングでJasperのトライアルも触り、用途で使い分ける形に落ち着いています。あくまで個人の感想なので、自分の発信内容と相談して選んでください。
 
 
-<!-- AFFILIATE_SLOT:AIライティング 副業 入門書 -->
+
+<aside class="affiliate-card">
+<div class="label">AIライティング 副業 入門書 に関連する書籍・教材</div>
+<p>「AIライティング 副業 入門書」を実践的に学ぶための参考リソース。</p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%2520%25E5%2589%25AF%25E6%25A5%25AD%2520%25E5%2585%25A5%25E9%2596%2580%25E6%259B%25B8%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AIライティング 副業 入門書」関連を見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=AI%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E5%89%AF%E6%A5%AD%20%E5%85%A5%E9%96%80%E6%9B%B8" target="_blank" rel="sponsored noopener">▶ Amazonで「AIライティング 副業 入門書」関連を見る</a></p>
+</aside>
+
 
 
 ## まとめ

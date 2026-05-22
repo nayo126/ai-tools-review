@@ -88,7 +88,14 @@ X(旧Twitter)上のリアルタイム情報を参照できるのが大きな個�
 **小まとめ**: 無料で試す→1つだけ課金→出力を必ず検証、の3ステップが安全です。
 
 
-<!-- AFFILIATE_SLOT:ChatGPT Claude 使いこなし 入門書 -->
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT Claude 使いこなし 入門書 に関連する書籍・教材</div>
+<p>「ChatGPT Claude 使いこなし 入門書」を実践的に学ぶための参考リソース。</p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520Claude%2520%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%2593%25E3%2581%25AA%25E3%2581%2597%2520%25E5%2585%25A5%25E9%2596%2580%25E6%259B%25B8%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT Claude 使いこなし 入門書」関連を見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20Claude%20%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%97%20%E5%85%A5%E9%96%80%E6%9B%B8" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT Claude 使いこなし 入門書」関連を見る</a></p>
+</aside>
+
 
 
 ## まとめ

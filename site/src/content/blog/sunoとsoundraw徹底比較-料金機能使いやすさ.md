@@ -89,7 +89,14 @@ TikTokやShortsの背景音楽はSoundrawが鉄板。逆に、歌入りで一発
 僕は学校行事の振り返り動画やSNS用Shortsを作ることが多いので、最初はSoundrawを選びました。尺の調整がスライダーでできるのが本当にラクで、編集ソフトとの相性も良かったです。ただ、文化祭の告知動画で「自分たちのテーマ曲が欲しい」となったときにSunoを併用しました。歌詞を打ち込むだけでそれっぽい曲が出てくるので、見た友達から「これ自作?」と聞かれて少し誇らしかったです。あくまで個人の感想ですが、用途ごとに使い分けるのが一番現実的だと感じました。
 
 
-<!-- AFFILIATE_SLOT:AI音楽 作曲 入門書 -->
+
+<aside class="affiliate-card">
+<div class="label">AI音楽 作曲 入門書 に関連する書籍・教材</div>
+<p>「AI音楽 作曲 入門書」を実践的に学ぶための参考リソース。</p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E9%259F%25B3%25E6%25A5%25BD%2520%25E4%25BD%259C%25E6%259B%25B2%2520%25E5%2585%25A5%25E9%2596%2580%25E6%259B%25B8%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI音楽 作曲 入門書」関連を見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=AI%E9%9F%B3%E6%A5%BD%20%E4%BD%9C%E6%9B%B2%20%E5%85%A5%E9%96%80%E6%9B%B8" target="_blank" rel="sponsored noopener">▶ Amazonで「AI音楽 作曲 入門書」関連を見る</a></p>
+</aside>
+
 
 
 ## まとめ

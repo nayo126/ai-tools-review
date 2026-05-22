@@ -92,7 +92,14 @@ GitHubの英語Issueや、海外ドキュメントを読むときはGoogle翻訳
 僕は普段、英語の長文課題や海外のAI関連記事を読むことが多いので、メインはDeepLを使っています。文章の自然さが段違いで、要点を理解するスピードが上がりました。ただ、外で英語の看板を撮るときや、対応言語が少ないアジア圏の文を訳すときはGoogle翻訳に頼ります。どちらか一方ではなく、両方使い分けるのが現実的な答えだと感じています。
 
 
-<!-- AFFILIATE_SLOT:DeepL 翻訳 活用 書籍 -->
+
+<aside class="affiliate-card">
+<div class="label">DeepL 翻訳 活用 書籍 に関連する書籍・教材</div>
+<p>「DeepL 翻訳 活用 書籍」を実践的に学ぶための参考リソース。</p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDeepL%2520%25E7%25BF%25BB%25E8%25A8%25B3%2520%25E6%25B4%25BB%25E7%2594%25A8%2520%25E6%259B%25B8%25E7%25B1%258D%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「DeepL 翻訳 活用 書籍」関連を見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=DeepL%20%E7%BF%BB%E8%A8%B3%20%E6%B4%BB%E7%94%A8%20%E6%9B%B8%E7%B1%8D" target="_blank" rel="sponsored noopener">▶ Amazonで「DeepL 翻訳 活用 書籍」関連を見る</a></p>
+</aside>
+
 
 
 ## まとめ
