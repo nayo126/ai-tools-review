@@ -106,12 +106,7 @@ Claude(クロード)は、AI企業Anthropic(アンソロピック)が開発し�
 **小まとめ:** 「文章を深く扱う作業」が中心なら本命候補、「画像・速報」目的なら別ツールとの併用が前提です。
 
 
-<aside class="affiliate-card">
-<div class="label">Claude 使い方 入門書 に関連する書籍・教材</div>
-<p>「Claude 使い方 入門書」を実践的に学ぶための参考リソース。</p>
-<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520%25E4%25BD%25BF%25E3%2581%2584%25E6%2596%25B9%2520%25E5%2585%25A5%25E9%2596%2580%25E6%259B%25B8%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude 使い方 入門書」関連を見る</a></p>
-<p><a href="https://www.amazon.co.jp/s?k=Claude%20%E4%BD%BF%E3%81%84%E6%96%B9%20%E5%85%A5%E9%96%80%E6%9B%B8" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude 使い方 入門書」関連を見る</a></p>
-</aside>
+<!-- AFFILIATE_SLOT:Claude 使い方 入門書 -->
 
 
 ## まとめ

@@ -119,12 +119,7 @@ Midjourney(ミッドジャーニー)は、テキスト(プロンプト)を入力
 - PCスペックや学習に時間をかけたくないけど月額も払いたくない人
 
 
-<aside class="affiliate-card">
-<div class="label">Midjourney プロンプト 入門書 に関連する書籍・教材</div>
-<p>「Midjourney プロンプト 入門書」を実践的に学ぶための参考リソース。</p>
-<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMidjourney%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%2520%25E5%2585%25A5%25E9%2596%2580%25E6%259B%25B8%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Midjourney プロンプト 入門書」関連を見る</a></p>
-<p><a href="https://www.amazon.co.jp/s?k=Midjourney%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%20%E5%85%A5%E9%96%80%E6%9B%B8" target="_blank" rel="sponsored noopener">▶ Amazonで「Midjourney プロンプト 入門書」関連を見る</a></p>
-</aside>
+<!-- AFFILIATE_SLOT:Midjourney プロンプト 入門書 -->
 
 
 ## まとめ
