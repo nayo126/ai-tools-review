@@ -29,6 +29,24 @@ def log(msg: str) -> None:
 
 
 def call_claude(prompt: str, retries: int = 2) -> str:
+    # rate-limit-aware: writes ~/RATE_LIMIT_STATE.json on detection so watchdog can resume
+    import sys as _sys
+    _sys.path.insert(0, "/Users/tsukaking/.claude/lib")
+    try:
+        from rate_limit_helper import (
+            looks_like_rate_limit, looks_like_native_binary_missing,
+            mark_rate_limited, mark_clear, is_currently_blocked,
+        )
+    except ImportError:
+        looks_like_rate_limit = lambda t: False
+        looks_like_native_binary_missing = lambda t: False
+        mark_rate_limited = lambda c, h="", reason="": None
+        mark_clear = lambda c: None
+        is_currently_blocked = lambda c: False
+    if is_currently_blocked("claude_cli"):
+        log("claude_cli blocked; skip (watchdog will retry)")
+        return ""
+
     cli = CONFIG.get("claude_cli", "claude")
     for attempt in range(retries + 1):
         try:
@@ -37,8 +55,16 @@ def call_claude(prompt: str, retries: int = 2) -> str:
                 capture_output=True, text=True, timeout=600,
             )
             if r.returncode == 0 and r.stdout.strip():
+                mark_clear("claude_cli")
                 return r.stdout.strip()
-            log(f"claude attempt {attempt+1} rc={r.returncode} err={r.stderr[:200]}")
+            combined = (r.stderr or "") + " " + (r.stdout or "")
+            log(f"claude attempt {attempt+1} rc={r.returncode} err={combined[:200]}")
+            if looks_like_native_binary_missing(combined):
+                mark_rate_limited("claude_cli", combined[:300], reason="native_missing")
+                return ""
+            if looks_like_rate_limit(combined):
+                mark_rate_limited("claude_cli", combined[:300], reason="rate_limit")
+                return ""
         except subprocess.TimeoutExpired:
             log(f"claude attempt {attempt+1} timed out")
         except Exception as e:
