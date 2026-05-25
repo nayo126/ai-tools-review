@@ -1,74 +1,74 @@
 {
-  "picked_at": "2026-05-24T21:00:04.876373+00:00",
+  "picked_at": "2026-05-25T21:00:01.086957+00:00",
   "count": 2,
   "items": [
     {
-      "type": "category_roundup",
-      "category": "AI動画生成",
-      "key": "roundup::AI動画生成",
-      "title_hint": "【2026最新】AI動画生成おすすめ4選 用途別の選び方",
+      "type": "vs_comparison",
+      "category": "AI音声合成",
+      "key": "vs::ElevenLabs::VOICEVOX",
+      "title_hint": "ElevenLabs vs VOICEVOX 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Kling",
-          "vendor": "Kuaishou",
-          "category": "AI動画生成",
-          "price_jpy": "1000-5000",
-          "url": "https://klingai.com",
-          "tagline": "ELO 1位の動画生成AI",
-          "best_for": "短尺動画・コスパ"
+          "name": "ElevenLabs",
+          "vendor": "ElevenLabs",
+          "category": "AI音声合成",
+          "price_jpy": "0-3000",
+          "url": "https://elevenlabs.io",
+          "tagline": "多言語・感情豊かな音声合成",
+          "best_for": "YouTube・ナレーション"
         },
         {
-          "name": "Runway Gen-4",
-          "vendor": "Runway",
-          "category": "AI動画生成",
-          "price_jpy": "2000-15000",
-          "url": "https://runwayml.com",
-          "tagline": "映画品質の動画AI",
-          "best_for": "プロ品質・編集統合"
-        },
-        {
-          "name": "Hailuo",
-          "vendor": "MiniMax",
-          "category": "AI動画生成",
-          "price_jpy": "1500",
-          "url": "https://hailuoai.video",
-          "tagline": "1080p/6秒の安価な動画AI",
-          "best_for": "量産・コスト重視"
-        },
-        {
-          "name": "Veo 3",
-          "vendor": "Google DeepMind",
-          "category": "AI動画生成",
-          "price_jpy": "3000-15000",
-          "url": "https://deepmind.google/veo",
-          "tagline": "音声同時生成のハイエンド動画AI",
-          "best_for": "音付き動画・高品質"
+          "name": "VOICEVOX",
+          "vendor": "Hiroshiba",
+          "category": "AI音声合成",
+          "price_jpy": "0",
+          "url": "https://voicevox.hiroshiba.jp",
+          "tagline": "完全無料の日本語TTS",
+          "best_for": "無料・ゆっくり系"
         }
       ]
     },
     {
-      "type": "vs_comparison",
-      "category": "AIコード補完",
-      "key": "vs::Cursor::Claude Code",
-      "title_hint": "Cursor vs Claude Code 徹底比較 どっちが高校生におすすめ?",
+      "type": "buying_guide",
+      "category": "対話AI比較",
+      "key": "guide::対話AI比較",
+      "title_hint": "対話AI比較の選び方完全ガイド 失敗しない7つの基準",
       "tools": [
         {
-          "name": "Cursor",
-          "vendor": "Anysphere",
-          "category": "AIコード補完",
+          "name": "ChatGPT",
+          "vendor": "OpenAI",
+          "category": "対話AI比較",
           "price_jpy": "0-3000",
-          "url": "https://cursor.com",
-          "tagline": "AI統合エディタの定番",
-          "best_for": "コーディング・開発"
+          "url": "https://chat.openai.com",
+          "tagline": "最も普及した汎用対話AI",
+          "best_for": "汎用・学習・コーディング"
         },
         {
-          "name": "Claude Code",
+          "name": "Claude",
           "vendor": "Anthropic",
-          "category": "AIコード補完",
+          "category": "対話AI比較",
           "price_jpy": "0-3000",
-          "url": "https://www.anthropic.com/claude-code",
-          "tagline": "CLIで動くClaude公式コーディングエージェント",
-          "best_for": "ターミナル開発"
+          "url": "https://claude.ai",
+          "tagline": "長文・コーディング・安全性に強い",
+          "best_for": "長文・要約・分析"
+        },
+        {
+          "name": "Gemini",
+          "vendor": "Google",
+          "category": "対話AI比較",
+          "price_jpy": "0-2900",
+          "url": "https://gemini.google.com",
+          "tagline": "Google統合・無料枠が広い",
+          "best_for": "検索連携・無料利用"
+        },
+        {
+          "name": "Grok",
+          "vendor": "xAI",
+          "category": "対話AI比較",
+          "price_jpy": "1500-3000",
+          "url": "https://grok.x.ai",
+          "tagline": "X(Twitter)統合のリアルタイムAI",
+          "best_for": "速報・SNSトレンド"
         }
       ]
     }
