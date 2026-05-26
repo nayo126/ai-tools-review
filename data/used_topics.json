@@ -11,6 +11,7 @@
   "single::Canva AI",
   "single::Claude",
   "single::Claude Code",
+  "single::Figma AI",
   "single::Flux",
   "single::Ideogram",
   "single::Kling",
@@ -26,6 +27,7 @@
   "vs::Kling::Runway Gen-4",
   "vs::Midjourney::DALL-E 3",
   "vs::Runway Gen-4::Hailuo",
+  "vs::Stable Diffusion::DALL-E 3",
   "vs::Stable Diffusion::Flux",
   "vs::Suno::Soundraw",
   "vs::Windsurf::Claude Code"

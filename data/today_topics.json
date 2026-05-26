@@ -1,76 +1,47 @@
 {
-  "picked_at": "2026-05-25T21:00:01.086957+00:00",
+  "picked_at": "2026-05-26T21:00:05.419181+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AI音声合成",
-      "key": "vs::ElevenLabs::VOICEVOX",
-      "title_hint": "ElevenLabs vs VOICEVOX 徹底比較 どっちが高校生におすすめ?",
+      "category": "AI画像生成",
+      "key": "vs::Stable Diffusion::DALL-E 3",
+      "title_hint": "Stable Diffusion vs DALL-E 3 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "ElevenLabs",
-          "vendor": "ElevenLabs",
-          "category": "AI音声合成",
-          "price_jpy": "0-3000",
-          "url": "https://elevenlabs.io",
-          "tagline": "多言語・感情豊かな音声合成",
-          "best_for": "YouTube・ナレーション"
+          "name": "Stable Diffusion",
+          "vendor": "Stability AI",
+          "category": "AI画像生成",
+          "price_jpy": "0-2000",
+          "url": "https://stability.ai",
+          "tagline": "ローカル実行可能なOSS画像生成",
+          "best_for": "ローカル運用・カスタム"
         },
         {
-          "name": "VOICEVOX",
-          "vendor": "Hiroshiba",
-          "category": "AI音声合成",
-          "price_jpy": "0",
-          "url": "https://voicevox.hiroshiba.jp",
-          "tagline": "完全無料の日本語TTS",
-          "best_for": "無料・ゆっくり系"
+          "name": "DALL-E 3",
+          "vendor": "OpenAI",
+          "category": "AI画像生成",
+          "price_jpy": "3000",
+          "url": "https://openai.com/dall-e",
+          "tagline": "ChatGPT統合の画像生成",
+          "best_for": "プロンプト忠実性"
         }
       ]
     },
     {
-      "type": "buying_guide",
-      "category": "対話AI比較",
-      "key": "guide::対話AI比較",
-      "title_hint": "対話AI比較の選び方完全ガイド 失敗しない7つの基準",
-      "tools": [
-        {
-          "name": "ChatGPT",
-          "vendor": "OpenAI",
-          "category": "対話AI比較",
-          "price_jpy": "0-3000",
-          "url": "https://chat.openai.com",
-          "tagline": "最も普及した汎用対話AI",
-          "best_for": "汎用・学習・コーディング"
-        },
-        {
-          "name": "Claude",
-          "vendor": "Anthropic",
-          "category": "対話AI比較",
-          "price_jpy": "0-3000",
-          "url": "https://claude.ai",
-          "tagline": "長文・コーディング・安全性に強い",
-          "best_for": "長文・要約・分析"
-        },
-        {
-          "name": "Gemini",
-          "vendor": "Google",
-          "category": "対話AI比較",
-          "price_jpy": "0-2900",
-          "url": "https://gemini.google.com",
-          "tagline": "Google統合・無料枠が広い",
-          "best_for": "検索連携・無料利用"
-        },
-        {
-          "name": "Grok",
-          "vendor": "xAI",
-          "category": "対話AI比較",
-          "price_jpy": "1500-3000",
-          "url": "https://grok.x.ai",
-          "tagline": "X(Twitter)統合のリアルタイムAI",
-          "best_for": "速報・SNSトレンド"
-        }
-      ]
+      "type": "single_review",
+      "category": "AIデザイン",
+      "key": "single::Figma AI",
+      "title_hint": "Figma AI徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "Figma AI",
+        "vendor": "Figma",
+        "category": "AIデザイン",
+        "price_jpy": "0-2000",
+        "url": "https://figma.com",
+        "tagline": "デザインツール統合のAI",
+        "best_for": "UIデザイン・プロトタイプ"
+      }
     }
   ]
 }
