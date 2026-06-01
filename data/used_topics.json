@@ -18,6 +18,8 @@
   "single::Kling",
   "single::Midjourney",
   "single::Soundraw",
+  "single::Veo 3",
+  "vs::Canva AI::Figma AI",
   "vs::Copy.ai::Rytr",
   "vs::Cursor::Claude Code",
   "vs::Cursor::Windsurf",

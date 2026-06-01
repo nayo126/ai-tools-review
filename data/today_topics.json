@@ -1,85 +1,47 @@
 {
-  "picked_at": "2026-05-27T21:00:05.270559+00:00",
+  "picked_at": "2026-06-01T21:00:05.309301+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AIコード補完",
-      "key": "vs::Cursor::Windsurf",
-      "title_hint": "Cursor vs Windsurf 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIデザイン",
+      "key": "vs::Canva AI::Figma AI",
+      "title_hint": "Canva AI vs Figma AI 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Cursor",
-          "vendor": "Anysphere",
-          "category": "AIコード補完",
-          "price_jpy": "0-3000",
-          "url": "https://cursor.com",
-          "tagline": "AI統合エディタの定番",
-          "best_for": "コーディング・開発"
+          "name": "Canva AI",
+          "vendor": "Canva",
+          "category": "AIデザイン",
+          "price_jpy": "0-1500",
+          "url": "https://canva.com",
+          "tagline": "デザインツール統合のAI",
+          "best_for": "SNS画像・プレゼン"
         },
         {
-          "name": "Windsurf",
-          "vendor": "Codeium",
-          "category": "AIコード補完",
-          "price_jpy": "0-2200",
-          "url": "https://codeium.com/windsurf",
-          "tagline": "エージェント型のAIエディタ",
-          "best_for": "自動コーディング"
+          "name": "Figma AI",
+          "vendor": "Figma",
+          "category": "AIデザイン",
+          "price_jpy": "0-2000",
+          "url": "https://figma.com",
+          "tagline": "デザインツール統合のAI",
+          "best_for": "UIデザイン・プロトタイプ"
         }
       ]
     },
     {
-      "type": "category_roundup",
-      "category": "AI画像生成",
-      "key": "roundup::AI画像生成",
-      "title_hint": "【2026最新】AI画像生成おすすめ5選 用途別の選び方",
-      "tools": [
-        {
-          "name": "Midjourney",
-          "vendor": "Midjourney Inc",
-          "category": "AI画像生成",
-          "price_jpy": "1500-10000",
-          "url": "https://midjourney.com",
-          "tagline": "美術品質No.1の画像生成",
-          "best_for": "アート・コンセプト画像"
-        },
-        {
-          "name": "Stable Diffusion",
-          "vendor": "Stability AI",
-          "category": "AI画像生成",
-          "price_jpy": "0-2000",
-          "url": "https://stability.ai",
-          "tagline": "ローカル実行可能なOSS画像生成",
-          "best_for": "ローカル運用・カスタム"
-        },
-        {
-          "name": "DALL-E 3",
-          "vendor": "OpenAI",
-          "category": "AI画像生成",
-          "price_jpy": "3000",
-          "url": "https://openai.com/dall-e",
-          "tagline": "ChatGPT統合の画像生成",
-          "best_for": "プロンプト忠実性"
-        },
-        {
-          "name": "Ideogram",
-          "vendor": "Ideogram AI",
-          "category": "AI画像生成",
-          "price_jpy": "0-2000",
-          "url": "https://ideogram.ai",
-          "tagline": "文字入り画像が綺麗",
-          "best_for": "ロゴ・サムネ・看板"
-        },
-        {
-          "name": "Flux",
-          "vendor": "Black Forest Labs",
-          "category": "AI画像生成",
-          "price_jpy": "0-1500",
-          "url": "https://blackforestlabs.ai",
-          "tagline": "写実とコスパの新興",
-          "best_for": "写実・人物"
-        }
-      ]
+      "type": "single_review",
+      "category": "AI動画生成",
+      "key": "single::Veo 3",
+      "title_hint": "Veo 3徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "Veo 3",
+        "vendor": "Google DeepMind",
+        "category": "AI動画生成",
+        "price_jpy": "3000-15000",
+        "url": "https://deepmind.google/veo",
+        "tagline": "音声同時生成のハイエンド動画AI",
+        "best_for": "音付き動画・高品質"
+      }
     }
   ]
 }
