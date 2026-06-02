@@ -1,46 +1,46 @@
 {
-  "picked_at": "2026-06-01T21:00:05.309301+00:00",
+  "picked_at": "2026-06-02T21:00:02.569548+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AIデザイン",
-      "key": "vs::Canva AI::Figma AI",
-      "title_hint": "Canva AI vs Figma AI 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIプロダクティビティ",
+      "key": "vs::AIVA::Notion AI",
+      "title_hint": "AIVA vs Notion AI 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Canva AI",
-          "vendor": "Canva",
-          "category": "AIデザイン",
-          "price_jpy": "0-1500",
-          "url": "https://canva.com",
-          "tagline": "デザインツール統合のAI",
-          "best_for": "SNS画像・プレゼン"
+          "name": "AIVA",
+          "vendor": "AIVA Technologies",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "0-1700",
+          "url": "https://aiva.ai",
+          "tagline": "クラシック・映像向けAI作曲",
+          "best_for": "クラシック・ループBGM"
         },
         {
-          "name": "Figma AI",
-          "vendor": "Figma",
-          "category": "AIデザイン",
-          "price_jpy": "0-2000",
-          "url": "https://figma.com",
-          "tagline": "デザインツール統合のAI",
-          "best_for": "UIデザイン・プロトタイプ"
+          "name": "Notion AI",
+          "vendor": "Notion",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "1500-2500",
+          "url": "https://notion.so",
+          "tagline": "Notion統合のドキュメントAI",
+          "best_for": "ノート・タスク・要約"
         }
       ]
     },
     {
       "type": "single_review",
-      "category": "AI動画生成",
-      "key": "single::Veo 3",
-      "title_hint": "Veo 3徹底レビュー 料金・機能・使い方・評判",
+      "category": "AIプロダクティビティ",
+      "key": "single::Suno",
+      "title_hint": "Suno徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "Veo 3",
-        "vendor": "Google DeepMind",
-        "category": "AI動画生成",
-        "price_jpy": "3000-15000",
-        "url": "https://deepmind.google/veo",
-        "tagline": "音声同時生成のハイエンド動画AI",
-        "best_for": "音付き動画・高品質"
+        "name": "Suno",
+        "vendor": "Suno AI",
+        "category": "AIプロダクティビティ",
+        "price_jpy": "0-1500",
+        "url": "https://suno.com",
+        "tagline": "AI音楽生成の決定版",
+        "best_for": "BGM・楽曲制作"
       }
     }
   ]
