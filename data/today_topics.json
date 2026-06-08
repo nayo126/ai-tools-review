@@ -1,46 +1,46 @@
 {
-  "picked_at": "2026-06-02T21:00:02.569548+00:00",
+  "picked_at": "2026-06-08T21:00:04.774832+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AIプロダクティビティ",
-      "key": "vs::AIVA::Notion AI",
-      "title_hint": "AIVA vs Notion AI 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIライティング",
+      "key": "vs::Copy.ai::QuillBot",
+      "title_hint": "Copy.ai vs QuillBot 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "AIVA",
-          "vendor": "AIVA Technologies",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "0-1700",
-          "url": "https://aiva.ai",
-          "tagline": "クラシック・映像向けAI作曲",
-          "best_for": "クラシック・ループBGM"
+          "name": "Copy.ai",
+          "vendor": "Copy.ai",
+          "category": "AIライティング",
+          "price_jpy": "0-5000",
+          "url": "https://copy.ai",
+          "tagline": "短文コピー生成に強い",
+          "best_for": "広告コピー"
         },
         {
-          "name": "Notion AI",
-          "vendor": "Notion",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "1500-2500",
-          "url": "https://notion.so",
-          "tagline": "Notion統合のドキュメントAI",
-          "best_for": "ノート・タスク・要約"
+          "name": "QuillBot",
+          "vendor": "QuillBot",
+          "category": "AIライティング",
+          "price_jpy": "0-1500",
+          "url": "https://quillbot.com",
+          "tagline": "言い換え・校正に特化",
+          "best_for": "英文校正・パラフレーズ"
         }
       ]
     },
     {
       "type": "single_review",
-      "category": "AIプロダクティビティ",
-      "key": "single::Suno",
-      "title_hint": "Suno徹底レビュー 料金・機能・使い方・評判",
+      "category": "対話AI比較",
+      "key": "single::Grok",
+      "title_hint": "Grok徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "Suno",
-        "vendor": "Suno AI",
-        "category": "AIプロダクティビティ",
-        "price_jpy": "0-1500",
-        "url": "https://suno.com",
-        "tagline": "AI音楽生成の決定版",
-        "best_for": "BGM・楽曲制作"
+        "name": "Grok",
+        "vendor": "xAI",
+        "category": "対話AI比較",
+        "price_jpy": "1500-3000",
+        "url": "https://grok.x.ai",
+        "tagline": "X(Twitter)統合のリアルタイムAI",
+        "best_for": "速報・SNSトレンド"
       }
     }
   ]
