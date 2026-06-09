@@ -1,46 +1,46 @@
 {
-  "picked_at": "2026-06-08T21:00:04.774832+00:00",
+  "picked_at": "2026-06-09T21:00:04.770542+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AIライティング",
-      "key": "vs::Copy.ai::QuillBot",
-      "title_hint": "Copy.ai vs QuillBot 徹底比較 どっちが高校生におすすめ?",
+      "category": "AI音声合成",
+      "key": "vs::ElevenLabs::にじボイス",
+      "title_hint": "ElevenLabs vs にじボイス 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Copy.ai",
-          "vendor": "Copy.ai",
-          "category": "AIライティング",
-          "price_jpy": "0-5000",
-          "url": "https://copy.ai",
-          "tagline": "短文コピー生成に強い",
-          "best_for": "広告コピー"
+          "name": "ElevenLabs",
+          "vendor": "ElevenLabs",
+          "category": "AI音声合成",
+          "price_jpy": "0-3000",
+          "url": "https://elevenlabs.io",
+          "tagline": "多言語・感情豊かな音声合成",
+          "best_for": "YouTube・ナレーション"
         },
         {
-          "name": "QuillBot",
-          "vendor": "QuillBot",
-          "category": "AIライティング",
-          "price_jpy": "0-1500",
-          "url": "https://quillbot.com",
-          "tagline": "言い換え・校正に特化",
-          "best_for": "英文校正・パラフレーズ"
+          "name": "にじボイス",
+          "vendor": "Niji",
+          "category": "AI音声合成",
+          "price_jpy": "500-2000",
+          "url": "https://nijivoice.com",
+          "tagline": "感情表現が秀逸な日本語TTS",
+          "best_for": "日本語ナレーション"
         }
       ]
     },
     {
       "type": "single_review",
-      "category": "対話AI比較",
-      "key": "single::Grok",
-      "title_hint": "Grok徹底レビュー 料金・機能・使い方・評判",
+      "category": "AI音声合成",
+      "key": "single::ElevenLabs",
+      "title_hint": "ElevenLabs徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "Grok",
-        "vendor": "xAI",
-        "category": "対話AI比較",
-        "price_jpy": "1500-3000",
-        "url": "https://grok.x.ai",
-        "tagline": "X(Twitter)統合のリアルタイムAI",
-        "best_for": "速報・SNSトレンド"
+        "name": "ElevenLabs",
+        "vendor": "ElevenLabs",
+        "category": "AI音声合成",
+        "price_jpy": "0-3000",
+        "url": "https://elevenlabs.io",
+        "tagline": "多言語・感情豊かな音声合成",
+        "best_for": "YouTube・ナレーション"
       }
     }
   ]
