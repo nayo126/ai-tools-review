@@ -1,47 +1,47 @@
 {
-  "picked_at": "2026-06-10T21:00:05.780668+00:00",
+  "picked_at": "2026-06-11T21:00:04.774167+00:00",
   "count": 2,
   "items": [
     {
-      "type": "vs_comparison",
-      "category": "AIプロダクティビティ",
-      "key": "vs::Copilot::Soundraw",
-      "title_hint": "Copilot vs Soundraw 徹底比較 どっちが高校生におすすめ?",
-      "tools": [
-        {
-          "name": "Copilot",
-          "vendor": "Microsoft",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "0-3500",
-          "url": "https://copilot.microsoft.com",
-          "tagline": "Office統合の生産性AI",
-          "best_for": "Excel/Word/PPT自動化"
-        },
-        {
-          "name": "Soundraw",
-          "vendor": "Soundraw",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "2550",
-          "url": "https://soundraw.io",
-          "tagline": "ロイヤリティフリーのAI音楽",
-          "best_for": "YouTube安全BGM"
-        }
-      ]
+      "type": "single_review",
+      "category": "AIコード補完",
+      "key": "single::GitHub Copilot",
+      "title_hint": "GitHub Copilot徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "GitHub Copilot",
+        "vendor": "GitHub",
+        "category": "AIコード補完",
+        "price_jpy": "1500-3000",
+        "url": "https://github.com/copilot",
+        "tagline": "IDEで使える老舗のコード補完AI",
+        "best_for": "VSCode/JetBrains統合"
+      }
     },
     {
-      "type": "single_review",
-      "category": "AIプロダクティビティ",
-      "key": "single::Copilot",
-      "title_hint": "Copilot徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Copilot",
-        "vendor": "Microsoft",
-        "category": "AIプロダクティビティ",
-        "price_jpy": "0-3500",
-        "url": "https://copilot.microsoft.com",
-        "tagline": "Office統合の生産性AI",
-        "best_for": "Excel/Word/PPT自動化"
-      }
+      "type": "vs_comparison",
+      "category": "対話AI比較",
+      "key": "vs::ChatGPT::Claude",
+      "title_hint": "ChatGPT vs Claude 徹底比較 どっちが高校生におすすめ?",
+      "tools": [
+        {
+          "name": "ChatGPT",
+          "vendor": "OpenAI",
+          "category": "対話AI比較",
+          "price_jpy": "0-3000",
+          "url": "https://chat.openai.com",
+          "tagline": "最も普及した汎用対話AI",
+          "best_for": "汎用・学習・コーディング"
+        },
+        {
+          "name": "Claude",
+          "vendor": "Anthropic",
+          "category": "対話AI比較",
+          "price_jpy": "0-3000",
+          "url": "https://claude.ai",
+          "tagline": "長文・コーディング・安全性に強い",
+          "best_for": "長文・要約・分析"
+        }
+      ]
     }
   ]
 }
