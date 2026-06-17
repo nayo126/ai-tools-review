@@ -1,45 +1,45 @@
 {
-  "picked_at": "2026-06-11T21:00:04.774167+00:00",
+  "picked_at": "2026-06-17T21:00:00.883352+00:00",
   "count": 2,
   "items": [
     {
       "type": "single_review",
       "category": "AIコード補完",
-      "key": "single::GitHub Copilot",
-      "title_hint": "GitHub Copilot徹底レビュー 料金・機能・使い方・評判",
+      "key": "single::Windsurf",
+      "title_hint": "Windsurf徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "GitHub Copilot",
-        "vendor": "GitHub",
+        "name": "Windsurf",
+        "vendor": "Codeium",
         "category": "AIコード補完",
-        "price_jpy": "1500-3000",
-        "url": "https://github.com/copilot",
-        "tagline": "IDEで使える老舗のコード補完AI",
-        "best_for": "VSCode/JetBrains統合"
+        "price_jpy": "0-2200",
+        "url": "https://codeium.com/windsurf",
+        "tagline": "エージェント型のAIエディタ",
+        "best_for": "自動コーディング"
       }
     },
     {
       "type": "vs_comparison",
-      "category": "対話AI比較",
-      "key": "vs::ChatGPT::Claude",
-      "title_hint": "ChatGPT vs Claude 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIライティング",
+      "key": "vs::Catchy::QuillBot",
+      "title_hint": "Catchy vs QuillBot 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "ChatGPT",
-          "vendor": "OpenAI",
-          "category": "対話AI比較",
-          "price_jpy": "0-3000",
-          "url": "https://chat.openai.com",
-          "tagline": "最も普及した汎用対話AI",
-          "best_for": "汎用・学習・コーディング"
+          "name": "Catchy",
+          "vendor": "Catchy Inc",
+          "category": "AIライティング",
+          "price_jpy": "0-7000",
+          "url": "https://lp.ai-copywriter.jp",
+          "tagline": "日本発のAIライティング",
+          "best_for": "日本語コピー"
         },
         {
-          "name": "Claude",
-          "vendor": "Anthropic",
-          "category": "対話AI比較",
-          "price_jpy": "0-3000",
-          "url": "https://claude.ai",
-          "tagline": "長文・コーディング・安全性に強い",
-          "best_for": "長文・要約・分析"
+          "name": "QuillBot",
+          "vendor": "QuillBot",
+          "category": "AIライティング",
+          "price_jpy": "0-1500",
+          "url": "https://quillbot.com",
+          "tagline": "言い換え・校正に特化",
+          "best_for": "英文校正・パラフレーズ"
         }
       ]
     }
