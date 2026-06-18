@@ -1,6 +1,7 @@
 [
   "guide::AIプロダクティビティ",
   "guide::AI動画生成",
+  "guide::AI検索エンジン",
   "guide::AI画像生成",
   "guide::AI音声合成",
   "guide::対話AI比較",
@@ -40,6 +41,7 @@
   "vs::ElevenLabs::VOICEVOX",
   "vs::ElevenLabs::にじボイス",
   "vs::Jasper::Catchy",
+  "vs::Jasper::Rytr",
   "vs::Kling::Runway Gen-4",
   "vs::Midjourney::DALL-E 3",
   "vs::Runway Gen-4::Hailuo",
