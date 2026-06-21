@@ -1,46 +1,46 @@
 {
-  "picked_at": "2026-06-19T21:00:02.508824+00:00",
+  "picked_at": "2026-06-21T21:00:02.028611+00:00",
   "count": 2,
   "items": [
     {
-      "type": "buying_guide",
-      "category": "AI翻訳",
-      "key": "guide::AI翻訳",
-      "title_hint": "AI翻訳の選び方完全ガイド 失敗しない7つの基準",
+      "type": "vs_comparison",
+      "category": "AIライティング",
+      "key": "vs::Copy.ai::Catchy",
+      "title_hint": "Copy.ai vs Catchy 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "DeepL",
-          "vendor": "DeepL SE",
-          "category": "AI翻訳",
-          "price_jpy": "0-1200",
-          "url": "https://deepl.com",
-          "tagline": "高精度な翻訳AI",
-          "best_for": "翻訳・要約"
+          "name": "Copy.ai",
+          "vendor": "Copy.ai",
+          "category": "AIライティング",
+          "price_jpy": "0-5000",
+          "url": "https://copy.ai",
+          "tagline": "短文コピー生成に強い",
+          "best_for": "広告コピー"
         },
         {
-          "name": "Google翻訳",
-          "vendor": "Google",
-          "category": "AI翻訳",
-          "price_jpy": "0",
-          "url": "https://translate.google.com",
-          "tagline": "無料・多言語対応",
-          "best_for": "汎用翻訳"
+          "name": "Catchy",
+          "vendor": "Catchy Inc",
+          "category": "AIライティング",
+          "price_jpy": "0-7000",
+          "url": "https://lp.ai-copywriter.jp",
+          "tagline": "日本発のAIライティング",
+          "best_for": "日本語コピー"
         }
       ]
     },
     {
       "type": "single_review",
       "category": "AIライティング",
-      "key": "single::Copy.ai",
-      "title_hint": "Copy.ai徹底レビュー 料金・機能・使い方・評判",
+      "key": "single::Jasper",
+      "title_hint": "Jasper徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "Copy.ai",
-        "vendor": "Copy.ai",
+        "name": "Jasper",
+        "vendor": "Jasper AI",
         "category": "AIライティング",
-        "price_jpy": "0-5000",
-        "url": "https://copy.ai",
-        "tagline": "短文コピー生成に強い",
-        "best_for": "広告コピー"
+        "price_jpy": "5000-10000",
+        "url": "https://jasper.ai",
+        "tagline": "マーケ向けライティングAI",
+        "best_for": "コピーライティング"
       }
     }
   ]
