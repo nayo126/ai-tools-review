@@ -1,47 +1,47 @@
 {
-  "picked_at": "2026-06-21T21:00:02.028611+00:00",
+  "picked_at": "2026-06-22T21:00:01.406424+00:00",
   "count": 2,
   "items": [
     {
-      "type": "vs_comparison",
-      "category": "AIライティング",
-      "key": "vs::Copy.ai::Catchy",
-      "title_hint": "Copy.ai vs Catchy 徹底比較 どっちが高校生におすすめ?",
-      "tools": [
-        {
-          "name": "Copy.ai",
-          "vendor": "Copy.ai",
-          "category": "AIライティング",
-          "price_jpy": "0-5000",
-          "url": "https://copy.ai",
-          "tagline": "短文コピー生成に強い",
-          "best_for": "広告コピー"
-        },
-        {
-          "name": "Catchy",
-          "vendor": "Catchy Inc",
-          "category": "AIライティング",
-          "price_jpy": "0-7000",
-          "url": "https://lp.ai-copywriter.jp",
-          "tagline": "日本発のAIライティング",
-          "best_for": "日本語コピー"
-        }
-      ]
+      "type": "single_review",
+      "category": "AI画像生成",
+      "key": "single::DALL-E 3",
+      "title_hint": "DALL-E 3徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "DALL-E 3",
+        "vendor": "OpenAI",
+        "category": "AI画像生成",
+        "price_jpy": "3000",
+        "url": "https://openai.com/dall-e",
+        "tagline": "ChatGPT統合の画像生成",
+        "best_for": "プロンプト忠実性"
+      }
     },
     {
-      "type": "single_review",
-      "category": "AIライティング",
-      "key": "single::Jasper",
-      "title_hint": "Jasper徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Jasper",
-        "vendor": "Jasper AI",
-        "category": "AIライティング",
-        "price_jpy": "5000-10000",
-        "url": "https://jasper.ai",
-        "tagline": "マーケ向けライティングAI",
-        "best_for": "コピーライティング"
-      }
+      "type": "vs_comparison",
+      "category": "対話AI比較",
+      "key": "vs::ChatGPT::Gemini",
+      "title_hint": "ChatGPT vs Gemini 徹底比較 どっちが高校生におすすめ?",
+      "tools": [
+        {
+          "name": "ChatGPT",
+          "vendor": "OpenAI",
+          "category": "対話AI比較",
+          "price_jpy": "0-3000",
+          "url": "https://chat.openai.com",
+          "tagline": "最も普及した汎用対話AI",
+          "best_for": "汎用・学習・コーディング"
+        },
+        {
+          "name": "Gemini",
+          "vendor": "Google",
+          "category": "対話AI比較",
+          "price_jpy": "0-2900",
+          "url": "https://gemini.google.com",
+          "tagline": "Google統合・無料枠が広い",
+          "best_for": "検索連携・無料利用"
+        }
+      ]
     }
   ]
 }
