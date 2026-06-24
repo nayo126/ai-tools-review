@@ -1,5 +1,6 @@
 [
   "guide::AIプロダクティビティ",
+  "guide::AIライティング",
   "guide::AI動画生成",
   "guide::AI検索エンジン",
   "guide::AI画像生成",
@@ -52,6 +53,7 @@
   "vs::Jasper::Rytr",
   "vs::Kling::Runway Gen-4",
   "vs::Midjourney::DALL-E 3",
+  "vs::Midjourney::Ideogram",
   "vs::Runway Gen-4::Hailuo",
   "vs::Stable Diffusion::DALL-E 3",
   "vs::Stable Diffusion::Flux",

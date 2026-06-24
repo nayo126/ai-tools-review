@@ -1,47 +1,85 @@
 {
-  "picked_at": "2026-06-23T21:00:04.517056+00:00",
+  "picked_at": "2026-06-24T21:00:04.191294+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AIプロダクティビティ",
-      "key": "vs::Copilot::Suno",
-      "title_hint": "Copilot vs Suno 徹底比較 どっちが高校生におすすめ?",
+      "category": "AI画像生成",
+      "key": "vs::Midjourney::Ideogram",
+      "title_hint": "Midjourney vs Ideogram 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Copilot",
-          "vendor": "Microsoft",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "0-3500",
-          "url": "https://copilot.microsoft.com",
-          "tagline": "Office統合の生産性AI",
-          "best_for": "Excel/Word/PPT自動化"
+          "name": "Midjourney",
+          "vendor": "Midjourney Inc",
+          "category": "AI画像生成",
+          "price_jpy": "1500-10000",
+          "url": "https://midjourney.com",
+          "tagline": "美術品質No.1の画像生成",
+          "best_for": "アート・コンセプト画像"
         },
         {
-          "name": "Suno",
-          "vendor": "Suno AI",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "0-1500",
-          "url": "https://suno.com",
-          "tagline": "AI音楽生成の決定版",
-          "best_for": "BGM・楽曲制作"
+          "name": "Ideogram",
+          "vendor": "Ideogram AI",
+          "category": "AI画像生成",
+          "price_jpy": "0-2000",
+          "url": "https://ideogram.ai",
+          "tagline": "文字入り画像が綺麗",
+          "best_for": "ロゴ・サムネ・看板"
         }
       ]
     },
     {
-      "type": "single_review",
-      "category": "AI動画生成",
-      "key": "single::Hailuo",
-      "title_hint": "Hailuo徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Hailuo",
-        "vendor": "MiniMax",
-        "category": "AI動画生成",
-        "price_jpy": "1500",
-        "url": "https://hailuoai.video",
-        "tagline": "1080p/6秒の安価な動画AI",
-        "best_for": "量産・コスト重視"
-      }
+      "type": "buying_guide",
+      "category": "AIライティング",
+      "key": "guide::AIライティング",
+      "title_hint": "AIライティングの選び方完全ガイド 失敗しない7つの基準",
+      "tools": [
+        {
+          "name": "Jasper",
+          "vendor": "Jasper AI",
+          "category": "AIライティング",
+          "price_jpy": "5000-10000",
+          "url": "https://jasper.ai",
+          "tagline": "マーケ向けライティングAI",
+          "best_for": "コピーライティング"
+        },
+        {
+          "name": "Copy.ai",
+          "vendor": "Copy.ai",
+          "category": "AIライティング",
+          "price_jpy": "0-5000",
+          "url": "https://copy.ai",
+          "tagline": "短文コピー生成に強い",
+          "best_for": "広告コピー"
+        },
+        {
+          "name": "Catchy",
+          "vendor": "Catchy Inc",
+          "category": "AIライティング",
+          "price_jpy": "0-7000",
+          "url": "https://lp.ai-copywriter.jp",
+          "tagline": "日本発のAIライティング",
+          "best_for": "日本語コピー"
+        },
+        {
+          "name": "Rytr",
+          "vendor": "Rytr",
+          "category": "AIライティング",
+          "price_jpy": "0-1500",
+          "url": "https://rytr.me",
+          "tagline": "コスパ重視のライティングAI",
+          "best_for": "ブログ・SNS"
+        },
+        {
+          "name": "QuillBot",
+          "vendor": "QuillBot",
+          "category": "AIライティング",
+          "price_jpy": "0-1500",
+          "url": "https://quillbot.com",
+          "tagline": "言い換え・校正に特化",
+          "best_for": "英文校正・パラフレーズ"
+        }
+      ]
     }
   ]
 }
