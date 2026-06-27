@@ -1,47 +1,56 @@
 {
-  "picked_at": "2026-06-25T21:00:01.520942+00:00",
+  "picked_at": "2026-06-27T21:00:02.489473+00:00",
   "count": 2,
   "items": [
     {
-      "type": "single_review",
-      "category": "AI検索エンジン",
-      "key": "single::Perplexity",
-      "title_hint": "Perplexity徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Perplexity",
-        "vendor": "Perplexity AI",
-        "category": "AI検索エンジン",
-        "price_jpy": "0-3000",
-        "url": "https://perplexity.ai",
-        "tagline": "出典付き対話型検索",
-        "best_for": "リサーチ・最新情報"
-      }
-    },
-    {
-      "type": "vs_comparison",
-      "category": "AI画像生成",
-      "key": "vs::Midjourney::Flux",
-      "title_hint": "Midjourney vs Flux 徹底比較 どっちが高校生におすすめ?",
+      "type": "category_roundup",
+      "category": "AI音声合成",
+      "key": "roundup::AI音声合成",
+      "title_hint": "【2026最新】AI音声合成おすすめ3選 用途別の選び方",
       "tools": [
         {
-          "name": "Midjourney",
-          "vendor": "Midjourney Inc",
-          "category": "AI画像生成",
-          "price_jpy": "1500-10000",
-          "url": "https://midjourney.com",
-          "tagline": "美術品質No.1の画像生成",
-          "best_for": "アート・コンセプト画像"
+          "name": "ElevenLabs",
+          "vendor": "ElevenLabs",
+          "category": "AI音声合成",
+          "price_jpy": "0-3000",
+          "url": "https://elevenlabs.io",
+          "tagline": "多言語・感情豊かな音声合成",
+          "best_for": "YouTube・ナレーション"
         },
         {
-          "name": "Flux",
-          "vendor": "Black Forest Labs",
-          "category": "AI画像生成",
-          "price_jpy": "0-1500",
-          "url": "https://blackforestlabs.ai",
-          "tagline": "写実とコスパの新興",
-          "best_for": "写実・人物"
+          "name": "にじボイス",
+          "vendor": "Niji",
+          "category": "AI音声合成",
+          "price_jpy": "500-2000",
+          "url": "https://nijivoice.com",
+          "tagline": "感情表現が秀逸な日本語TTS",
+          "best_for": "日本語ナレーション"
+        },
+        {
+          "name": "VOICEVOX",
+          "vendor": "Hiroshiba",
+          "category": "AI音声合成",
+          "price_jpy": "0",
+          "url": "https://voicevox.hiroshiba.jp",
+          "tagline": "完全無料の日本語TTS",
+          "best_for": "無料・ゆっくり系"
         }
       ]
+    },
+    {
+      "type": "single_review",
+      "category": "AI翻訳",
+      "key": "single::Google翻訳",
+      "title_hint": "Google翻訳徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "Google翻訳",
+        "vendor": "Google",
+        "category": "AI翻訳",
+        "price_jpy": "0",
+        "url": "https://translate.google.com",
+        "tagline": "無料・多言語対応",
+        "best_for": "汎用翻訳"
+      }
     }
   ]
 }
