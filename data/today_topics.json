@@ -1,22 +1,13 @@
 {
-  "picked_at": "2026-06-27T21:00:02.489473+00:00",
+  "picked_at": "2026-06-28T21:00:01.812022+00:00",
   "count": 2,
   "items": [
     {
-      "type": "category_roundup",
+      "type": "vs_comparison",
       "category": "AI音声合成",
-      "key": "roundup::AI音声合成",
-      "title_hint": "【2026最新】AI音声合成おすすめ3選 用途別の選び方",
+      "key": "vs::にじボイス::VOICEVOX",
+      "title_hint": "にじボイス vs VOICEVOX 徹底比較 どっちが高校生におすすめ?",
       "tools": [
-        {
-          "name": "ElevenLabs",
-          "vendor": "ElevenLabs",
-          "category": "AI音声合成",
-          "price_jpy": "0-3000",
-          "url": "https://elevenlabs.io",
-          "tagline": "多言語・感情豊かな音声合成",
-          "best_for": "YouTube・ナレーション"
-        },
         {
           "name": "にじボイス",
           "vendor": "Niji",
@@ -39,17 +30,17 @@
     },
     {
       "type": "single_review",
-      "category": "AI翻訳",
-      "key": "single::Google翻訳",
-      "title_hint": "Google翻訳徹底レビュー 料金・機能・使い方・評判",
+      "category": "AIライティング",
+      "key": "single::Catchy",
+      "title_hint": "Catchy徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "Google翻訳",
-        "vendor": "Google",
-        "category": "AI翻訳",
-        "price_jpy": "0",
-        "url": "https://translate.google.com",
-        "tagline": "無料・多言語対応",
-        "best_for": "汎用翻訳"
+        "name": "Catchy",
+        "vendor": "Catchy Inc",
+        "category": "AIライティング",
+        "price_jpy": "0-7000",
+        "url": "https://lp.ai-copywriter.jp",
+        "tagline": "日本発のAIライティング",
+        "best_for": "日本語コピー"
       }
     }
   ]
