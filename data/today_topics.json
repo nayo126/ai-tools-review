@@ -1,46 +1,46 @@
 {
-  "picked_at": "2026-06-28T21:00:01.812022+00:00",
+  "picked_at": "2026-06-29T21:00:02.176634+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AI音声合成",
-      "key": "vs::にじボイス::VOICEVOX",
-      "title_hint": "にじボイス vs VOICEVOX 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIコード補完",
+      "key": "vs::GitHub Copilot::Windsurf",
+      "title_hint": "GitHub Copilot vs Windsurf 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "にじボイス",
-          "vendor": "Niji",
-          "category": "AI音声合成",
-          "price_jpy": "500-2000",
-          "url": "https://nijivoice.com",
-          "tagline": "感情表現が秀逸な日本語TTS",
-          "best_for": "日本語ナレーション"
+          "name": "GitHub Copilot",
+          "vendor": "GitHub",
+          "category": "AIコード補完",
+          "price_jpy": "1500-3000",
+          "url": "https://github.com/copilot",
+          "tagline": "IDEで使える老舗のコード補完AI",
+          "best_for": "VSCode/JetBrains統合"
         },
         {
-          "name": "VOICEVOX",
-          "vendor": "Hiroshiba",
-          "category": "AI音声合成",
-          "price_jpy": "0",
-          "url": "https://voicevox.hiroshiba.jp",
-          "tagline": "完全無料の日本語TTS",
-          "best_for": "無料・ゆっくり系"
+          "name": "Windsurf",
+          "vendor": "Codeium",
+          "category": "AIコード補完",
+          "price_jpy": "0-2200",
+          "url": "https://codeium.com/windsurf",
+          "tagline": "エージェント型のAIエディタ",
+          "best_for": "自動コーディング"
         }
       ]
     },
     {
       "type": "single_review",
-      "category": "AIライティング",
-      "key": "single::Catchy",
-      "title_hint": "Catchy徹底レビュー 料金・機能・使い方・評判",
+      "category": "AI音声合成",
+      "key": "single::VOICEVOX",
+      "title_hint": "VOICEVOX徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "Catchy",
-        "vendor": "Catchy Inc",
-        "category": "AIライティング",
-        "price_jpy": "0-7000",
-        "url": "https://lp.ai-copywriter.jp",
-        "tagline": "日本発のAIライティング",
-        "best_for": "日本語コピー"
+        "name": "VOICEVOX",
+        "vendor": "Hiroshiba",
+        "category": "AI音声合成",
+        "price_jpy": "0",
+        "url": "https://voicevox.hiroshiba.jp",
+        "tagline": "完全無料の日本語TTS",
+        "best_for": "無料・ゆっくり系"
       }
     }
   ]
