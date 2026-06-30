@@ -1,47 +1,47 @@
 {
-  "picked_at": "2026-06-29T21:00:02.176634+00:00",
+  "picked_at": "2026-06-30T21:00:01.583382+00:00",
   "count": 2,
   "items": [
     {
-      "type": "vs_comparison",
-      "category": "AIコード補完",
-      "key": "vs::GitHub Copilot::Windsurf",
-      "title_hint": "GitHub Copilot vs Windsurf 徹底比較 どっちが高校生におすすめ?",
-      "tools": [
-        {
-          "name": "GitHub Copilot",
-          "vendor": "GitHub",
-          "category": "AIコード補完",
-          "price_jpy": "1500-3000",
-          "url": "https://github.com/copilot",
-          "tagline": "IDEで使える老舗のコード補完AI",
-          "best_for": "VSCode/JetBrains統合"
-        },
-        {
-          "name": "Windsurf",
-          "vendor": "Codeium",
-          "category": "AIコード補完",
-          "price_jpy": "0-2200",
-          "url": "https://codeium.com/windsurf",
-          "tagline": "エージェント型のAIエディタ",
-          "best_for": "自動コーディング"
-        }
-      ]
+      "type": "single_review",
+      "category": "AI画像生成",
+      "key": "single::Stable Diffusion",
+      "title_hint": "Stable Diffusion徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "Stable Diffusion",
+        "vendor": "Stability AI",
+        "category": "AI画像生成",
+        "price_jpy": "0-2000",
+        "url": "https://stability.ai",
+        "tagline": "ローカル実行可能なOSS画像生成",
+        "best_for": "ローカル運用・カスタム"
+      }
     },
     {
-      "type": "single_review",
-      "category": "AI音声合成",
-      "key": "single::VOICEVOX",
-      "title_hint": "VOICEVOX徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "VOICEVOX",
-        "vendor": "Hiroshiba",
-        "category": "AI音声合成",
-        "price_jpy": "0",
-        "url": "https://voicevox.hiroshiba.jp",
-        "tagline": "完全無料の日本語TTS",
-        "best_for": "無料・ゆっくり系"
-      }
+      "type": "vs_comparison",
+      "category": "AI動画生成",
+      "key": "vs::Runway Gen-4::Veo 3",
+      "title_hint": "Runway Gen-4 vs Veo 3 徹底比較 どっちが高校生におすすめ?",
+      "tools": [
+        {
+          "name": "Runway Gen-4",
+          "vendor": "Runway",
+          "category": "AI動画生成",
+          "price_jpy": "2000-15000",
+          "url": "https://runwayml.com",
+          "tagline": "映画品質の動画AI",
+          "best_for": "プロ品質・編集統合"
+        },
+        {
+          "name": "Veo 3",
+          "vendor": "Google DeepMind",
+          "category": "AI動画生成",
+          "price_jpy": "3000-15000",
+          "url": "https://deepmind.google/veo",
+          "tagline": "音声同時生成のハイエンド動画AI",
+          "best_for": "音付き動画・高品質"
+        }
+      ]
     }
   ]
 }
