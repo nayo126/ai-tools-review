@@ -1,47 +1,47 @@
 {
-  "picked_at": "2026-06-30T21:00:01.583382+00:00",
+  "picked_at": "2026-07-01T21:00:02.117065+00:00",
   "count": 2,
   "items": [
     {
-      "type": "single_review",
-      "category": "AI画像生成",
-      "key": "single::Stable Diffusion",
-      "title_hint": "Stable Diffusion徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Stable Diffusion",
-        "vendor": "Stability AI",
-        "category": "AI画像生成",
-        "price_jpy": "0-2000",
-        "url": "https://stability.ai",
-        "tagline": "ローカル実行可能なOSS画像生成",
-        "best_for": "ローカル運用・カスタム"
-      }
-    },
-    {
       "type": "vs_comparison",
-      "category": "AI動画生成",
-      "key": "vs::Runway Gen-4::Veo 3",
-      "title_hint": "Runway Gen-4 vs Veo 3 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIライティング",
+      "key": "vs::Jasper::Copy.ai",
+      "title_hint": "Jasper vs Copy.ai 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Runway Gen-4",
-          "vendor": "Runway",
-          "category": "AI動画生成",
-          "price_jpy": "2000-15000",
-          "url": "https://runwayml.com",
-          "tagline": "映画品質の動画AI",
-          "best_for": "プロ品質・編集統合"
+          "name": "Jasper",
+          "vendor": "Jasper AI",
+          "category": "AIライティング",
+          "price_jpy": "5000-10000",
+          "url": "https://jasper.ai",
+          "tagline": "マーケ向けライティングAI",
+          "best_for": "コピーライティング"
         },
         {
-          "name": "Veo 3",
-          "vendor": "Google DeepMind",
-          "category": "AI動画生成",
-          "price_jpy": "3000-15000",
-          "url": "https://deepmind.google/veo",
-          "tagline": "音声同時生成のハイエンド動画AI",
-          "best_for": "音付き動画・高品質"
+          "name": "Copy.ai",
+          "vendor": "Copy.ai",
+          "category": "AIライティング",
+          "price_jpy": "0-5000",
+          "url": "https://copy.ai",
+          "tagline": "短文コピー生成に強い",
+          "best_for": "広告コピー"
         }
       ]
+    },
+    {
+      "type": "single_review",
+      "category": "AI動画生成",
+      "key": "single::Runway Gen-4",
+      "title_hint": "Runway Gen-4徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "Runway Gen-4",
+        "vendor": "Runway",
+        "category": "AI動画生成",
+        "price_jpy": "2000-15000",
+        "url": "https://runwayml.com",
+        "tagline": "映画品質の動画AI",
+        "best_for": "プロ品質・編集統合"
+      }
     }
   ]
 }
