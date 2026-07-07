@@ -1,47 +1,85 @@
 {
-  "picked_at": "2026-07-06T21:00:05.391161+00:00",
+  "picked_at": "2026-07-07T21:00:01.608702+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AIライティング",
-      "key": "vs::Catchy::Rytr",
-      "title_hint": "Catchy vs Rytr 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIプロダクティビティ",
+      "key": "vs::Suno::Notion AI",
+      "title_hint": "Suno vs Notion AI 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Catchy",
-          "vendor": "Catchy Inc",
-          "category": "AIライティング",
-          "price_jpy": "0-7000",
-          "url": "https://lp.ai-copywriter.jp",
-          "tagline": "日本発のAIライティング",
-          "best_for": "日本語コピー"
+          "name": "Suno",
+          "vendor": "Suno AI",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "0-1500",
+          "url": "https://suno.com",
+          "tagline": "AI音楽生成の決定版",
+          "best_for": "BGM・楽曲制作"
         },
         {
-          "name": "Rytr",
-          "vendor": "Rytr",
-          "category": "AIライティング",
-          "price_jpy": "0-1500",
-          "url": "https://rytr.me",
-          "tagline": "コスパ重視のライティングAI",
-          "best_for": "ブログ・SNS"
+          "name": "Notion AI",
+          "vendor": "Notion",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "1500-2500",
+          "url": "https://notion.so",
+          "tagline": "Notion統合のドキュメントAI",
+          "best_for": "ノート・タスク・要約"
         }
       ]
     },
     {
-      "type": "single_review",
-      "category": "AI音声合成",
-      "key": "single::にじボイス",
-      "title_hint": "にじボイス徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "にじボイス",
-        "vendor": "Niji",
-        "category": "AI音声合成",
-        "price_jpy": "500-2000",
-        "url": "https://nijivoice.com",
-        "tagline": "感情表現が秀逸な日本語TTS",
-        "best_for": "日本語ナレーション"
-      }
+      "type": "category_roundup",
+      "category": "AIプロダクティビティ",
+      "key": "roundup::AIプロダクティビティ",
+      "title_hint": "【2026最新】AIプロダクティビティおすすめ5選 用途別の選び方",
+      "tools": [
+        {
+          "name": "Copilot",
+          "vendor": "Microsoft",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "0-3500",
+          "url": "https://copilot.microsoft.com",
+          "tagline": "Office統合の生産性AI",
+          "best_for": "Excel/Word/PPT自動化"
+        },
+        {
+          "name": "Suno",
+          "vendor": "Suno AI",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "0-1500",
+          "url": "https://suno.com",
+          "tagline": "AI音楽生成の決定版",
+          "best_for": "BGM・楽曲制作"
+        },
+        {
+          "name": "AIVA",
+          "vendor": "AIVA Technologies",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "0-1700",
+          "url": "https://aiva.ai",
+          "tagline": "クラシック・映像向けAI作曲",
+          "best_for": "クラシック・ループBGM"
+        },
+        {
+          "name": "Soundraw",
+          "vendor": "Soundraw",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "2550",
+          "url": "https://soundraw.io",
+          "tagline": "ロイヤリティフリーのAI音楽",
+          "best_for": "YouTube安全BGM"
+        },
+        {
+          "name": "Notion AI",
+          "vendor": "Notion",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "1500-2500",
+          "url": "https://notion.so",
+          "tagline": "Notion統合のドキュメントAI",
+          "best_for": "ノート・タスク・要約"
+        }
+      ]
     }
   ]
 }

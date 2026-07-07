@@ -8,6 +8,7 @@
   "guide::AI音声合成",
   "guide::対話AI比較",
   "roundup::AIコード補完",
+  "roundup::AIプロダクティビティ",
   "roundup::AI動画生成",
   "roundup::AI画像生成",
   "roundup::AI音声合成",
@@ -70,6 +71,7 @@
   "vs::Runway Gen-4::Veo 3",
   "vs::Stable Diffusion::DALL-E 3",
   "vs::Stable Diffusion::Flux",
+  "vs::Suno::Notion AI",
   "vs::Suno::Soundraw",
   "vs::Windsurf::Claude Code",
   "vs::にじボイス::VOICEVOX"
