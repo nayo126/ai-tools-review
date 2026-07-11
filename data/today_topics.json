@@ -1,46 +1,73 @@
 {
-  "picked_at": "2026-07-08T21:00:03.068957+00:00",
+  "picked_at": "2026-07-11T21:00:04.348831+00:00",
   "count": 2,
   "items": [
     {
-      "type": "vs_comparison",
-      "category": "AIプロダクティビティ",
-      "key": "vs::Copilot::Notion AI",
-      "title_hint": "Copilot vs Notion AI 徹底比較 どっちが高校生におすすめ?",
+      "type": "category_roundup",
+      "category": "AIライティング",
+      "key": "roundup::AIライティング",
+      "title_hint": "【2026最新】AIライティングおすすめ5選 用途別の選び方",
       "tools": [
         {
-          "name": "Copilot",
-          "vendor": "Microsoft",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "0-3500",
-          "url": "https://copilot.microsoft.com",
-          "tagline": "Office統合の生産性AI",
-          "best_for": "Excel/Word/PPT自動化"
+          "name": "Jasper",
+          "vendor": "Jasper AI",
+          "category": "AIライティング",
+          "price_jpy": "5000-10000",
+          "url": "https://jasper.ai",
+          "tagline": "マーケ向けライティングAI",
+          "best_for": "コピーライティング"
         },
         {
-          "name": "Notion AI",
-          "vendor": "Notion",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "1500-2500",
-          "url": "https://notion.so",
-          "tagline": "Notion統合のドキュメントAI",
-          "best_for": "ノート・タスク・要約"
+          "name": "Copy.ai",
+          "vendor": "Copy.ai",
+          "category": "AIライティング",
+          "price_jpy": "0-5000",
+          "url": "https://copy.ai",
+          "tagline": "短文コピー生成に強い",
+          "best_for": "広告コピー"
+        },
+        {
+          "name": "Catchy",
+          "vendor": "Catchy Inc",
+          "category": "AIライティング",
+          "price_jpy": "0-7000",
+          "url": "https://lp.ai-copywriter.jp",
+          "tagline": "日本発のAIライティング",
+          "best_for": "日本語コピー"
+        },
+        {
+          "name": "Rytr",
+          "vendor": "Rytr",
+          "category": "AIライティング",
+          "price_jpy": "0-1500",
+          "url": "https://rytr.me",
+          "tagline": "コスパ重視のライティングAI",
+          "best_for": "ブログ・SNS"
+        },
+        {
+          "name": "QuillBot",
+          "vendor": "QuillBot",
+          "category": "AIライティング",
+          "price_jpy": "0-1500",
+          "url": "https://quillbot.com",
+          "tagline": "言い換え・校正に特化",
+          "best_for": "英文校正・パラフレーズ"
         }
       ]
     },
     {
       "type": "single_review",
-      "category": "対話AI比較",
-      "key": "single::ChatGPT",
-      "title_hint": "ChatGPT徹底レビュー 料金・機能・使い方・評判",
+      "category": "AI翻訳",
+      "key": "single::DeepL",
+      "title_hint": "DeepL徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "ChatGPT",
-        "vendor": "OpenAI",
-        "category": "対話AI比較",
-        "price_jpy": "0-3000",
-        "url": "https://chat.openai.com",
-        "tagline": "最も普及した汎用対話AI",
-        "best_for": "汎用・学習・コーディング"
+        "name": "DeepL",
+        "vendor": "DeepL SE",
+        "category": "AI翻訳",
+        "price_jpy": "0-1200",
+        "url": "https://deepl.com",
+        "tagline": "高精度な翻訳AI",
+        "best_for": "翻訳・要約"
       }
     }
   ]
