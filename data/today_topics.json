@@ -1,73 +1,46 @@
 {
-  "picked_at": "2026-07-11T21:00:04.348831+00:00",
+  "picked_at": "2026-07-12T21:00:02.759558+00:00",
   "count": 2,
   "items": [
     {
-      "type": "category_roundup",
-      "category": "AIライティング",
-      "key": "roundup::AIライティング",
-      "title_hint": "【2026最新】AIライティングおすすめ5選 用途別の選び方",
+      "type": "vs_comparison",
+      "category": "対話AI比較",
+      "key": "vs::ChatGPT::Grok",
+      "title_hint": "ChatGPT vs Grok 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Jasper",
-          "vendor": "Jasper AI",
-          "category": "AIライティング",
-          "price_jpy": "5000-10000",
-          "url": "https://jasper.ai",
-          "tagline": "マーケ向けライティングAI",
-          "best_for": "コピーライティング"
+          "name": "ChatGPT",
+          "vendor": "OpenAI",
+          "category": "対話AI比較",
+          "price_jpy": "0-3000",
+          "url": "https://chat.openai.com",
+          "tagline": "最も普及した汎用対話AI",
+          "best_for": "汎用・学習・コーディング"
         },
         {
-          "name": "Copy.ai",
-          "vendor": "Copy.ai",
-          "category": "AIライティング",
-          "price_jpy": "0-5000",
-          "url": "https://copy.ai",
-          "tagline": "短文コピー生成に強い",
-          "best_for": "広告コピー"
-        },
-        {
-          "name": "Catchy",
-          "vendor": "Catchy Inc",
-          "category": "AIライティング",
-          "price_jpy": "0-7000",
-          "url": "https://lp.ai-copywriter.jp",
-          "tagline": "日本発のAIライティング",
-          "best_for": "日本語コピー"
-        },
-        {
-          "name": "Rytr",
-          "vendor": "Rytr",
-          "category": "AIライティング",
-          "price_jpy": "0-1500",
-          "url": "https://rytr.me",
-          "tagline": "コスパ重視のライティングAI",
-          "best_for": "ブログ・SNS"
-        },
-        {
-          "name": "QuillBot",
-          "vendor": "QuillBot",
-          "category": "AIライティング",
-          "price_jpy": "0-1500",
-          "url": "https://quillbot.com",
-          "tagline": "言い換え・校正に特化",
-          "best_for": "英文校正・パラフレーズ"
+          "name": "Grok",
+          "vendor": "xAI",
+          "category": "対話AI比較",
+          "price_jpy": "1500-3000",
+          "url": "https://grok.x.ai",
+          "tagline": "X(Twitter)統合のリアルタイムAI",
+          "best_for": "速報・SNSトレンド"
         }
       ]
     },
     {
       "type": "single_review",
-      "category": "AI翻訳",
-      "key": "single::DeepL",
-      "title_hint": "DeepL徹底レビュー 料金・機能・使い方・評判",
+      "category": "AIライティング",
+      "key": "single::QuillBot",
+      "title_hint": "QuillBot徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "DeepL",
-        "vendor": "DeepL SE",
-        "category": "AI翻訳",
-        "price_jpy": "0-1200",
-        "url": "https://deepl.com",
-        "tagline": "高精度な翻訳AI",
-        "best_for": "翻訳・要約"
+        "name": "QuillBot",
+        "vendor": "QuillBot",
+        "category": "AIライティング",
+        "price_jpy": "0-1500",
+        "url": "https://quillbot.com",
+        "tagline": "言い換え・校正に特化",
+        "best_for": "英文校正・パラフレーズ"
       }
     }
   ]
