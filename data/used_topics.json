@@ -1,4 +1,5 @@
 [
+  "guide::AIコード補完",
   "guide::AIプロダクティビティ",
   "guide::AIライティング",
   "guide::AI動画生成",
@@ -68,6 +69,7 @@
   "vs::GitHub Copilot::Windsurf",
   "vs::Jasper::Catchy",
   "vs::Jasper::Copy.ai",
+  "vs::Jasper::QuillBot",
   "vs::Jasper::Rytr",
   "vs::Kling::Runway Gen-4",
   "vs::Midjourney::DALL-E 3",
