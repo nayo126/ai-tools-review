@@ -1,76 +1,47 @@
 {
-  "picked_at": "2026-07-13T21:00:05.157658+00:00",
+  "picked_at": "2026-07-14T21:00:03.090735+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AIライティング",
-      "key": "vs::Jasper::QuillBot",
-      "title_hint": "Jasper vs QuillBot 徹底比較 どっちが高校生におすすめ?",
+      "category": "対話AI比較",
+      "key": "vs::Gemini::Grok",
+      "title_hint": "Gemini vs Grok 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Jasper",
-          "vendor": "Jasper AI",
-          "category": "AIライティング",
-          "price_jpy": "5000-10000",
-          "url": "https://jasper.ai",
-          "tagline": "マーケ向けライティングAI",
-          "best_for": "コピーライティング"
+          "name": "Gemini",
+          "vendor": "Google",
+          "category": "対話AI比較",
+          "price_jpy": "0-2900",
+          "url": "https://gemini.google.com",
+          "tagline": "Google統合・無料枠が広い",
+          "best_for": "検索連携・無料利用"
         },
         {
-          "name": "QuillBot",
-          "vendor": "QuillBot",
-          "category": "AIライティング",
-          "price_jpy": "0-1500",
-          "url": "https://quillbot.com",
-          "tagline": "言い換え・校正に特化",
-          "best_for": "英文校正・パラフレーズ"
+          "name": "Grok",
+          "vendor": "xAI",
+          "category": "対話AI比較",
+          "price_jpy": "1500-3000",
+          "url": "https://grok.x.ai",
+          "tagline": "X(Twitter)統合のリアルタイムAI",
+          "best_for": "速報・SNSトレンド"
         }
       ]
     },
     {
-      "type": "buying_guide",
-      "category": "AIコード補完",
-      "key": "guide::AIコード補完",
-      "title_hint": "AIコード補完の選び方完全ガイド 失敗しない7つの基準",
-      "tools": [
-        {
-          "name": "Cursor",
-          "vendor": "Anysphere",
-          "category": "AIコード補完",
-          "price_jpy": "0-3000",
-          "url": "https://cursor.com",
-          "tagline": "AI統合エディタの定番",
-          "best_for": "コーディング・開発"
-        },
-        {
-          "name": "GitHub Copilot",
-          "vendor": "GitHub",
-          "category": "AIコード補完",
-          "price_jpy": "1500-3000",
-          "url": "https://github.com/copilot",
-          "tagline": "IDEで使える老舗のコード補完AI",
-          "best_for": "VSCode/JetBrains統合"
-        },
-        {
-          "name": "Windsurf",
-          "vendor": "Codeium",
-          "category": "AIコード補完",
-          "price_jpy": "0-2200",
-          "url": "https://codeium.com/windsurf",
-          "tagline": "エージェント型のAIエディタ",
-          "best_for": "自動コーディング"
-        },
-        {
-          "name": "Claude Code",
-          "vendor": "Anthropic",
-          "category": "AIコード補完",
-          "price_jpy": "0-3000",
-          "url": "https://www.anthropic.com/claude-code",
-          "tagline": "CLIで動くClaude公式コーディングエージェント",
-          "best_for": "ターミナル開発"
-        }
-      ]
+      "type": "single_review",
+      "category": "対話AI比較",
+      "key": "single::Gemini",
+      "title_hint": "Gemini徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "Gemini",
+        "vendor": "Google",
+        "category": "対話AI比較",
+        "price_jpy": "0-2900",
+        "url": "https://gemini.google.com",
+        "tagline": "Google統合・無料枠が広い",
+        "best_for": "検索連携・無料利用"
+      }
     }
   ]
 }
