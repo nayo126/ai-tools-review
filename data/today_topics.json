@@ -1,12 +1,12 @@
 {
-  "picked_at": "2026-07-15T21:00:01.522624+00:00",
+  "picked_at": "2026-07-16T21:00:04.611046+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
       "category": "対話AI比較",
-      "key": "vs::Claude::Gemini",
-      "title_hint": "Claude vs Gemini 徹底比較 どっちが高校生におすすめ?",
+      "key": "vs::Claude::Grok",
+      "title_hint": "Claude vs Grok 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
           "name": "Claude",
@@ -18,29 +18,29 @@
           "best_for": "長文・要約・分析"
         },
         {
-          "name": "Gemini",
-          "vendor": "Google",
+          "name": "Grok",
+          "vendor": "xAI",
           "category": "対話AI比較",
-          "price_jpy": "0-2900",
-          "url": "https://gemini.google.com",
-          "tagline": "Google統合・無料枠が広い",
-          "best_for": "検索連携・無料利用"
+          "price_jpy": "1500-3000",
+          "url": "https://grok.x.ai",
+          "tagline": "X(Twitter)統合のリアルタイムAI",
+          "best_for": "速報・SNSトレンド"
         }
       ]
     },
     {
       "type": "single_review",
-      "category": "AIライティング",
-      "key": "single::Rytr",
-      "title_hint": "Rytr徹底レビュー 料金・機能・使い方・評判",
+      "category": "AIコード補完",
+      "key": "single::Cursor",
+      "title_hint": "Cursor徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "Rytr",
-        "vendor": "Rytr",
-        "category": "AIライティング",
-        "price_jpy": "0-1500",
-        "url": "https://rytr.me",
-        "tagline": "コスパ重視のライティングAI",
-        "best_for": "ブログ・SNS"
+        "name": "Cursor",
+        "vendor": "Anysphere",
+        "category": "AIコード補完",
+        "price_jpy": "0-3000",
+        "url": "https://cursor.com",
+        "tagline": "AI統合エディタの定番",
+        "best_for": "コーディング・開発"
       }
     }
   ]
