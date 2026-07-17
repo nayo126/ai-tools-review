@@ -1,46 +1,46 @@
 {
-  "picked_at": "2026-07-16T21:00:04.611046+00:00",
+  "picked_at": "2026-07-17T21:00:03.039739+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "対話AI比較",
-      "key": "vs::Claude::Grok",
-      "title_hint": "Claude vs Grok 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIコード補完",
+      "key": "vs::Cursor::GitHub Copilot",
+      "title_hint": "Cursor vs GitHub Copilot 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Claude",
-          "vendor": "Anthropic",
-          "category": "対話AI比較",
+          "name": "Cursor",
+          "vendor": "Anysphere",
+          "category": "AIコード補完",
           "price_jpy": "0-3000",
-          "url": "https://claude.ai",
-          "tagline": "長文・コーディング・安全性に強い",
-          "best_for": "長文・要約・分析"
+          "url": "https://cursor.com",
+          "tagline": "AI統合エディタの定番",
+          "best_for": "コーディング・開発"
         },
         {
-          "name": "Grok",
-          "vendor": "xAI",
-          "category": "対話AI比較",
+          "name": "GitHub Copilot",
+          "vendor": "GitHub",
+          "category": "AIコード補完",
           "price_jpy": "1500-3000",
-          "url": "https://grok.x.ai",
-          "tagline": "X(Twitter)統合のリアルタイムAI",
-          "best_for": "速報・SNSトレンド"
+          "url": "https://github.com/copilot",
+          "tagline": "IDEで使える老舗のコード補完AI",
+          "best_for": "VSCode/JetBrains統合"
         }
       ]
     },
     {
       "type": "single_review",
-      "category": "AIコード補完",
-      "key": "single::Cursor",
-      "title_hint": "Cursor徹底レビュー 料金・機能・使い方・評判",
+      "category": "AIプロダクティビティ",
+      "key": "single::Notion AI",
+      "title_hint": "Notion AI徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "Cursor",
-        "vendor": "Anysphere",
-        "category": "AIコード補完",
-        "price_jpy": "0-3000",
-        "url": "https://cursor.com",
-        "tagline": "AI統合エディタの定番",
-        "best_for": "コーディング・開発"
+        "name": "Notion AI",
+        "vendor": "Notion",
+        "category": "AIプロダクティビティ",
+        "price_jpy": "1500-2500",
+        "url": "https://notion.so",
+        "tagline": "Notion統合のドキュメントAI",
+        "best_for": "ノート・タスク・要約"
       }
     }
   ]
