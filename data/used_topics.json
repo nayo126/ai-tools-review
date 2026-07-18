@@ -1,5 +1,6 @@
 [
   "guide::AIコード補完",
+  "guide::AIデザイン",
   "guide::AIプロダクティビティ",
   "guide::AIライティング",
   "guide::AI動画生成",
@@ -80,6 +81,7 @@
   "vs::Jasper::QuillBot",
   "vs::Jasper::Rytr",
   "vs::Kling::Runway Gen-4",
+  "vs::Kling::Veo 3",
   "vs::Midjourney::DALL-E 3",
   "vs::Midjourney::Flux",
   "vs::Midjourney::Ideogram",

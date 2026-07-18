@@ -1,47 +1,58 @@
 {
-  "picked_at": "2026-07-17T21:00:03.039739+00:00",
+  "picked_at": "2026-07-18T21:00:04.591934+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AIコード補完",
-      "key": "vs::Cursor::GitHub Copilot",
-      "title_hint": "Cursor vs GitHub Copilot 徹底比較 どっちが高校生におすすめ?",
+      "category": "AI動画生成",
+      "key": "vs::Kling::Veo 3",
+      "title_hint": "Kling vs Veo 3 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Cursor",
-          "vendor": "Anysphere",
-          "category": "AIコード補完",
-          "price_jpy": "0-3000",
-          "url": "https://cursor.com",
-          "tagline": "AI統合エディタの定番",
-          "best_for": "コーディング・開発"
+          "name": "Kling",
+          "vendor": "Kuaishou",
+          "category": "AI動画生成",
+          "price_jpy": "1000-5000",
+          "url": "https://klingai.com",
+          "tagline": "ELO 1位の動画生成AI",
+          "best_for": "短尺動画・コスパ"
         },
         {
-          "name": "GitHub Copilot",
-          "vendor": "GitHub",
-          "category": "AIコード補完",
-          "price_jpy": "1500-3000",
-          "url": "https://github.com/copilot",
-          "tagline": "IDEで使える老舗のコード補完AI",
-          "best_for": "VSCode/JetBrains統合"
+          "name": "Veo 3",
+          "vendor": "Google DeepMind",
+          "category": "AI動画生成",
+          "price_jpy": "3000-15000",
+          "url": "https://deepmind.google/veo",
+          "tagline": "音声同時生成のハイエンド動画AI",
+          "best_for": "音付き動画・高品質"
         }
       ]
     },
     {
-      "type": "single_review",
-      "category": "AIプロダクティビティ",
-      "key": "single::Notion AI",
-      "title_hint": "Notion AI徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Notion AI",
-        "vendor": "Notion",
-        "category": "AIプロダクティビティ",
-        "price_jpy": "1500-2500",
-        "url": "https://notion.so",
-        "tagline": "Notion統合のドキュメントAI",
-        "best_for": "ノート・タスク・要約"
-      }
+      "type": "buying_guide",
+      "category": "AIデザイン",
+      "key": "guide::AIデザイン",
+      "title_hint": "AIデザインの選び方完全ガイド 失敗しない7つの基準",
+      "tools": [
+        {
+          "name": "Canva AI",
+          "vendor": "Canva",
+          "category": "AIデザイン",
+          "price_jpy": "0-1500",
+          "url": "https://canva.com",
+          "tagline": "デザインツール統合のAI",
+          "best_for": "SNS画像・プレゼン"
+        },
+        {
+          "name": "Figma AI",
+          "vendor": "Figma",
+          "category": "AIデザイン",
+          "price_jpy": "0-2000",
+          "url": "https://figma.com",
+          "tagline": "デザインツール統合のAI",
+          "best_for": "UIデザイン・プロトタイプ"
+        }
+      ]
     }
   ]
 }
