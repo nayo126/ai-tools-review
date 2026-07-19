@@ -1,12 +1,12 @@
 {
-  "picked_at": "2026-07-18T21:00:04.591934+00:00",
+  "picked_at": "2026-07-19T21:00:02.765926+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
       "category": "AI動画生成",
-      "key": "vs::Kling::Veo 3",
-      "title_hint": "Kling vs Veo 3 徹底比較 どっちが高校生におすすめ?",
+      "key": "vs::Kling::Hailuo",
+      "title_hint": "Kling vs Hailuo 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
           "name": "Kling",
@@ -18,39 +18,39 @@
           "best_for": "短尺動画・コスパ"
         },
         {
-          "name": "Veo 3",
-          "vendor": "Google DeepMind",
+          "name": "Hailuo",
+          "vendor": "MiniMax",
           "category": "AI動画生成",
-          "price_jpy": "3000-15000",
-          "url": "https://deepmind.google/veo",
-          "tagline": "音声同時生成のハイエンド動画AI",
-          "best_for": "音付き動画・高品質"
+          "price_jpy": "1500",
+          "url": "https://hailuoai.video",
+          "tagline": "1080p/6秒の安価な動画AI",
+          "best_for": "量産・コスト重視"
         }
       ]
     },
     {
-      "type": "buying_guide",
-      "category": "AIデザイン",
-      "key": "guide::AIデザイン",
-      "title_hint": "AIデザインの選び方完全ガイド 失敗しない7つの基準",
+      "type": "vs_comparison",
+      "category": "AIライティング",
+      "key": "vs::Rytr::QuillBot",
+      "title_hint": "Rytr vs QuillBot 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Canva AI",
-          "vendor": "Canva",
-          "category": "AIデザイン",
+          "name": "Rytr",
+          "vendor": "Rytr",
+          "category": "AIライティング",
           "price_jpy": "0-1500",
-          "url": "https://canva.com",
-          "tagline": "デザインツール統合のAI",
-          "best_for": "SNS画像・プレゼン"
+          "url": "https://rytr.me",
+          "tagline": "コスパ重視のライティングAI",
+          "best_for": "ブログ・SNS"
         },
         {
-          "name": "Figma AI",
-          "vendor": "Figma",
-          "category": "AIデザイン",
-          "price_jpy": "0-2000",
-          "url": "https://figma.com",
-          "tagline": "デザインツール統合のAI",
-          "best_for": "UIデザイン・プロトタイプ"
+          "name": "QuillBot",
+          "vendor": "QuillBot",
+          "category": "AIライティング",
+          "price_jpy": "0-1500",
+          "url": "https://quillbot.com",
+          "tagline": "言い換え・校正に特化",
+          "best_for": "英文校正・パラフレーズ"
         }
       ]
     }
