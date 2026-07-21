@@ -1,39 +1,48 @@
 {
-  "picked_at": "2026-07-20T21:00:04.941579+00:00",
+  "picked_at": "2026-07-21T21:00:01.275045+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
       "category": "AIプロダクティビティ",
-      "key": "vs::Soundraw::Notion AI",
-      "title_hint": "Soundraw vs Notion AI 徹底比較 どっちが高校生におすすめ?",
+      "key": "vs::Copilot::AIVA",
+      "title_hint": "Copilot vs AIVA 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Soundraw",
-          "vendor": "Soundraw",
+          "name": "Copilot",
+          "vendor": "Microsoft",
           "category": "AIプロダクティビティ",
-          "price_jpy": "2550",
-          "url": "https://soundraw.io",
-          "tagline": "ロイヤリティフリーのAI音楽",
-          "best_for": "YouTube安全BGM"
+          "price_jpy": "0-3500",
+          "url": "https://copilot.microsoft.com",
+          "tagline": "Office統合の生産性AI",
+          "best_for": "Excel/Word/PPT自動化"
         },
         {
-          "name": "Notion AI",
-          "vendor": "Notion",
+          "name": "AIVA",
+          "vendor": "AIVA Technologies",
           "category": "AIプロダクティビティ",
-          "price_jpy": "1500-2500",
-          "url": "https://notion.so",
-          "tagline": "Notion統合のドキュメントAI",
-          "best_for": "ノート・タスク・要約"
+          "price_jpy": "0-1700",
+          "url": "https://aiva.ai",
+          "tagline": "クラシック・映像向けAI作曲",
+          "best_for": "クラシック・ループBGM"
         }
       ]
     },
     {
       "type": "vs_comparison",
       "category": "AI画像生成",
-      "key": "vs::Ideogram::Flux",
-      "title_hint": "Ideogram vs Flux 徹底比較 どっちが高校生におすすめ?",
+      "key": "vs::Stable Diffusion::Ideogram",
+      "title_hint": "Stable Diffusion vs Ideogram 徹底比較 どっちが高校生におすすめ?",
       "tools": [
+        {
+          "name": "Stable Diffusion",
+          "vendor": "Stability AI",
+          "category": "AI画像生成",
+          "price_jpy": "0-2000",
+          "url": "https://stability.ai",
+          "tagline": "ローカル実行可能なOSS画像生成",
+          "best_for": "ローカル運用・カスタム"
+        },
         {
           "name": "Ideogram",
           "vendor": "Ideogram AI",
@@ -42,15 +51,6 @@
           "url": "https://ideogram.ai",
           "tagline": "文字入り画像が綺麗",
           "best_for": "ロゴ・サムネ・看板"
-        },
-        {
-          "name": "Flux",
-          "vendor": "Black Forest Labs",
-          "category": "AI画像生成",
-          "price_jpy": "0-1500",
-          "url": "https://blackforestlabs.ai",
-          "tagline": "写実とコスパの新興",
-          "best_for": "写実・人物"
         }
       ]
     }
