@@ -1,21 +1,21 @@
 {
-  "picked_at": "2026-07-21T21:00:01.275045+00:00",
+  "picked_at": "2026-07-22T21:00:01.430957+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
       "category": "AIプロダクティビティ",
-      "key": "vs::Copilot::AIVA",
-      "title_hint": "Copilot vs AIVA 徹底比較 どっちが高校生におすすめ?",
+      "key": "vs::Suno::AIVA",
+      "title_hint": "Suno vs AIVA 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Copilot",
-          "vendor": "Microsoft",
+          "name": "Suno",
+          "vendor": "Suno AI",
           "category": "AIプロダクティビティ",
-          "price_jpy": "0-3500",
-          "url": "https://copilot.microsoft.com",
-          "tagline": "Office統合の生産性AI",
-          "best_for": "Excel/Word/PPT自動化"
+          "price_jpy": "0-1500",
+          "url": "https://suno.com",
+          "tagline": "AI音楽生成の決定版",
+          "best_for": "BGM・楽曲制作"
         },
         {
           "name": "AIVA",
@@ -30,27 +30,27 @@
     },
     {
       "type": "vs_comparison",
-      "category": "AI画像生成",
-      "key": "vs::Stable Diffusion::Ideogram",
-      "title_hint": "Stable Diffusion vs Ideogram 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIプロダクティビティ",
+      "key": "vs::AIVA::Soundraw",
+      "title_hint": "AIVA vs Soundraw 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Stable Diffusion",
-          "vendor": "Stability AI",
-          "category": "AI画像生成",
-          "price_jpy": "0-2000",
-          "url": "https://stability.ai",
-          "tagline": "ローカル実行可能なOSS画像生成",
-          "best_for": "ローカル運用・カスタム"
+          "name": "AIVA",
+          "vendor": "AIVA Technologies",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "0-1700",
+          "url": "https://aiva.ai",
+          "tagline": "クラシック・映像向けAI作曲",
+          "best_for": "クラシック・ループBGM"
         },
         {
-          "name": "Ideogram",
-          "vendor": "Ideogram AI",
-          "category": "AI画像生成",
-          "price_jpy": "0-2000",
-          "url": "https://ideogram.ai",
-          "tagline": "文字入り画像が綺麗",
-          "best_for": "ロゴ・サムネ・看板"
+          "name": "Soundraw",
+          "vendor": "Soundraw",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "2550",
+          "url": "https://soundraw.io",
+          "tagline": "ロイヤリティフリーのAI音楽",
+          "best_for": "YouTube安全BGM"
         }
       ]
     }
