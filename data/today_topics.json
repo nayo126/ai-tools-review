@@ -1,56 +1,30 @@
 {
-  "picked_at": "2026-07-24T21:00:05.576926+00:00",
-  "count": 2,
+  "picked_at": "2026-07-25T21:00:01.809951+00:00",
+  "count": 1,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AI動画生成",
-      "key": "vs::Hailuo::Veo 3",
-      "title_hint": "Hailuo vs Veo 3 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIコード補完",
+      "key": "vs::GitHub Copilot::Claude Code",
+      "title_hint": "GitHub Copilot vs Claude Code 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Hailuo",
-          "vendor": "MiniMax",
-          "category": "AI動画生成",
-          "price_jpy": "1500",
-          "url": "https://hailuoai.video",
-          "tagline": "1080p/6秒の安価な動画AI",
-          "best_for": "量産・コスト重視"
+          "name": "GitHub Copilot",
+          "vendor": "GitHub",
+          "category": "AIコード補完",
+          "price_jpy": "1500-3000",
+          "url": "https://github.com/copilot",
+          "tagline": "IDEで使える老舗のコード補完AI",
+          "best_for": "VSCode/JetBrains統合"
         },
         {
-          "name": "Veo 3",
-          "vendor": "Google DeepMind",
-          "category": "AI動画生成",
-          "price_jpy": "3000-15000",
-          "url": "https://deepmind.google/veo",
-          "tagline": "音声同時生成のハイエンド動画AI",
-          "best_for": "音付き動画・高品質"
-        }
-      ]
-    },
-    {
-      "type": "vs_comparison",
-      "category": "AI画像生成",
-      "key": "vs::Midjourney::Stable Diffusion",
-      "title_hint": "Midjourney vs Stable Diffusion 徹底比較 どっちが高校生におすすめ?",
-      "tools": [
-        {
-          "name": "Midjourney",
-          "vendor": "Midjourney Inc",
-          "category": "AI画像生成",
-          "price_jpy": "1500-10000",
-          "url": "https://midjourney.com",
-          "tagline": "美術品質No.1の画像生成",
-          "best_for": "アート・コンセプト画像"
-        },
-        {
-          "name": "Stable Diffusion",
-          "vendor": "Stability AI",
-          "category": "AI画像生成",
-          "price_jpy": "0-2000",
-          "url": "https://stability.ai",
-          "tagline": "ローカル実行可能なOSS画像生成",
-          "best_for": "ローカル運用・カスタム"
+          "name": "Claude Code",
+          "vendor": "Anthropic",
+          "category": "AIコード補完",
+          "price_jpy": "0-3000",
+          "url": "https://www.anthropic.com/claude-code",
+          "tagline": "CLIで動くClaude公式コーディングエージェント",
+          "best_for": "ターミナル開発"
         }
       ]
     }
