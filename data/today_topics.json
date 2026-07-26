@@ -1,13 +1,22 @@
 {
-  "picked_at": "2026-07-25T21:00:01.809951+00:00",
-  "count": 1,
+  "picked_at": "2026-07-26T21:00:05.173590+00:00",
+  "count": 2,
   "items": [
     {
-      "type": "vs_comparison",
+      "type": "buying_guide",
       "category": "AIコード補完",
-      "key": "vs::GitHub Copilot::Claude Code",
-      "title_hint": "GitHub Copilot vs Claude Code 徹底比較 どっちが高校生におすすめ?",
+      "key": "guide::AIコード補完",
+      "title_hint": "AIコード補完の選び方完全ガイド 失敗しない7つの基準",
       "tools": [
+        {
+          "name": "Cursor",
+          "vendor": "Anysphere",
+          "category": "AIコード補完",
+          "price_jpy": "0-3000",
+          "url": "https://cursor.com",
+          "tagline": "AI統合エディタの定番",
+          "best_for": "コーディング・開発"
+        },
         {
           "name": "GitHub Copilot",
           "vendor": "GitHub",
@@ -16,6 +25,15 @@
           "url": "https://github.com/copilot",
           "tagline": "IDEで使える老舗のコード補完AI",
           "best_for": "VSCode/JetBrains統合"
+        },
+        {
+          "name": "Windsurf",
+          "vendor": "Codeium",
+          "category": "AIコード補完",
+          "price_jpy": "0-2200",
+          "url": "https://codeium.com/windsurf",
+          "tagline": "エージェント型のAIエディタ",
+          "best_for": "自動コーディング"
         },
         {
           "name": "Claude Code",
@@ -27,6 +45,21 @@
           "best_for": "ターミナル開発"
         }
       ]
+    },
+    {
+      "type": "single_review",
+      "category": "AI翻訳",
+      "key": "single::DeepL",
+      "title_hint": "DeepL徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "DeepL",
+        "vendor": "DeepL SE",
+        "category": "AI翻訳",
+        "price_jpy": "0-1200",
+        "url": "https://deepl.com",
+        "tagline": "高精度な翻訳AI",
+        "best_for": "翻訳・要約"
+      }
     }
   ]
 }
