@@ -1,6 +1,8 @@
 [
   "guide::AIコード補完",
+  "guide::AIデザイン",
   "roundup::対話AI比較",
   "single::DeepL",
+  "vs::ElevenLabs::にじボイス",
   "vs::Midjourney::Stable Diffusion"
 ]

@@ -1,74 +1,56 @@
 {
-  "picked_at": "2026-07-27T21:00:05.514049+00:00",
+  "picked_at": "2026-07-28T21:00:05.782079+00:00",
   "count": 2,
   "items": [
     {
-      "type": "category_roundup",
-      "category": "対話AI比較",
-      "key": "roundup::対話AI比較",
-      "title_hint": "【2026最新】対話AI比較おすすめ4選 用途別の選び方",
+      "type": "vs_comparison",
+      "category": "AI音声合成",
+      "key": "vs::ElevenLabs::にじボイス",
+      "title_hint": "ElevenLabs vs にじボイス 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "ChatGPT",
-          "vendor": "OpenAI",
-          "category": "対話AI比較",
+          "name": "ElevenLabs",
+          "vendor": "ElevenLabs",
+          "category": "AI音声合成",
           "price_jpy": "0-3000",
-          "url": "https://chat.openai.com",
-          "tagline": "最も普及した汎用対話AI",
-          "best_for": "汎用・学習・コーディング"
+          "url": "https://elevenlabs.io",
+          "tagline": "多言語・感情豊かな音声合成",
+          "best_for": "YouTube・ナレーション"
         },
         {
-          "name": "Claude",
-          "vendor": "Anthropic",
-          "category": "対話AI比較",
-          "price_jpy": "0-3000",
-          "url": "https://claude.ai",
-          "tagline": "長文・コーディング・安全性に強い",
-          "best_for": "長文・要約・分析"
-        },
-        {
-          "name": "Gemini",
-          "vendor": "Google",
-          "category": "対話AI比較",
-          "price_jpy": "0-2900",
-          "url": "https://gemini.google.com",
-          "tagline": "Google統合・無料枠が広い",
-          "best_for": "検索連携・無料利用"
-        },
-        {
-          "name": "Grok",
-          "vendor": "xAI",
-          "category": "対話AI比較",
-          "price_jpy": "1500-3000",
-          "url": "https://grok.x.ai",
-          "tagline": "X(Twitter)統合のリアルタイムAI",
-          "best_for": "速報・SNSトレンド"
+          "name": "にじボイス",
+          "vendor": "Niji",
+          "category": "AI音声合成",
+          "price_jpy": "500-2000",
+          "url": "https://nijivoice.com",
+          "tagline": "感情表現が秀逸な日本語TTS",
+          "best_for": "日本語ナレーション"
         }
       ]
     },
     {
-      "type": "vs_comparison",
-      "category": "AI画像生成",
-      "key": "vs::Midjourney::Stable Diffusion",
-      "title_hint": "Midjourney vs Stable Diffusion 徹底比較 どっちが高校生におすすめ?",
+      "type": "buying_guide",
+      "category": "AIデザイン",
+      "key": "guide::AIデザイン",
+      "title_hint": "AIデザインの選び方完全ガイド 失敗しない7つの基準",
       "tools": [
         {
-          "name": "Midjourney",
-          "vendor": "Midjourney Inc",
-          "category": "AI画像生成",
-          "price_jpy": "1500-10000",
-          "url": "https://midjourney.com",
-          "tagline": "美術品質No.1の画像生成",
-          "best_for": "アート・コンセプト画像"
+          "name": "Canva AI",
+          "vendor": "Canva",
+          "category": "AIデザイン",
+          "price_jpy": "0-1500",
+          "url": "https://canva.com",
+          "tagline": "デザインツール統合のAI",
+          "best_for": "SNS画像・プレゼン"
         },
         {
-          "name": "Stable Diffusion",
-          "vendor": "Stability AI",
-          "category": "AI画像生成",
+          "name": "Figma AI",
+          "vendor": "Figma",
+          "category": "AIデザイン",
           "price_jpy": "0-2000",
-          "url": "https://stability.ai",
-          "tagline": "ローカル実行可能なOSS画像生成",
-          "best_for": "ローカル運用・カスタム"
+          "url": "https://figma.com",
+          "tagline": "デザインツール統合のAI",
+          "best_for": "UIデザイン・プロトタイプ"
         }
       ]
     }
