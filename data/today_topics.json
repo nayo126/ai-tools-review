@@ -1,58 +1,47 @@
 {
-  "picked_at": "2026-07-28T21:00:05.782079+00:00",
+  "picked_at": "2026-07-29T21:00:01.365842+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AI音声合成",
-      "key": "vs::ElevenLabs::にじボイス",
-      "title_hint": "ElevenLabs vs にじボイス 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIライティング",
+      "key": "vs::Copy.ai::Catchy",
+      "title_hint": "Copy.ai vs Catchy 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "ElevenLabs",
-          "vendor": "ElevenLabs",
-          "category": "AI音声合成",
-          "price_jpy": "0-3000",
-          "url": "https://elevenlabs.io",
-          "tagline": "多言語・感情豊かな音声合成",
-          "best_for": "YouTube・ナレーション"
+          "name": "Copy.ai",
+          "vendor": "Copy.ai",
+          "category": "AIライティング",
+          "price_jpy": "0-5000",
+          "url": "https://copy.ai",
+          "tagline": "短文コピー生成に強い",
+          "best_for": "広告コピー"
         },
         {
-          "name": "にじボイス",
-          "vendor": "Niji",
-          "category": "AI音声合成",
-          "price_jpy": "500-2000",
-          "url": "https://nijivoice.com",
-          "tagline": "感情表現が秀逸な日本語TTS",
-          "best_for": "日本語ナレーション"
+          "name": "Catchy",
+          "vendor": "Catchy Inc",
+          "category": "AIライティング",
+          "price_jpy": "0-7000",
+          "url": "https://lp.ai-copywriter.jp",
+          "tagline": "日本発のAIライティング",
+          "best_for": "日本語コピー"
         }
       ]
     },
     {
-      "type": "buying_guide",
-      "category": "AIデザイン",
-      "key": "guide::AIデザイン",
-      "title_hint": "AIデザインの選び方完全ガイド 失敗しない7つの基準",
-      "tools": [
-        {
-          "name": "Canva AI",
-          "vendor": "Canva",
-          "category": "AIデザイン",
-          "price_jpy": "0-1500",
-          "url": "https://canva.com",
-          "tagline": "デザインツール統合のAI",
-          "best_for": "SNS画像・プレゼン"
-        },
-        {
-          "name": "Figma AI",
-          "vendor": "Figma",
-          "category": "AIデザイン",
-          "price_jpy": "0-2000",
-          "url": "https://figma.com",
-          "tagline": "デザインツール統合のAI",
-          "best_for": "UIデザイン・プロトタイプ"
-        }
-      ]
+      "type": "single_review",
+      "category": "AI音声合成",
+      "key": "single::ElevenLabs",
+      "title_hint": "ElevenLabs徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "ElevenLabs",
+        "vendor": "ElevenLabs",
+        "category": "AI音声合成",
+        "price_jpy": "0-3000",
+        "url": "https://elevenlabs.io",
+        "tagline": "多言語・感情豊かな音声合成",
+        "best_for": "YouTube・ナレーション"
+      }
     }
   ]
 }
