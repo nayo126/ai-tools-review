@@ -1,9 +1,11 @@
 [
   "guide::AIコード補完",
   "guide::AIデザイン",
+  "guide::対話AI比較",
   "roundup::対話AI比較",
   "single::DeepL",
   "single::ElevenLabs",
+  "single::Notion AI",
   "vs::Copy.ai::Catchy",
   "vs::ElevenLabs::にじボイス",
   "vs::Midjourney::Stable Diffusion"
