@@ -6,6 +6,8 @@
   "single::DeepL",
   "single::ElevenLabs",
   "single::Notion AI",
+  "single::Suno",
+  "vs::Copilot::AIVA",
   "vs::Copy.ai::Catchy",
   "vs::ElevenLabs::にじボイス",
   "vs::Midjourney::Stable Diffusion"

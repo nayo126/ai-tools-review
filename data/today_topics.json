@@ -1,63 +1,45 @@
 {
-  "picked_at": "2026-07-30T21:00:03.498578+00:00",
+  "picked_at": "2026-07-31T21:00:02.908784+00:00",
   "count": 2,
   "items": [
     {
       "type": "single_review",
       "category": "AIプロダクティビティ",
-      "key": "single::Notion AI",
-      "title_hint": "Notion AI徹底レビュー 料金・機能・使い方・評判",
+      "key": "single::Suno",
+      "title_hint": "Suno徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "Notion AI",
-        "vendor": "Notion",
+        "name": "Suno",
+        "vendor": "Suno AI",
         "category": "AIプロダクティビティ",
-        "price_jpy": "1500-2500",
-        "url": "https://notion.so",
-        "tagline": "Notion統合のドキュメントAI",
-        "best_for": "ノート・タスク・要約"
+        "price_jpy": "0-1500",
+        "url": "https://suno.com",
+        "tagline": "AI音楽生成の決定版",
+        "best_for": "BGM・楽曲制作"
       }
     },
     {
-      "type": "buying_guide",
-      "category": "対話AI比較",
-      "key": "guide::対話AI比較",
-      "title_hint": "対話AI比較の選び方完全ガイド 失敗しない7つの基準",
+      "type": "vs_comparison",
+      "category": "AIプロダクティビティ",
+      "key": "vs::Copilot::AIVA",
+      "title_hint": "Copilot vs AIVA 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "ChatGPT",
-          "vendor": "OpenAI",
-          "category": "対話AI比較",
-          "price_jpy": "0-3000",
-          "url": "https://chat.openai.com",
-          "tagline": "最も普及した汎用対話AI",
-          "best_for": "汎用・学習・コーディング"
+          "name": "Copilot",
+          "vendor": "Microsoft",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "0-3500",
+          "url": "https://copilot.microsoft.com",
+          "tagline": "Office統合の生産性AI",
+          "best_for": "Excel/Word/PPT自動化"
         },
         {
-          "name": "Claude",
-          "vendor": "Anthropic",
-          "category": "対話AI比較",
-          "price_jpy": "0-3000",
-          "url": "https://claude.ai",
-          "tagline": "長文・コーディング・安全性に強い",
-          "best_for": "長文・要約・分析"
-        },
-        {
-          "name": "Gemini",
-          "vendor": "Google",
-          "category": "対話AI比較",
-          "price_jpy": "0-2900",
-          "url": "https://gemini.google.com",
-          "tagline": "Google統合・無料枠が広い",
-          "best_for": "検索連携・無料利用"
-        },
-        {
-          "name": "Grok",
-          "vendor": "xAI",
-          "category": "対話AI比較",
-          "price_jpy": "1500-3000",
-          "url": "https://grok.x.ai",
-          "tagline": "X(Twitter)統合のリアルタイムAI",
-          "best_for": "速報・SNSトレンド"
+          "name": "AIVA",
+          "vendor": "AIVA Technologies",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "0-1700",
+          "url": "https://aiva.ai",
+          "tagline": "クラシック・映像向けAI作曲",
+          "best_for": "クラシック・ループBGM"
         }
       ]
     }
