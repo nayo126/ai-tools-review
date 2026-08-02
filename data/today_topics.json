@@ -1,27 +1,27 @@
 {
-  "picked_at": "2026-07-31T21:00:02.908784+00:00",
+  "picked_at": "2026-08-02T21:00:01.483011+00:00",
   "count": 2,
   "items": [
     {
       "type": "single_review",
-      "category": "AIプロダクティビティ",
-      "key": "single::Suno",
-      "title_hint": "Suno徹底レビュー 料金・機能・使い方・評判",
+      "category": "AI画像生成",
+      "key": "single::Flux",
+      "title_hint": "Flux徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "Suno",
-        "vendor": "Suno AI",
-        "category": "AIプロダクティビティ",
+        "name": "Flux",
+        "vendor": "Black Forest Labs",
+        "category": "AI画像生成",
         "price_jpy": "0-1500",
-        "url": "https://suno.com",
-        "tagline": "AI音楽生成の決定版",
-        "best_for": "BGM・楽曲制作"
+        "url": "https://blackforestlabs.ai",
+        "tagline": "写実とコスパの新興",
+        "best_for": "写実・人物"
       }
     },
     {
-      "type": "vs_comparison",
+      "type": "category_roundup",
       "category": "AIプロダクティビティ",
-      "key": "vs::Copilot::AIVA",
-      "title_hint": "Copilot vs AIVA 徹底比較 どっちが高校生におすすめ?",
+      "key": "roundup::AIプロダクティビティ",
+      "title_hint": "【2026最新】AIプロダクティビティおすすめ5選 用途別の選び方",
       "tools": [
         {
           "name": "Copilot",
@@ -33,6 +33,15 @@
           "best_for": "Excel/Word/PPT自動化"
         },
         {
+          "name": "Suno",
+          "vendor": "Suno AI",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "0-1500",
+          "url": "https://suno.com",
+          "tagline": "AI音楽生成の決定版",
+          "best_for": "BGM・楽曲制作"
+        },
+        {
           "name": "AIVA",
           "vendor": "AIVA Technologies",
           "category": "AIプロダクティビティ",
@@ -40,6 +49,24 @@
           "url": "https://aiva.ai",
           "tagline": "クラシック・映像向けAI作曲",
           "best_for": "クラシック・ループBGM"
+        },
+        {
+          "name": "Soundraw",
+          "vendor": "Soundraw",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "2550",
+          "url": "https://soundraw.io",
+          "tagline": "ロイヤリティフリーのAI音楽",
+          "best_for": "YouTube安全BGM"
+        },
+        {
+          "name": "Notion AI",
+          "vendor": "Notion",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "1500-2500",
+          "url": "https://notion.so",
+          "tagline": "Notion統合のドキュメントAI",
+          "best_for": "ノート・タスク・要約"
         }
       ]
     }
