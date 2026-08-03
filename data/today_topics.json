@@ -1,72 +1,45 @@
 {
-  "picked_at": "2026-08-02T21:00:01.483011+00:00",
+  "picked_at": "2026-08-03T21:00:01.733169+00:00",
   "count": 2,
   "items": [
     {
       "type": "single_review",
-      "category": "AI画像生成",
-      "key": "single::Flux",
-      "title_hint": "Flux徹底レビュー 料金・機能・使い方・評判",
+      "category": "AI動画生成",
+      "key": "single::Runway Gen-4",
+      "title_hint": "Runway Gen-4徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "Flux",
-        "vendor": "Black Forest Labs",
-        "category": "AI画像生成",
-        "price_jpy": "0-1500",
-        "url": "https://blackforestlabs.ai",
-        "tagline": "写実とコスパの新興",
-        "best_for": "写実・人物"
+        "name": "Runway Gen-4",
+        "vendor": "Runway",
+        "category": "AI動画生成",
+        "price_jpy": "2000-15000",
+        "url": "https://runwayml.com",
+        "tagline": "映画品質の動画AI",
+        "best_for": "プロ品質・編集統合"
       }
     },
     {
-      "type": "category_roundup",
-      "category": "AIプロダクティビティ",
-      "key": "roundup::AIプロダクティビティ",
-      "title_hint": "【2026最新】AIプロダクティビティおすすめ5選 用途別の選び方",
+      "type": "vs_comparison",
+      "category": "対話AI比較",
+      "key": "vs::Claude::Gemini",
+      "title_hint": "Claude vs Gemini 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Copilot",
-          "vendor": "Microsoft",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "0-3500",
-          "url": "https://copilot.microsoft.com",
-          "tagline": "Office統合の生産性AI",
-          "best_for": "Excel/Word/PPT自動化"
+          "name": "Claude",
+          "vendor": "Anthropic",
+          "category": "対話AI比較",
+          "price_jpy": "0-3000",
+          "url": "https://claude.ai",
+          "tagline": "長文・コーディング・安全性に強い",
+          "best_for": "長文・要約・分析"
         },
         {
-          "name": "Suno",
-          "vendor": "Suno AI",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "0-1500",
-          "url": "https://suno.com",
-          "tagline": "AI音楽生成の決定版",
-          "best_for": "BGM・楽曲制作"
-        },
-        {
-          "name": "AIVA",
-          "vendor": "AIVA Technologies",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "0-1700",
-          "url": "https://aiva.ai",
-          "tagline": "クラシック・映像向けAI作曲",
-          "best_for": "クラシック・ループBGM"
-        },
-        {
-          "name": "Soundraw",
-          "vendor": "Soundraw",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "2550",
-          "url": "https://soundraw.io",
-          "tagline": "ロイヤリティフリーのAI音楽",
-          "best_for": "YouTube安全BGM"
-        },
-        {
-          "name": "Notion AI",
-          "vendor": "Notion",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "1500-2500",
-          "url": "https://notion.so",
-          "tagline": "Notion統合のドキュメントAI",
-          "best_for": "ノート・タスク・要約"
+          "name": "Gemini",
+          "vendor": "Google",
+          "category": "対話AI比較",
+          "price_jpy": "0-2900",
+          "url": "https://gemini.google.com",
+          "tagline": "Google統合・無料枠が広い",
+          "best_for": "検索連携・無料利用"
         }
       ]
     }
