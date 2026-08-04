@@ -4,6 +4,7 @@
   "guide::対話AI比較",
   "roundup::AIプロダクティビティ",
   "roundup::対話AI比較",
+  "single::DALL-E 3",
   "single::DeepL",
   "single::ElevenLabs",
   "single::Flux",
@@ -14,5 +15,6 @@
   "vs::Copilot::AIVA",
   "vs::Copy.ai::Catchy",
   "vs::ElevenLabs::にじボイス",
+  "vs::Kling::Hailuo",
   "vs::Midjourney::Stable Diffusion"
 ]

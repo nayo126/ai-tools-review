@@ -1,47 +1,47 @@
 {
-  "picked_at": "2026-08-03T21:00:01.733169+00:00",
+  "picked_at": "2026-08-04T21:00:04.625524+00:00",
   "count": 2,
   "items": [
     {
-      "type": "single_review",
-      "category": "AI動画生成",
-      "key": "single::Runway Gen-4",
-      "title_hint": "Runway Gen-4徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Runway Gen-4",
-        "vendor": "Runway",
-        "category": "AI動画生成",
-        "price_jpy": "2000-15000",
-        "url": "https://runwayml.com",
-        "tagline": "映画品質の動画AI",
-        "best_for": "プロ品質・編集統合"
-      }
-    },
-    {
       "type": "vs_comparison",
-      "category": "対話AI比較",
-      "key": "vs::Claude::Gemini",
-      "title_hint": "Claude vs Gemini 徹底比較 どっちが高校生におすすめ?",
+      "category": "AI動画生成",
+      "key": "vs::Kling::Hailuo",
+      "title_hint": "Kling vs Hailuo 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Claude",
-          "vendor": "Anthropic",
-          "category": "対話AI比較",
-          "price_jpy": "0-3000",
-          "url": "https://claude.ai",
-          "tagline": "長文・コーディング・安全性に強い",
-          "best_for": "長文・要約・分析"
+          "name": "Kling",
+          "vendor": "Kuaishou",
+          "category": "AI動画生成",
+          "price_jpy": "1000-5000",
+          "url": "https://klingai.com",
+          "tagline": "ELO 1位の動画生成AI",
+          "best_for": "短尺動画・コスパ"
         },
         {
-          "name": "Gemini",
-          "vendor": "Google",
-          "category": "対話AI比較",
-          "price_jpy": "0-2900",
-          "url": "https://gemini.google.com",
-          "tagline": "Google統合・無料枠が広い",
-          "best_for": "検索連携・無料利用"
+          "name": "Hailuo",
+          "vendor": "MiniMax",
+          "category": "AI動画生成",
+          "price_jpy": "1500",
+          "url": "https://hailuoai.video",
+          "tagline": "1080p/6秒の安価な動画AI",
+          "best_for": "量産・コスト重視"
         }
       ]
+    },
+    {
+      "type": "single_review",
+      "category": "AI画像生成",
+      "key": "single::DALL-E 3",
+      "title_hint": "DALL-E 3徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "DALL-E 3",
+        "vendor": "OpenAI",
+        "category": "AI画像生成",
+        "price_jpy": "3000",
+        "url": "https://openai.com/dall-e",
+        "tagline": "ChatGPT統合の画像生成",
+        "best_for": "プロンプト忠実性"
+      }
     }
   ]
 }
