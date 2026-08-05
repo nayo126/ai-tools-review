@@ -11,9 +11,11 @@
   "single::Notion AI",
   "single::Runway Gen-4",
   "single::Suno",
+  "single::VOICEVOX",
   "vs::Claude::Gemini",
   "vs::Copilot::AIVA",
   "vs::Copy.ai::Catchy",
+  "vs::Cursor::Windsurf",
   "vs::ElevenLabs::にじボイス",
   "vs::Kling::Hailuo",
   "vs::Midjourney::Stable Diffusion"

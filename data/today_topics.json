@@ -1,47 +1,47 @@
 {
-  "picked_at": "2026-08-04T21:00:04.625524+00:00",
+  "picked_at": "2026-08-05T21:00:05.514272+00:00",
   "count": 2,
   "items": [
     {
-      "type": "vs_comparison",
-      "category": "AI動画生成",
-      "key": "vs::Kling::Hailuo",
-      "title_hint": "Kling vs Hailuo 徹底比較 どっちが高校生におすすめ?",
-      "tools": [
-        {
-          "name": "Kling",
-          "vendor": "Kuaishou",
-          "category": "AI動画生成",
-          "price_jpy": "1000-5000",
-          "url": "https://klingai.com",
-          "tagline": "ELO 1位の動画生成AI",
-          "best_for": "短尺動画・コスパ"
-        },
-        {
-          "name": "Hailuo",
-          "vendor": "MiniMax",
-          "category": "AI動画生成",
-          "price_jpy": "1500",
-          "url": "https://hailuoai.video",
-          "tagline": "1080p/6秒の安価な動画AI",
-          "best_for": "量産・コスト重視"
-        }
-      ]
+      "type": "single_review",
+      "category": "AI音声合成",
+      "key": "single::VOICEVOX",
+      "title_hint": "VOICEVOX徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "VOICEVOX",
+        "vendor": "Hiroshiba",
+        "category": "AI音声合成",
+        "price_jpy": "0",
+        "url": "https://voicevox.hiroshiba.jp",
+        "tagline": "完全無料の日本語TTS",
+        "best_for": "無料・ゆっくり系"
+      }
     },
     {
-      "type": "single_review",
-      "category": "AI画像生成",
-      "key": "single::DALL-E 3",
-      "title_hint": "DALL-E 3徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "DALL-E 3",
-        "vendor": "OpenAI",
-        "category": "AI画像生成",
-        "price_jpy": "3000",
-        "url": "https://openai.com/dall-e",
-        "tagline": "ChatGPT統合の画像生成",
-        "best_for": "プロンプト忠実性"
-      }
+      "type": "vs_comparison",
+      "category": "AIコード補完",
+      "key": "vs::Cursor::Windsurf",
+      "title_hint": "Cursor vs Windsurf 徹底比較 どっちが高校生におすすめ?",
+      "tools": [
+        {
+          "name": "Cursor",
+          "vendor": "Anysphere",
+          "category": "AIコード補完",
+          "price_jpy": "0-3000",
+          "url": "https://cursor.com",
+          "tagline": "AI統合エディタの定番",
+          "best_for": "コーディング・開発"
+        },
+        {
+          "name": "Windsurf",
+          "vendor": "Codeium",
+          "category": "AIコード補完",
+          "price_jpy": "0-2200",
+          "url": "https://codeium.com/windsurf",
+          "tagline": "エージェント型のAIエディタ",
+          "best_for": "自動コーディング"
+        }
+      ]
     }
   ]
 }
