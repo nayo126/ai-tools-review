@@ -4,6 +4,7 @@
   "guide::対話AI比較",
   "roundup::AIプロダクティビティ",
   "roundup::対話AI比較",
+  "single::Canva AI",
   "single::DALL-E 3",
   "single::DeepL",
   "single::ElevenLabs",
@@ -18,5 +19,6 @@
   "vs::Cursor::Windsurf",
   "vs::ElevenLabs::にじボイス",
   "vs::Kling::Hailuo",
-  "vs::Midjourney::Stable Diffusion"
+  "vs::Midjourney::Stable Diffusion",
+  "vs::Runway Gen-4::Hailuo"
 ]
