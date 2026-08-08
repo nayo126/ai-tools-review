@@ -1,6 +1,7 @@
 [
   "guide::AIコード補完",
   "guide::AIデザイン",
+  "guide::AI翻訳",
   "guide::対話AI比較",
   "roundup::AIプロダクティビティ",
   "roundup::対話AI比較",
@@ -22,5 +23,6 @@
   "vs::ElevenLabs::にじボイス",
   "vs::Kling::Hailuo",
   "vs::Midjourney::Stable Diffusion",
-  "vs::Runway Gen-4::Hailuo"
+  "vs::Runway Gen-4::Hailuo",
+  "vs::Rytr::QuillBot"
 ]

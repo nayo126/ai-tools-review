@@ -1,47 +1,58 @@
 {
-  "picked_at": "2026-08-07T21:00:01.501911+00:00",
+  "picked_at": "2026-08-08T21:00:05.158588+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AIデザイン",
-      "key": "vs::Canva AI::Figma AI",
-      "title_hint": "Canva AI vs Figma AI 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIライティング",
+      "key": "vs::Rytr::QuillBot",
+      "title_hint": "Rytr vs QuillBot 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Canva AI",
-          "vendor": "Canva",
-          "category": "AIデザイン",
+          "name": "Rytr",
+          "vendor": "Rytr",
+          "category": "AIライティング",
           "price_jpy": "0-1500",
-          "url": "https://canva.com",
-          "tagline": "デザインツール統合のAI",
-          "best_for": "SNS画像・プレゼン"
+          "url": "https://rytr.me",
+          "tagline": "コスパ重視のライティングAI",
+          "best_for": "ブログ・SNS"
         },
         {
-          "name": "Figma AI",
-          "vendor": "Figma",
-          "category": "AIデザイン",
-          "price_jpy": "0-2000",
-          "url": "https://figma.com",
-          "tagline": "デザインツール統合のAI",
-          "best_for": "UIデザイン・プロトタイプ"
+          "name": "QuillBot",
+          "vendor": "QuillBot",
+          "category": "AIライティング",
+          "price_jpy": "0-1500",
+          "url": "https://quillbot.com",
+          "tagline": "言い換え・校正に特化",
+          "best_for": "英文校正・パラフレーズ"
         }
       ]
     },
     {
-      "type": "single_review",
-      "category": "AIコード補完",
-      "key": "single::Windsurf",
-      "title_hint": "Windsurf徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Windsurf",
-        "vendor": "Codeium",
-        "category": "AIコード補完",
-        "price_jpy": "0-2200",
-        "url": "https://codeium.com/windsurf",
-        "tagline": "エージェント型のAIエディタ",
-        "best_for": "自動コーディング"
-      }
+      "type": "buying_guide",
+      "category": "AI翻訳",
+      "key": "guide::AI翻訳",
+      "title_hint": "AI翻訳の選び方完全ガイド 失敗しない7つの基準",
+      "tools": [
+        {
+          "name": "DeepL",
+          "vendor": "DeepL SE",
+          "category": "AI翻訳",
+          "price_jpy": "0-1200",
+          "url": "https://deepl.com",
+          "tagline": "高精度な翻訳AI",
+          "best_for": "翻訳・要約"
+        },
+        {
+          "name": "Google翻訳",
+          "vendor": "Google",
+          "category": "AI翻訳",
+          "price_jpy": "0",
+          "url": "https://translate.google.com",
+          "tagline": "無料・多言語対応",
+          "best_for": "汎用翻訳"
+        }
+      ]
     }
   ]
 }
