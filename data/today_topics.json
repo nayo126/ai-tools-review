@@ -1,58 +1,47 @@
 {
-  "picked_at": "2026-08-08T21:00:05.158588+00:00",
+  "picked_at": "2026-08-10T21:00:01.590182+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AIライティング",
-      "key": "vs::Rytr::QuillBot",
-      "title_hint": "Rytr vs QuillBot 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIプロダクティビティ",
+      "key": "vs::Copilot::Suno",
+      "title_hint": "Copilot vs Suno 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Rytr",
-          "vendor": "Rytr",
-          "category": "AIライティング",
-          "price_jpy": "0-1500",
-          "url": "https://rytr.me",
-          "tagline": "コスパ重視のライティングAI",
-          "best_for": "ブログ・SNS"
+          "name": "Copilot",
+          "vendor": "Microsoft",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "0-3500",
+          "url": "https://copilot.microsoft.com",
+          "tagline": "Office統合の生産性AI",
+          "best_for": "Excel/Word/PPT自動化"
         },
         {
-          "name": "QuillBot",
-          "vendor": "QuillBot",
-          "category": "AIライティング",
+          "name": "Suno",
+          "vendor": "Suno AI",
+          "category": "AIプロダクティビティ",
           "price_jpy": "0-1500",
-          "url": "https://quillbot.com",
-          "tagline": "言い換え・校正に特化",
-          "best_for": "英文校正・パラフレーズ"
+          "url": "https://suno.com",
+          "tagline": "AI音楽生成の決定版",
+          "best_for": "BGM・楽曲制作"
         }
       ]
     },
     {
-      "type": "buying_guide",
-      "category": "AI翻訳",
-      "key": "guide::AI翻訳",
-      "title_hint": "AI翻訳の選び方完全ガイド 失敗しない7つの基準",
-      "tools": [
-        {
-          "name": "DeepL",
-          "vendor": "DeepL SE",
-          "category": "AI翻訳",
-          "price_jpy": "0-1200",
-          "url": "https://deepl.com",
-          "tagline": "高精度な翻訳AI",
-          "best_for": "翻訳・要約"
-        },
-        {
-          "name": "Google翻訳",
-          "vendor": "Google",
-          "category": "AI翻訳",
-          "price_jpy": "0",
-          "url": "https://translate.google.com",
-          "tagline": "無料・多言語対応",
-          "best_for": "汎用翻訳"
-        }
-      ]
+      "type": "single_review",
+      "category": "AI画像生成",
+      "key": "single::Midjourney",
+      "title_hint": "Midjourney徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "Midjourney",
+        "vendor": "Midjourney Inc",
+        "category": "AI画像生成",
+        "price_jpy": "1500-10000",
+        "url": "https://midjourney.com",
+        "tagline": "美術品質No.1の画像生成",
+        "best_for": "アート・コンセプト画像"
+      }
     }
   ]
 }
