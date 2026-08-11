@@ -1,47 +1,76 @@
 {
-  "picked_at": "2026-08-10T21:00:01.590182+00:00",
+  "picked_at": "2026-08-11T21:00:05.495359+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AIプロダクティビティ",
-      "key": "vs::Copilot::Suno",
-      "title_hint": "Copilot vs Suno 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIライティング",
+      "key": "vs::Jasper::Catchy",
+      "title_hint": "Jasper vs Catchy 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Copilot",
-          "vendor": "Microsoft",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "0-3500",
-          "url": "https://copilot.microsoft.com",
-          "tagline": "Office統合の生産性AI",
-          "best_for": "Excel/Word/PPT自動化"
+          "name": "Jasper",
+          "vendor": "Jasper AI",
+          "category": "AIライティング",
+          "price_jpy": "5000-10000",
+          "url": "https://jasper.ai",
+          "tagline": "マーケ向けライティングAI",
+          "best_for": "コピーライティング"
         },
         {
-          "name": "Suno",
-          "vendor": "Suno AI",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "0-1500",
-          "url": "https://suno.com",
-          "tagline": "AI音楽生成の決定版",
-          "best_for": "BGM・楽曲制作"
+          "name": "Catchy",
+          "vendor": "Catchy Inc",
+          "category": "AIライティング",
+          "price_jpy": "0-7000",
+          "url": "https://lp.ai-copywriter.jp",
+          "tagline": "日本発のAIライティング",
+          "best_for": "日本語コピー"
         }
       ]
     },
     {
-      "type": "single_review",
-      "category": "AI画像生成",
-      "key": "single::Midjourney",
-      "title_hint": "Midjourney徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Midjourney",
-        "vendor": "Midjourney Inc",
-        "category": "AI画像生成",
-        "price_jpy": "1500-10000",
-        "url": "https://midjourney.com",
-        "tagline": "美術品質No.1の画像生成",
-        "best_for": "アート・コンセプト画像"
-      }
+      "type": "category_roundup",
+      "category": "AIコード補完",
+      "key": "roundup::AIコード補完",
+      "title_hint": "【2026最新】AIコード補完おすすめ4選 用途別の選び方",
+      "tools": [
+        {
+          "name": "Cursor",
+          "vendor": "Anysphere",
+          "category": "AIコード補完",
+          "price_jpy": "0-3000",
+          "url": "https://cursor.com",
+          "tagline": "AI統合エディタの定番",
+          "best_for": "コーディング・開発"
+        },
+        {
+          "name": "GitHub Copilot",
+          "vendor": "GitHub",
+          "category": "AIコード補完",
+          "price_jpy": "1500-3000",
+          "url": "https://github.com/copilot",
+          "tagline": "IDEで使える老舗のコード補完AI",
+          "best_for": "VSCode/JetBrains統合"
+        },
+        {
+          "name": "Windsurf",
+          "vendor": "Codeium",
+          "category": "AIコード補完",
+          "price_jpy": "0-2200",
+          "url": "https://codeium.com/windsurf",
+          "tagline": "エージェント型のAIエディタ",
+          "best_for": "自動コーディング"
+        },
+        {
+          "name": "Claude Code",
+          "vendor": "Anthropic",
+          "category": "AIコード補完",
+          "price_jpy": "0-3000",
+          "url": "https://www.anthropic.com/claude-code",
+          "tagline": "CLIで動くClaude公式コーディングエージェント",
+          "best_for": "ターミナル開発"
+        }
+      ]
     }
   ]
 }
