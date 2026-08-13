@@ -1,74 +1,74 @@
 {
-  "picked_at": "2026-08-11T21:00:05.495359+00:00",
+  "picked_at": "2026-08-13T21:00:01.829254+00:00",
   "count": 2,
   "items": [
     {
-      "type": "vs_comparison",
-      "category": "AIライティング",
-      "key": "vs::Jasper::Catchy",
-      "title_hint": "Jasper vs Catchy 徹底比較 どっちが高校生におすすめ?",
+      "type": "category_roundup",
+      "category": "AI動画生成",
+      "key": "roundup::AI動画生成",
+      "title_hint": "【2026最新】AI動画生成おすすめ4選 用途別の選び方",
       "tools": [
         {
-          "name": "Jasper",
-          "vendor": "Jasper AI",
-          "category": "AIライティング",
-          "price_jpy": "5000-10000",
-          "url": "https://jasper.ai",
-          "tagline": "マーケ向けライティングAI",
-          "best_for": "コピーライティング"
+          "name": "Kling",
+          "vendor": "Kuaishou",
+          "category": "AI動画生成",
+          "price_jpy": "1000-5000",
+          "url": "https://klingai.com",
+          "tagline": "ELO 1位の動画生成AI",
+          "best_for": "短尺動画・コスパ"
         },
         {
-          "name": "Catchy",
-          "vendor": "Catchy Inc",
-          "category": "AIライティング",
-          "price_jpy": "0-7000",
-          "url": "https://lp.ai-copywriter.jp",
-          "tagline": "日本発のAIライティング",
-          "best_for": "日本語コピー"
+          "name": "Runway Gen-4",
+          "vendor": "Runway",
+          "category": "AI動画生成",
+          "price_jpy": "2000-15000",
+          "url": "https://runwayml.com",
+          "tagline": "映画品質の動画AI",
+          "best_for": "プロ品質・編集統合"
+        },
+        {
+          "name": "Hailuo",
+          "vendor": "MiniMax",
+          "category": "AI動画生成",
+          "price_jpy": "1500",
+          "url": "https://hailuoai.video",
+          "tagline": "1080p/6秒の安価な動画AI",
+          "best_for": "量産・コスト重視"
+        },
+        {
+          "name": "Veo 3",
+          "vendor": "Google DeepMind",
+          "category": "AI動画生成",
+          "price_jpy": "3000-15000",
+          "url": "https://deepmind.google/veo",
+          "tagline": "音声同時生成のハイエンド動画AI",
+          "best_for": "音付き動画・高品質"
         }
       ]
     },
     {
-      "type": "category_roundup",
-      "category": "AIコード補完",
-      "key": "roundup::AIコード補完",
-      "title_hint": "【2026最新】AIコード補完おすすめ4選 用途別の選び方",
+      "type": "vs_comparison",
+      "category": "AIプロダクティビティ",
+      "key": "vs::Suno::Soundraw",
+      "title_hint": "Suno vs Soundraw 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Cursor",
-          "vendor": "Anysphere",
-          "category": "AIコード補完",
-          "price_jpy": "0-3000",
-          "url": "https://cursor.com",
-          "tagline": "AI統合エディタの定番",
-          "best_for": "コーディング・開発"
+          "name": "Suno",
+          "vendor": "Suno AI",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "0-1500",
+          "url": "https://suno.com",
+          "tagline": "AI音楽生成の決定版",
+          "best_for": "BGM・楽曲制作"
         },
         {
-          "name": "GitHub Copilot",
-          "vendor": "GitHub",
-          "category": "AIコード補完",
-          "price_jpy": "1500-3000",
-          "url": "https://github.com/copilot",
-          "tagline": "IDEで使える老舗のコード補完AI",
-          "best_for": "VSCode/JetBrains統合"
-        },
-        {
-          "name": "Windsurf",
-          "vendor": "Codeium",
-          "category": "AIコード補完",
-          "price_jpy": "0-2200",
-          "url": "https://codeium.com/windsurf",
-          "tagline": "エージェント型のAIエディタ",
-          "best_for": "自動コーディング"
-        },
-        {
-          "name": "Claude Code",
-          "vendor": "Anthropic",
-          "category": "AIコード補完",
-          "price_jpy": "0-3000",
-          "url": "https://www.anthropic.com/claude-code",
-          "tagline": "CLIで動くClaude公式コーディングエージェント",
-          "best_for": "ターミナル開発"
+          "name": "Soundraw",
+          "vendor": "Soundraw",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "2550",
+          "url": "https://soundraw.io",
+          "tagline": "ロイヤリティフリーのAI音楽",
+          "best_for": "YouTube安全BGM"
         }
       ]
     }

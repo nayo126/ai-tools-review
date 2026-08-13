@@ -5,6 +5,7 @@
   "guide::対話AI比較",
   "roundup::AIコード補完",
   "roundup::AIプロダクティビティ",
+  "roundup::AI動画生成",
   "roundup::対話AI比較",
   "single::Canva AI",
   "single::DALL-E 3",
@@ -28,5 +29,6 @@
   "vs::Kling::Hailuo",
   "vs::Midjourney::Stable Diffusion",
   "vs::Runway Gen-4::Hailuo",
-  "vs::Rytr::QuillBot"
+  "vs::Rytr::QuillBot",
+  "vs::Suno::Soundraw"
 ]
