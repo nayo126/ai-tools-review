@@ -8,6 +8,7 @@
   "roundup::AI動画生成",
   "roundup::対話AI比較",
   "single::Canva AI",
+  "single::Copilot",
   "single::DALL-E 3",
   "single::DeepL",
   "single::ElevenLabs",
@@ -30,5 +31,6 @@
   "vs::Midjourney::Stable Diffusion",
   "vs::Runway Gen-4::Hailuo",
   "vs::Rytr::QuillBot",
+  "vs::Stable Diffusion::Ideogram",
   "vs::Suno::Soundraw"
 ]
