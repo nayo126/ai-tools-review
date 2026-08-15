@@ -1,45 +1,83 @@
 {
-  "picked_at": "2026-08-14T21:00:05.322395+00:00",
+  "picked_at": "2026-08-15T21:00:05.275181+00:00",
   "count": 2,
   "items": [
     {
-      "type": "single_review",
-      "category": "AIプロダクティビティ",
-      "key": "single::Copilot",
-      "title_hint": "Copilot徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Copilot",
-        "vendor": "Microsoft",
-        "category": "AIプロダクティビティ",
-        "price_jpy": "0-3500",
-        "url": "https://copilot.microsoft.com",
-        "tagline": "Office統合の生産性AI",
-        "best_for": "Excel/Word/PPT自動化"
-      }
-    },
-    {
       "type": "vs_comparison",
       "category": "AI画像生成",
-      "key": "vs::Stable Diffusion::Ideogram",
-      "title_hint": "Stable Diffusion vs Ideogram 徹底比較 どっちが高校生におすすめ?",
+      "key": "vs::Midjourney::Flux",
+      "title_hint": "Midjourney vs Flux 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Stable Diffusion",
-          "vendor": "Stability AI",
+          "name": "Midjourney",
+          "vendor": "Midjourney Inc",
           "category": "AI画像生成",
-          "price_jpy": "0-2000",
-          "url": "https://stability.ai",
-          "tagline": "ローカル実行可能なOSS画像生成",
-          "best_for": "ローカル運用・カスタム"
+          "price_jpy": "1500-10000",
+          "url": "https://midjourney.com",
+          "tagline": "美術品質No.1の画像生成",
+          "best_for": "アート・コンセプト画像"
         },
         {
-          "name": "Ideogram",
-          "vendor": "Ideogram AI",
+          "name": "Flux",
+          "vendor": "Black Forest Labs",
           "category": "AI画像生成",
-          "price_jpy": "0-2000",
-          "url": "https://ideogram.ai",
-          "tagline": "文字入り画像が綺麗",
-          "best_for": "ロゴ・サムネ・看板"
+          "price_jpy": "0-1500",
+          "url": "https://blackforestlabs.ai",
+          "tagline": "写実とコスパの新興",
+          "best_for": "写実・人物"
+        }
+      ]
+    },
+    {
+      "type": "buying_guide",
+      "category": "AIライティング",
+      "key": "guide::AIライティング",
+      "title_hint": "AIライティングの選び方完全ガイド 失敗しない7つの基準",
+      "tools": [
+        {
+          "name": "Jasper",
+          "vendor": "Jasper AI",
+          "category": "AIライティング",
+          "price_jpy": "5000-10000",
+          "url": "https://jasper.ai",
+          "tagline": "マーケ向けライティングAI",
+          "best_for": "コピーライティング"
+        },
+        {
+          "name": "Copy.ai",
+          "vendor": "Copy.ai",
+          "category": "AIライティング",
+          "price_jpy": "0-5000",
+          "url": "https://copy.ai",
+          "tagline": "短文コピー生成に強い",
+          "best_for": "広告コピー"
+        },
+        {
+          "name": "Catchy",
+          "vendor": "Catchy Inc",
+          "category": "AIライティング",
+          "price_jpy": "0-7000",
+          "url": "https://lp.ai-copywriter.jp",
+          "tagline": "日本発のAIライティング",
+          "best_for": "日本語コピー"
+        },
+        {
+          "name": "Rytr",
+          "vendor": "Rytr",
+          "category": "AIライティング",
+          "price_jpy": "0-1500",
+          "url": "https://rytr.me",
+          "tagline": "コスパ重視のライティングAI",
+          "best_for": "ブログ・SNS"
+        },
+        {
+          "name": "QuillBot",
+          "vendor": "QuillBot",
+          "category": "AIライティング",
+          "price_jpy": "0-1500",
+          "url": "https://quillbot.com",
+          "tagline": "言い換え・校正に特化",
+          "best_for": "英文校正・パラフレーズ"
         }
       ]
     }
