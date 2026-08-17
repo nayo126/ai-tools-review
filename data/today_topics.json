@@ -1,47 +1,47 @@
 {
-  "picked_at": "2026-08-16T21:00:05.040576+00:00",
+  "picked_at": "2026-08-17T21:00:05.463523+00:00",
   "count": 2,
   "items": [
     {
-      "type": "single_review",
-      "category": "AI画像生成",
-      "key": "single::Stable Diffusion",
-      "title_hint": "Stable Diffusion徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Stable Diffusion",
-        "vendor": "Stability AI",
-        "category": "AI画像生成",
-        "price_jpy": "0-2000",
-        "url": "https://stability.ai",
-        "tagline": "ローカル実行可能なOSS画像生成",
-        "best_for": "ローカル運用・カスタム"
-      }
-    },
-    {
       "type": "vs_comparison",
-      "category": "AI動画生成",
-      "key": "vs::Kling::Veo 3",
-      "title_hint": "Kling vs Veo 3 徹底比較 どっちが高校生におすすめ?",
+      "category": "AI画像生成",
+      "key": "vs::Ideogram::Flux",
+      "title_hint": "Ideogram vs Flux 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Kling",
-          "vendor": "Kuaishou",
-          "category": "AI動画生成",
-          "price_jpy": "1000-5000",
-          "url": "https://klingai.com",
-          "tagline": "ELO 1位の動画生成AI",
-          "best_for": "短尺動画・コスパ"
+          "name": "Ideogram",
+          "vendor": "Ideogram AI",
+          "category": "AI画像生成",
+          "price_jpy": "0-2000",
+          "url": "https://ideogram.ai",
+          "tagline": "文字入り画像が綺麗",
+          "best_for": "ロゴ・サムネ・看板"
         },
         {
-          "name": "Veo 3",
-          "vendor": "Google DeepMind",
-          "category": "AI動画生成",
-          "price_jpy": "3000-15000",
-          "url": "https://deepmind.google/veo",
-          "tagline": "音声同時生成のハイエンド動画AI",
-          "best_for": "音付き動画・高品質"
+          "name": "Flux",
+          "vendor": "Black Forest Labs",
+          "category": "AI画像生成",
+          "price_jpy": "0-1500",
+          "url": "https://blackforestlabs.ai",
+          "tagline": "写実とコスパの新興",
+          "best_for": "写実・人物"
         }
       ]
+    },
+    {
+      "type": "single_review",
+      "category": "AI画像生成",
+      "key": "single::Ideogram",
+      "title_hint": "Ideogram徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "Ideogram",
+        "vendor": "Ideogram AI",
+        "category": "AI画像生成",
+        "price_jpy": "0-2000",
+        "url": "https://ideogram.ai",
+        "tagline": "文字入り画像が綺麗",
+        "best_for": "ロゴ・サムネ・看板"
+      }
     }
   ]
 }
