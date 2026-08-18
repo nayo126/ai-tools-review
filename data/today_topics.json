@@ -1,13 +1,66 @@
 {
-  "picked_at": "2026-08-17T21:00:05.463523+00:00",
+  "picked_at": "2026-08-18T21:00:05.102151+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AI画像生成",
-      "key": "vs::Ideogram::Flux",
-      "title_hint": "Ideogram vs Flux 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIプロダクティビティ",
+      "key": "vs::Copilot::Notion AI",
+      "title_hint": "Copilot vs Notion AI 徹底比較 どっちが高校生におすすめ?",
       "tools": [
+        {
+          "name": "Copilot",
+          "vendor": "Microsoft",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "0-3500",
+          "url": "https://copilot.microsoft.com",
+          "tagline": "Office統合の生産性AI",
+          "best_for": "Excel/Word/PPT自動化"
+        },
+        {
+          "name": "Notion AI",
+          "vendor": "Notion",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "1500-2500",
+          "url": "https://notion.so",
+          "tagline": "Notion統合のドキュメントAI",
+          "best_for": "ノート・タスク・要約"
+        }
+      ]
+    },
+    {
+      "type": "category_roundup",
+      "category": "AI画像生成",
+      "key": "roundup::AI画像生成",
+      "title_hint": "【2026最新】AI画像生成おすすめ5選 用途別の選び方",
+      "tools": [
+        {
+          "name": "Midjourney",
+          "vendor": "Midjourney Inc",
+          "category": "AI画像生成",
+          "price_jpy": "1500-10000",
+          "url": "https://midjourney.com",
+          "tagline": "美術品質No.1の画像生成",
+          "best_for": "アート・コンセプト画像"
+        },
+        {
+          "name": "Stable Diffusion",
+          "vendor": "Stability AI",
+          "category": "AI画像生成",
+          "price_jpy": "0-2000",
+          "url": "https://stability.ai",
+          "tagline": "ローカル実行可能なOSS画像生成",
+          "best_for": "ローカル運用・カスタム"
+        },
+        {
+          "name": "DALL-E 3",
+          "vendor": "OpenAI",
+          "category": "AI画像生成",
+          "price_jpy": "3000",
+          "url": "https://openai.com/dall-e",
+          "tagline": "ChatGPT統合の画像生成",
+          "best_for": "プロンプト忠実性"
+        },
         {
           "name": "Ideogram",
           "vendor": "Ideogram AI",
@@ -27,21 +80,6 @@
           "best_for": "写実・人物"
         }
       ]
-    },
-    {
-      "type": "single_review",
-      "category": "AI画像生成",
-      "key": "single::Ideogram",
-      "title_hint": "Ideogram徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Ideogram",
-        "vendor": "Ideogram AI",
-        "category": "AI画像生成",
-        "price_jpy": "0-2000",
-        "url": "https://ideogram.ai",
-        "tagline": "文字入り画像が綺麗",
-        "best_for": "ロゴ・サムネ・看板"
-      }
     }
   ]
 }
