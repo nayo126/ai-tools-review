@@ -11,6 +11,7 @@
   "roundup::対話AI比較",
   "single::Canva AI",
   "single::Copilot",
+  "single::Copy.ai",
   "single::DALL-E 3",
   "single::DeepL",
   "single::ElevenLabs",
@@ -40,5 +41,6 @@
   "vs::Runway Gen-4::Hailuo",
   "vs::Rytr::QuillBot",
   "vs::Stable Diffusion::Ideogram",
-  "vs::Suno::Soundraw"
+  "vs::Suno::Soundraw",
+  "vs::にじボイス::VOICEVOX"
 ]
