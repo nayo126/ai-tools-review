@@ -1,13 +1,48 @@
 {
-  "picked_at": "2026-08-19T21:00:04.606893+00:00",
+  "picked_at": "2026-08-20T21:00:05.243724+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AI音声合成",
-      "key": "vs::にじボイス::VOICEVOX",
-      "title_hint": "にじボイス vs VOICEVOX 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIライティング",
+      "key": "vs::Jasper::QuillBot",
+      "title_hint": "Jasper vs QuillBot 徹底比較 どっちが高校生におすすめ?",
       "tools": [
+        {
+          "name": "Jasper",
+          "vendor": "Jasper AI",
+          "category": "AIライティング",
+          "price_jpy": "5000-10000",
+          "url": "https://jasper.ai",
+          "tagline": "マーケ向けライティングAI",
+          "best_for": "コピーライティング"
+        },
+        {
+          "name": "QuillBot",
+          "vendor": "QuillBot",
+          "category": "AIライティング",
+          "price_jpy": "0-1500",
+          "url": "https://quillbot.com",
+          "tagline": "言い換え・校正に特化",
+          "best_for": "英文校正・パラフレーズ"
+        }
+      ]
+    },
+    {
+      "type": "category_roundup",
+      "category": "AI音声合成",
+      "key": "roundup::AI音声合成",
+      "title_hint": "【2026最新】AI音声合成おすすめ3選 用途別の選び方",
+      "tools": [
+        {
+          "name": "ElevenLabs",
+          "vendor": "ElevenLabs",
+          "category": "AI音声合成",
+          "price_jpy": "0-3000",
+          "url": "https://elevenlabs.io",
+          "tagline": "多言語・感情豊かな音声合成",
+          "best_for": "YouTube・ナレーション"
+        },
         {
           "name": "にじボイス",
           "vendor": "Niji",
@@ -27,21 +62,6 @@
           "best_for": "無料・ゆっくり系"
         }
       ]
-    },
-    {
-      "type": "single_review",
-      "category": "AIライティング",
-      "key": "single::Copy.ai",
-      "title_hint": "Copy.ai徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Copy.ai",
-        "vendor": "Copy.ai",
-        "category": "AIライティング",
-        "price_jpy": "0-5000",
-        "url": "https://copy.ai",
-        "tagline": "短文コピー生成に強い",
-        "best_for": "広告コピー"
-      }
     }
   ]
 }
