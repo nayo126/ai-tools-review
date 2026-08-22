@@ -1,47 +1,47 @@
 {
-  "picked_at": "2026-08-21T21:00:02.381145+00:00",
+  "picked_at": "2026-08-22T21:00:02.759791+00:00",
   "count": 2,
   "items": [
     {
-      "type": "single_review",
-      "category": "AI検索エンジン",
-      "key": "single::Perplexity",
-      "title_hint": "Perplexity徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Perplexity",
-        "vendor": "Perplexity AI",
-        "category": "AI検索エンジン",
-        "price_jpy": "0-3000",
-        "url": "https://perplexity.ai",
-        "tagline": "出典付き対話型検索",
-        "best_for": "リサーチ・最新情報"
-      }
-    },
-    {
       "type": "vs_comparison",
-      "category": "AI画像生成",
-      "key": "vs::DALL-E 3::Flux",
-      "title_hint": "DALL-E 3 vs Flux 徹底比較 どっちが高校生におすすめ?",
+      "category": "AI音声合成",
+      "key": "vs::ElevenLabs::VOICEVOX",
+      "title_hint": "ElevenLabs vs VOICEVOX 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "DALL-E 3",
-          "vendor": "OpenAI",
-          "category": "AI画像生成",
-          "price_jpy": "3000",
-          "url": "https://openai.com/dall-e",
-          "tagline": "ChatGPT統合の画像生成",
-          "best_for": "プロンプト忠実性"
+          "name": "ElevenLabs",
+          "vendor": "ElevenLabs",
+          "category": "AI音声合成",
+          "price_jpy": "0-3000",
+          "url": "https://elevenlabs.io",
+          "tagline": "多言語・感情豊かな音声合成",
+          "best_for": "YouTube・ナレーション"
         },
         {
-          "name": "Flux",
-          "vendor": "Black Forest Labs",
-          "category": "AI画像生成",
-          "price_jpy": "0-1500",
-          "url": "https://blackforestlabs.ai",
-          "tagline": "写実とコスパの新興",
-          "best_for": "写実・人物"
+          "name": "VOICEVOX",
+          "vendor": "Hiroshiba",
+          "category": "AI音声合成",
+          "price_jpy": "0",
+          "url": "https://voicevox.hiroshiba.jp",
+          "tagline": "完全無料の日本語TTS",
+          "best_for": "無料・ゆっくり系"
         }
       ]
+    },
+    {
+      "type": "single_review",
+      "category": "AIデザイン",
+      "key": "single::Figma AI",
+      "title_hint": "Figma AI徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "Figma AI",
+        "vendor": "Figma",
+        "category": "AIデザイン",
+        "price_jpy": "0-2000",
+        "url": "https://figma.com",
+        "tagline": "デザインツール統合のAI",
+        "best_for": "UIデザイン・プロトタイプ"
+      }
     }
   ]
 }
