@@ -1,12 +1,27 @@
 {
-  "picked_at": "2026-08-22T21:00:02.759791+00:00",
+  "picked_at": "2026-08-24T21:00:04.070130+00:00",
   "count": 2,
   "items": [
     {
-      "type": "vs_comparison",
+      "type": "single_review",
+      "category": "AI動画生成",
+      "key": "single::Kling",
+      "title_hint": "Kling徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "Kling",
+        "vendor": "Kuaishou",
+        "category": "AI動画生成",
+        "price_jpy": "1000-5000",
+        "url": "https://klingai.com",
+        "tagline": "ELO 1位の動画生成AI",
+        "best_for": "短尺動画・コスパ"
+      }
+    },
+    {
+      "type": "buying_guide",
       "category": "AI音声合成",
-      "key": "vs::ElevenLabs::VOICEVOX",
-      "title_hint": "ElevenLabs vs VOICEVOX 徹底比較 どっちが高校生におすすめ?",
+      "key": "guide::AI音声合成",
+      "title_hint": "AI音声合成の選び方完全ガイド 失敗しない7つの基準",
       "tools": [
         {
           "name": "ElevenLabs",
@@ -18,6 +33,15 @@
           "best_for": "YouTube・ナレーション"
         },
         {
+          "name": "にじボイス",
+          "vendor": "Niji",
+          "category": "AI音声合成",
+          "price_jpy": "500-2000",
+          "url": "https://nijivoice.com",
+          "tagline": "感情表現が秀逸な日本語TTS",
+          "best_for": "日本語ナレーション"
+        },
+        {
           "name": "VOICEVOX",
           "vendor": "Hiroshiba",
           "category": "AI音声合成",
@@ -27,21 +51,6 @@
           "best_for": "無料・ゆっくり系"
         }
       ]
-    },
-    {
-      "type": "single_review",
-      "category": "AIデザイン",
-      "key": "single::Figma AI",
-      "title_hint": "Figma AI徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Figma AI",
-        "vendor": "Figma",
-        "category": "AIデザイン",
-        "price_jpy": "0-2000",
-        "url": "https://figma.com",
-        "tagline": "デザインツール統合のAI",
-        "best_for": "UIデザイン・プロトタイプ"
-      }
     }
   ]
 }
