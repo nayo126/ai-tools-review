@@ -12,6 +12,7 @@
   "roundup::AI音声合成",
   "roundup::対話AI比較",
   "single::Canva AI",
+  "single::ChatGPT",
   "single::Copilot",
   "single::Copy.ai",
   "single::DALL-E 3",
@@ -48,6 +49,7 @@
   "vs::Midjourney::Stable Diffusion",
   "vs::Runway Gen-4::Hailuo",
   "vs::Rytr::QuillBot",
+  "vs::Stable Diffusion::Flux",
   "vs::Stable Diffusion::Ideogram",
   "vs::Suno::Soundraw",
   "vs::にじボイス::VOICEVOX"

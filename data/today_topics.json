@@ -1,56 +1,47 @@
 {
-  "picked_at": "2026-08-24T21:00:04.070130+00:00",
+  "picked_at": "2026-08-25T21:00:01.260282+00:00",
   "count": 2,
   "items": [
     {
-      "type": "single_review",
-      "category": "AI動画生成",
-      "key": "single::Kling",
-      "title_hint": "Kling徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "Kling",
-        "vendor": "Kuaishou",
-        "category": "AI動画生成",
-        "price_jpy": "1000-5000",
-        "url": "https://klingai.com",
-        "tagline": "ELO 1位の動画生成AI",
-        "best_for": "短尺動画・コスパ"
-      }
-    },
-    {
-      "type": "buying_guide",
-      "category": "AI音声合成",
-      "key": "guide::AI音声合成",
-      "title_hint": "AI音声合成の選び方完全ガイド 失敗しない7つの基準",
+      "type": "vs_comparison",
+      "category": "AI画像生成",
+      "key": "vs::Stable Diffusion::Flux",
+      "title_hint": "Stable Diffusion vs Flux 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "ElevenLabs",
-          "vendor": "ElevenLabs",
-          "category": "AI音声合成",
-          "price_jpy": "0-3000",
-          "url": "https://elevenlabs.io",
-          "tagline": "多言語・感情豊かな音声合成",
-          "best_for": "YouTube・ナレーション"
+          "name": "Stable Diffusion",
+          "vendor": "Stability AI",
+          "category": "AI画像生成",
+          "price_jpy": "0-2000",
+          "url": "https://stability.ai",
+          "tagline": "ローカル実行可能なOSS画像生成",
+          "best_for": "ローカル運用・カスタム"
         },
         {
-          "name": "にじボイス",
-          "vendor": "Niji",
-          "category": "AI音声合成",
-          "price_jpy": "500-2000",
-          "url": "https://nijivoice.com",
-          "tagline": "感情表現が秀逸な日本語TTS",
-          "best_for": "日本語ナレーション"
-        },
-        {
-          "name": "VOICEVOX",
-          "vendor": "Hiroshiba",
-          "category": "AI音声合成",
-          "price_jpy": "0",
-          "url": "https://voicevox.hiroshiba.jp",
-          "tagline": "完全無料の日本語TTS",
-          "best_for": "無料・ゆっくり系"
+          "name": "Flux",
+          "vendor": "Black Forest Labs",
+          "category": "AI画像生成",
+          "price_jpy": "0-1500",
+          "url": "https://blackforestlabs.ai",
+          "tagline": "写実とコスパの新興",
+          "best_for": "写実・人物"
         }
       ]
+    },
+    {
+      "type": "single_review",
+      "category": "対話AI比較",
+      "key": "single::ChatGPT",
+      "title_hint": "ChatGPT徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "ChatGPT",
+        "vendor": "OpenAI",
+        "category": "対話AI比較",
+        "price_jpy": "0-3000",
+        "url": "https://chat.openai.com",
+        "tagline": "最も普及した汎用対話AI",
+        "best_for": "汎用・学習・コーディング"
+      }
     }
   ]
 }
