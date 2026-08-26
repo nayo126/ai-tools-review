@@ -1,46 +1,46 @@
 {
-  "picked_at": "2026-08-25T21:00:01.260282+00:00",
+  "picked_at": "2026-08-26T21:00:01.599860+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
       "category": "AI画像生成",
-      "key": "vs::Stable Diffusion::Flux",
-      "title_hint": "Stable Diffusion vs Flux 徹底比較 どっちが高校生におすすめ?",
+      "key": "vs::DALL-E 3::Ideogram",
+      "title_hint": "DALL-E 3 vs Ideogram 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Stable Diffusion",
-          "vendor": "Stability AI",
+          "name": "DALL-E 3",
+          "vendor": "OpenAI",
           "category": "AI画像生成",
-          "price_jpy": "0-2000",
-          "url": "https://stability.ai",
-          "tagline": "ローカル実行可能なOSS画像生成",
-          "best_for": "ローカル運用・カスタム"
+          "price_jpy": "3000",
+          "url": "https://openai.com/dall-e",
+          "tagline": "ChatGPT統合の画像生成",
+          "best_for": "プロンプト忠実性"
         },
         {
-          "name": "Flux",
-          "vendor": "Black Forest Labs",
+          "name": "Ideogram",
+          "vendor": "Ideogram AI",
           "category": "AI画像生成",
-          "price_jpy": "0-1500",
-          "url": "https://blackforestlabs.ai",
-          "tagline": "写実とコスパの新興",
-          "best_for": "写実・人物"
+          "price_jpy": "0-2000",
+          "url": "https://ideogram.ai",
+          "tagline": "文字入り画像が綺麗",
+          "best_for": "ロゴ・サムネ・看板"
         }
       ]
     },
     {
       "type": "single_review",
-      "category": "対話AI比較",
-      "key": "single::ChatGPT",
-      "title_hint": "ChatGPT徹底レビュー 料金・機能・使い方・評判",
+      "category": "AIライティング",
+      "key": "single::QuillBot",
+      "title_hint": "QuillBot徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "ChatGPT",
-        "vendor": "OpenAI",
-        "category": "対話AI比較",
-        "price_jpy": "0-3000",
-        "url": "https://chat.openai.com",
-        "tagline": "最も普及した汎用対話AI",
-        "best_for": "汎用・学習・コーディング"
+        "name": "QuillBot",
+        "vendor": "QuillBot",
+        "category": "AIライティング",
+        "price_jpy": "0-1500",
+        "url": "https://quillbot.com",
+        "tagline": "言い換え・校正に特化",
+        "best_for": "英文校正・パラフレーズ"
       }
     }
   ]
