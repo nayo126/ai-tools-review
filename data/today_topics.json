@@ -1,47 +1,76 @@
 {
-  "picked_at": "2026-08-26T21:00:01.599860+00:00",
+  "picked_at": "2026-08-27T21:00:04.091155+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AI画像生成",
-      "key": "vs::DALL-E 3::Ideogram",
-      "title_hint": "DALL-E 3 vs Ideogram 徹底比較 どっちが高校生におすすめ?",
+      "category": "AI動画生成",
+      "key": "vs::Hailuo::Veo 3",
+      "title_hint": "Hailuo vs Veo 3 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "DALL-E 3",
-          "vendor": "OpenAI",
-          "category": "AI画像生成",
-          "price_jpy": "3000",
-          "url": "https://openai.com/dall-e",
-          "tagline": "ChatGPT統合の画像生成",
-          "best_for": "プロンプト忠実性"
+          "name": "Hailuo",
+          "vendor": "MiniMax",
+          "category": "AI動画生成",
+          "price_jpy": "1500",
+          "url": "https://hailuoai.video",
+          "tagline": "1080p/6秒の安価な動画AI",
+          "best_for": "量産・コスト重視"
         },
         {
-          "name": "Ideogram",
-          "vendor": "Ideogram AI",
-          "category": "AI画像生成",
-          "price_jpy": "0-2000",
-          "url": "https://ideogram.ai",
-          "tagline": "文字入り画像が綺麗",
-          "best_for": "ロゴ・サムネ・看板"
+          "name": "Veo 3",
+          "vendor": "Google DeepMind",
+          "category": "AI動画生成",
+          "price_jpy": "3000-15000",
+          "url": "https://deepmind.google/veo",
+          "tagline": "音声同時生成のハイエンド動画AI",
+          "best_for": "音付き動画・高品質"
         }
       ]
     },
     {
-      "type": "single_review",
-      "category": "AIライティング",
-      "key": "single::QuillBot",
-      "title_hint": "QuillBot徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "QuillBot",
-        "vendor": "QuillBot",
-        "category": "AIライティング",
-        "price_jpy": "0-1500",
-        "url": "https://quillbot.com",
-        "tagline": "言い換え・校正に特化",
-        "best_for": "英文校正・パラフレーズ"
-      }
+      "type": "buying_guide",
+      "category": "AI動画生成",
+      "key": "guide::AI動画生成",
+      "title_hint": "AI動画生成の選び方完全ガイド 失敗しない7つの基準",
+      "tools": [
+        {
+          "name": "Kling",
+          "vendor": "Kuaishou",
+          "category": "AI動画生成",
+          "price_jpy": "1000-5000",
+          "url": "https://klingai.com",
+          "tagline": "ELO 1位の動画生成AI",
+          "best_for": "短尺動画・コスパ"
+        },
+        {
+          "name": "Runway Gen-4",
+          "vendor": "Runway",
+          "category": "AI動画生成",
+          "price_jpy": "2000-15000",
+          "url": "https://runwayml.com",
+          "tagline": "映画品質の動画AI",
+          "best_for": "プロ品質・編集統合"
+        },
+        {
+          "name": "Hailuo",
+          "vendor": "MiniMax",
+          "category": "AI動画生成",
+          "price_jpy": "1500",
+          "url": "https://hailuoai.video",
+          "tagline": "1080p/6秒の安価な動画AI",
+          "best_for": "量産・コスト重視"
+        },
+        {
+          "name": "Veo 3",
+          "vendor": "Google DeepMind",
+          "category": "AI動画生成",
+          "price_jpy": "3000-15000",
+          "url": "https://deepmind.google/veo",
+          "tagline": "音声同時生成のハイエンド動画AI",
+          "best_for": "音付き動画・高品質"
+        }
+      ]
     }
   ]
 }
