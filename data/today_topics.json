@@ -1,38 +1,12 @@
 {
-  "picked_at": "2026-08-27T21:00:04.091155+00:00",
+  "picked_at": "2026-08-28T21:00:01.308091+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
       "category": "AI動画生成",
-      "key": "vs::Hailuo::Veo 3",
-      "title_hint": "Hailuo vs Veo 3 徹底比較 どっちが高校生におすすめ?",
-      "tools": [
-        {
-          "name": "Hailuo",
-          "vendor": "MiniMax",
-          "category": "AI動画生成",
-          "price_jpy": "1500",
-          "url": "https://hailuoai.video",
-          "tagline": "1080p/6秒の安価な動画AI",
-          "best_for": "量産・コスト重視"
-        },
-        {
-          "name": "Veo 3",
-          "vendor": "Google DeepMind",
-          "category": "AI動画生成",
-          "price_jpy": "3000-15000",
-          "url": "https://deepmind.google/veo",
-          "tagline": "音声同時生成のハイエンド動画AI",
-          "best_for": "音付き動画・高品質"
-        }
-      ]
-    },
-    {
-      "type": "buying_guide",
-      "category": "AI動画生成",
-      "key": "guide::AI動画生成",
-      "title_hint": "AI動画生成の選び方完全ガイド 失敗しない7つの基準",
+      "key": "vs::Kling::Runway Gen-4",
+      "title_hint": "Kling vs Runway Gen-4 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
           "name": "Kling",
@@ -51,26 +25,23 @@
           "url": "https://runwayml.com",
           "tagline": "映画品質の動画AI",
           "best_for": "プロ品質・編集統合"
-        },
-        {
-          "name": "Hailuo",
-          "vendor": "MiniMax",
-          "category": "AI動画生成",
-          "price_jpy": "1500",
-          "url": "https://hailuoai.video",
-          "tagline": "1080p/6秒の安価な動画AI",
-          "best_for": "量産・コスト重視"
-        },
-        {
-          "name": "Veo 3",
-          "vendor": "Google DeepMind",
-          "category": "AI動画生成",
-          "price_jpy": "3000-15000",
-          "url": "https://deepmind.google/veo",
-          "tagline": "音声同時生成のハイエンド動画AI",
-          "best_for": "音付き動画・高品質"
         }
       ]
+    },
+    {
+      "type": "single_review",
+      "category": "AI音声合成",
+      "key": "single::にじボイス",
+      "title_hint": "にじボイス徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "にじボイス",
+        "vendor": "Niji",
+        "category": "AI音声合成",
+        "price_jpy": "500-2000",
+        "url": "https://nijivoice.com",
+        "tagline": "感情表現が秀逸な日本語TTS",
+        "best_for": "日本語ナレーション"
+      }
     }
   ]
 }
