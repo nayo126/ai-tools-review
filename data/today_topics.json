@@ -1,47 +1,47 @@
 {
-  "picked_at": "2026-08-28T21:00:01.308091+00:00",
+  "picked_at": "2026-09-01T21:00:04.167088+00:00",
   "count": 2,
   "items": [
     {
-      "type": "vs_comparison",
-      "category": "AI動画生成",
-      "key": "vs::Kling::Runway Gen-4",
-      "title_hint": "Kling vs Runway Gen-4 徹底比較 どっちが高校生におすすめ?",
-      "tools": [
-        {
-          "name": "Kling",
-          "vendor": "Kuaishou",
-          "category": "AI動画生成",
-          "price_jpy": "1000-5000",
-          "url": "https://klingai.com",
-          "tagline": "ELO 1位の動画生成AI",
-          "best_for": "短尺動画・コスパ"
-        },
-        {
-          "name": "Runway Gen-4",
-          "vendor": "Runway",
-          "category": "AI動画生成",
-          "price_jpy": "2000-15000",
-          "url": "https://runwayml.com",
-          "tagline": "映画品質の動画AI",
-          "best_for": "プロ品質・編集統合"
-        }
-      ]
+      "type": "single_review",
+      "category": "AIプロダクティビティ",
+      "key": "single::AIVA",
+      "title_hint": "AIVA徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "AIVA",
+        "vendor": "AIVA Technologies",
+        "category": "AIプロダクティビティ",
+        "price_jpy": "0-1700",
+        "url": "https://aiva.ai",
+        "tagline": "クラシック・映像向けAI作曲",
+        "best_for": "クラシック・ループBGM"
+      }
     },
     {
-      "type": "single_review",
-      "category": "AI音声合成",
-      "key": "single::にじボイス",
-      "title_hint": "にじボイス徹底レビュー 料金・機能・使い方・評判",
-      "tool": {
-        "name": "にじボイス",
-        "vendor": "Niji",
-        "category": "AI音声合成",
-        "price_jpy": "500-2000",
-        "url": "https://nijivoice.com",
-        "tagline": "感情表現が秀逸な日本語TTS",
-        "best_for": "日本語ナレーション"
-      }
+      "type": "vs_comparison",
+      "category": "AIコード補完",
+      "key": "vs::GitHub Copilot::Windsurf",
+      "title_hint": "GitHub Copilot vs Windsurf 徹底比較 どっちが高校生におすすめ?",
+      "tools": [
+        {
+          "name": "GitHub Copilot",
+          "vendor": "GitHub",
+          "category": "AIコード補完",
+          "price_jpy": "1500-3000",
+          "url": "https://github.com/copilot",
+          "tagline": "IDEで使える老舗のコード補完AI",
+          "best_for": "VSCode/JetBrains統合"
+        },
+        {
+          "name": "Windsurf",
+          "vendor": "Codeium",
+          "category": "AIコード補完",
+          "price_jpy": "0-2200",
+          "url": "https://codeium.com/windsurf",
+          "tagline": "エージェント型のAIエディタ",
+          "best_for": "自動コーディング"
+        }
+      ]
     }
   ]
 }
