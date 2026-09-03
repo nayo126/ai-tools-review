@@ -1,46 +1,46 @@
 {
-  "picked_at": "2026-09-02T21:00:04.389675+00:00",
+  "picked_at": "2026-09-03T21:00:03.783084+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "対話AI比較",
-      "key": "vs::ChatGPT::Gemini",
-      "title_hint": "ChatGPT vs Gemini 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIコード補完",
+      "key": "vs::Windsurf::Claude Code",
+      "title_hint": "Windsurf vs Claude Code 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "ChatGPT",
-          "vendor": "OpenAI",
-          "category": "対話AI比較",
-          "price_jpy": "0-3000",
-          "url": "https://chat.openai.com",
-          "tagline": "最も普及した汎用対話AI",
-          "best_for": "汎用・学習・コーディング"
+          "name": "Windsurf",
+          "vendor": "Codeium",
+          "category": "AIコード補完",
+          "price_jpy": "0-2200",
+          "url": "https://codeium.com/windsurf",
+          "tagline": "エージェント型のAIエディタ",
+          "best_for": "自動コーディング"
         },
         {
-          "name": "Gemini",
-          "vendor": "Google",
-          "category": "対話AI比較",
-          "price_jpy": "0-2900",
-          "url": "https://gemini.google.com",
-          "tagline": "Google統合・無料枠が広い",
-          "best_for": "検索連携・無料利用"
+          "name": "Claude Code",
+          "vendor": "Anthropic",
+          "category": "AIコード補完",
+          "price_jpy": "0-3000",
+          "url": "https://www.anthropic.com/claude-code",
+          "tagline": "CLIで動くClaude公式コーディングエージェント",
+          "best_for": "ターミナル開発"
         }
       ]
     },
     {
       "type": "single_review",
-      "category": "AIプロダクティビティ",
-      "key": "single::Soundraw",
-      "title_hint": "Soundraw徹底レビュー 料金・機能・使い方・評判",
+      "category": "AIライティング",
+      "key": "single::Jasper",
+      "title_hint": "Jasper徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "Soundraw",
-        "vendor": "Soundraw",
-        "category": "AIプロダクティビティ",
-        "price_jpy": "2550",
-        "url": "https://soundraw.io",
-        "tagline": "ロイヤリティフリーのAI音楽",
-        "best_for": "YouTube安全BGM"
+        "name": "Jasper",
+        "vendor": "Jasper AI",
+        "category": "AIライティング",
+        "price_jpy": "5000-10000",
+        "url": "https://jasper.ai",
+        "tagline": "マーケ向けライティングAI",
+        "best_for": "コピーライティング"
       }
     }
   ]
