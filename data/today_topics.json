@@ -1,46 +1,46 @@
 {
-  "picked_at": "2026-09-03T21:00:03.783084+00:00",
+  "picked_at": "2026-09-06T21:00:02.703996+00:00",
   "count": 2,
   "items": [
     {
       "type": "vs_comparison",
-      "category": "AIコード補完",
-      "key": "vs::Windsurf::Claude Code",
-      "title_hint": "Windsurf vs Claude Code 徹底比較 どっちが高校生におすすめ?",
+      "category": "AIプロダクティビティ",
+      "key": "vs::Soundraw::Notion AI",
+      "title_hint": "Soundraw vs Notion AI 徹底比較 どっちが高校生におすすめ?",
       "tools": [
         {
-          "name": "Windsurf",
-          "vendor": "Codeium",
-          "category": "AIコード補完",
-          "price_jpy": "0-2200",
-          "url": "https://codeium.com/windsurf",
-          "tagline": "エージェント型のAIエディタ",
-          "best_for": "自動コーディング"
+          "name": "Soundraw",
+          "vendor": "Soundraw",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "2550",
+          "url": "https://soundraw.io",
+          "tagline": "ロイヤリティフリーのAI音楽",
+          "best_for": "YouTube安全BGM"
         },
         {
-          "name": "Claude Code",
-          "vendor": "Anthropic",
-          "category": "AIコード補完",
-          "price_jpy": "0-3000",
-          "url": "https://www.anthropic.com/claude-code",
-          "tagline": "CLIで動くClaude公式コーディングエージェント",
-          "best_for": "ターミナル開発"
+          "name": "Notion AI",
+          "vendor": "Notion",
+          "category": "AIプロダクティビティ",
+          "price_jpy": "1500-2500",
+          "url": "https://notion.so",
+          "tagline": "Notion統合のドキュメントAI",
+          "best_for": "ノート・タスク・要約"
         }
       ]
     },
     {
       "type": "single_review",
-      "category": "AIライティング",
-      "key": "single::Jasper",
-      "title_hint": "Jasper徹底レビュー 料金・機能・使い方・評判",
+      "category": "AIコード補完",
+      "key": "single::Claude Code",
+      "title_hint": "Claude Code徹底レビュー 料金・機能・使い方・評判",
       "tool": {
-        "name": "Jasper",
-        "vendor": "Jasper AI",
-        "category": "AIライティング",
-        "price_jpy": "5000-10000",
-        "url": "https://jasper.ai",
-        "tagline": "マーケ向けライティングAI",
-        "best_for": "コピーライティング"
+        "name": "Claude Code",
+        "vendor": "Anthropic",
+        "category": "AIコード補完",
+        "price_jpy": "0-3000",
+        "url": "https://www.anthropic.com/claude-code",
+        "tagline": "CLIで動くClaude公式コーディングエージェント",
+        "best_for": "ターミナル開発"
       }
     }
   ]
