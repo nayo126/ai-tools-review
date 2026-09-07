@@ -1,6 +1,7 @@
 [
   "guide::AIコード補完",
   "guide::AIデザイン",
+  "guide::AIプロダクティビティ",
   "guide::AIライティング",
   "guide::AI動画生成",
   "guide::AI翻訳",
@@ -53,6 +54,7 @@
   "vs::Hailuo::Veo 3",
   "vs::Ideogram::Flux",
   "vs::Jasper::Catchy",
+  "vs::Jasper::Copy.ai",
   "vs::Jasper::QuillBot",
   "vs::Kling::Hailuo",
   "vs::Kling::Runway Gen-4",
