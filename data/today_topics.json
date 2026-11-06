@@ -1,65 +1,12 @@
 {
-  "picked_at": "2026-09-07T21:00:03.867784+00:00",
+  "picked_at": "2026-11-06T21:00:02.960119+00:00",
   "count": 2,
   "items": [
     {
-      "type": "buying_guide",
-      "category": "AIプロダクティビティ",
-      "key": "guide::AIプロダクティビティ",
-      "title_hint": "AIプロダクティビティの選び方完全ガイド 失敗しない7つの基準",
-      "tools": [
-        {
-          "name": "Copilot",
-          "vendor": "Microsoft",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "0-3500",
-          "url": "https://copilot.microsoft.com",
-          "tagline": "Office統合の生産性AI",
-          "best_for": "Excel/Word/PPT自動化"
-        },
-        {
-          "name": "Suno",
-          "vendor": "Suno AI",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "0-1500",
-          "url": "https://suno.com",
-          "tagline": "AI音楽生成の決定版",
-          "best_for": "BGM・楽曲制作"
-        },
-        {
-          "name": "AIVA",
-          "vendor": "AIVA Technologies",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "0-1700",
-          "url": "https://aiva.ai",
-          "tagline": "クラシック・映像向けAI作曲",
-          "best_for": "クラシック・ループBGM"
-        },
-        {
-          "name": "Soundraw",
-          "vendor": "Soundraw",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "2550",
-          "url": "https://soundraw.io",
-          "tagline": "ロイヤリティフリーのAI音楽",
-          "best_for": "YouTube安全BGM"
-        },
-        {
-          "name": "Notion AI",
-          "vendor": "Notion",
-          "category": "AIプロダクティビティ",
-          "price_jpy": "1500-2500",
-          "url": "https://notion.so",
-          "tagline": "Notion統合のドキュメントAI",
-          "best_for": "ノート・タスク・要約"
-        }
-      ]
-    },
-    {
-      "type": "vs_comparison",
+      "type": "category_roundup",
       "category": "AIライティング",
-      "key": "vs::Jasper::Copy.ai",
-      "title_hint": "Jasper vs Copy.ai 徹底比較 どっちが高校生におすすめ?",
+      "key": "roundup::AIライティング",
+      "title_hint": "【2026最新】AIライティングおすすめ5選 用途別の選び方",
       "tools": [
         {
           "name": "Jasper",
@@ -78,8 +25,50 @@
           "url": "https://copy.ai",
           "tagline": "短文コピー生成に強い",
           "best_for": "広告コピー"
+        },
+        {
+          "name": "Catchy",
+          "vendor": "Catchy Inc",
+          "category": "AIライティング",
+          "price_jpy": "0-7000",
+          "url": "https://lp.ai-copywriter.jp",
+          "tagline": "日本発のAIライティング",
+          "best_for": "日本語コピー"
+        },
+        {
+          "name": "Rytr",
+          "vendor": "Rytr",
+          "category": "AIライティング",
+          "price_jpy": "0-1500",
+          "url": "https://rytr.me",
+          "tagline": "コスパ重視のライティングAI",
+          "best_for": "ブログ・SNS"
+        },
+        {
+          "name": "QuillBot",
+          "vendor": "QuillBot",
+          "category": "AIライティング",
+          "price_jpy": "0-1500",
+          "url": "https://quillbot.com",
+          "tagline": "言い換え・校正に特化",
+          "best_for": "英文校正・パラフレーズ"
         }
       ]
+    },
+    {
+      "type": "single_review",
+      "category": "AIコード補完",
+      "key": "single::GitHub Copilot",
+      "title_hint": "GitHub Copilot徹底レビュー 料金・機能・使い方・評判",
+      "tool": {
+        "name": "GitHub Copilot",
+        "vendor": "GitHub",
+        "category": "AIコード補完",
+        "price_jpy": "1500-3000",
+        "url": "https://github.com/copilot",
+        "tagline": "IDEで使える老舗のコード補完AI",
+        "best_for": "VSCode/JetBrains統合"
+      }
     }
   ]
 }
